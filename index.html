@@ -25,14 +25,22 @@
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Martian+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
 <script type="application/ld+json">
-{ "@context": "https://schema.org", "@type": "WebSite", "name": "The Voice AI Index",
-  "url": "https://voice.kymatalabs.com/",
-  "description": "A living index of voice and speech AI tooling, ranked by momentum from live GitHub signals.",
-  "publisher": { "@type": "Organization", "name": "The Voice AI Index" } }
+{"@context": "https://schema.org", "@type": "WebSite", "name": "The Voice AI Index", "url": "https://voice.kymatalabs.com/", "description": "A living index of voice and speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents, toolkits and enhancement — ranked daily by momentum from live GitHub signals.", "publisher": {"@type": "Organization", "name": "Kymata Labs LLC", "url": "https://www.kymatalabs.com"}, "isPartOf": {"@type": "WebSite", "name": "The Living Indexes", "url": "https://indexes.kymatalabs.com/"}}
 </script>
 <script>var t;try{t=localStorage.getItem('vfx-theme')}catch(e){}if(t)document.documentElement.setAttribute('data-theme',t);</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is The Voice AI Index?", "acceptedAnswer": {"@type": "Answer", "text": "The Voice AI Index is a living, self-updating directory of 299 open-source voice & speech AI tools — spanning Speech-to-Text, Text-to-Speech, Voice Cloning & Conversion, Enhancement & Analysis, Toolkits & Frameworks and Voice Agents & Realtime. Each tool is scored by momentum and re-ranked every day from live GitHub signals (stars, push-recency, and how fast it is rising), so the index surfaces what is actually gaining traction now rather than what was popular years ago. It is one of The Living Indexes, a fleet of self-updating maps of the AI-builder ecosystem, built and operated end-to-end by Kymata Labs' AI agents."}}, {"@type": "Question", "name": "How is momentum scored?", "acceptedAnswer": {"@type": "Answer", "text": "Momentum is a 0–100 score that blends log-scaled GitHub stars (55%), push-recency (32%, full credit if pushed today, decaying to zero by about 180 days), and rising-newness (13%, a bonus for young repositories gaining stars fast). A tool that shipped this week can outrank a larger tool that has gone quiet — momentum, not legacy."}}, {"@type": "Question", "name": "What categories does The Voice AI Index cover?", "acceptedAnswer": {"@type": "Answer", "text": "6 categories: Speech-to-Text, Text-to-Speech, Voice Cloning & Conversion, Enhancement & Analysis, Toolkits & Frameworks and Voice Agents & Realtime. The index covers active, open-source voice & speech AI tooling — ranked by momentum, not marketing."}}, {"@type": "Question", "name": "How often is The Voice AI Index updated?", "acceptedAnswer": {"@type": "Answer", "text": "Every day. A GitHub Action recomputes each tool's momentum from live GitHub signals and republishes the site automatically, with no human in the loop — so the index reflects the ecosystem as it is today, not last year."}}]}
+</script>
 </head>
 <body>
+<div class="kstrip"><div class="wrap">
+  <a href="https://www.kymatalabs.com" target="_blank" rel="noopener"><span class="dot"></span>Kymata Labs</a>
+  <span class="sep">/</span>
+  <a href="https://indexes.kymatalabs.com" target="_blank" rel="noopener">The Living Indexes</a>
+  <span class="grow"></span>
+  <a href="https://www.kymatalabs.com/live" target="_blank" rel="noopener">Built by tekvisions ↗</a>
+</div></div>
+
 <header><div class="wrap head-row">
   <div class="brand"><a href="/"><span class="node"><i></i><i></i><i></i><i></i></span><span class="disp">Voice <em>Index</em></span></a></div>
   <div class="head-actions">
@@ -74,6 +82,16 @@
     <div class="meta-line" id="metaline">tuning the index…</div>
     <div class="grid" id="grid"></div>
   </div>
+  <section class="about"><div class="wrap">
+    <h2 class="disp">About the Voice AI Index</h2>
+    <p class="intro">The Voice AI Index is a living, self-updating directory of 299 open-source voice &amp; speech AI tools, spanning Speech-to-Text, Text-to-Speech, Voice Cloning &amp; Conversion, Enhancement &amp; Analysis, Toolkits &amp; Frameworks and Voice Agents &amp; Realtime. Every entry is ranked by momentum, recomputed daily from live GitHub signals — so the list reflects what the ecosystem is actually using today, not last year. It is one of <a href="https://indexes.kymatalabs.com">The Living Indexes</a>, a fleet built and operated end-to-end by Kymata Labs' AI agents.</p>
+    <div class="faq">
+      <div class="q"><h3>How is momentum scored?</h3><p>A 0–100 score blending log-scaled stars (55%), push-recency (32%, decaying to zero by ~180 days), and rising-newness (13%). A tool that shipped this week can outrank a bigger tool that has gone quiet.</p></div>
+      <div class="q"><h3>What's included?</h3><p>6 categories — Speech-to-Text, Text-to-Speech, Voice Cloning &amp; Conversion, Enhancement &amp; Analysis, Toolkits &amp; Frameworks and Voice Agents &amp; Realtime — covering voice &amp; speech AI end to end. Active tools only, not abandoned repos.</p></div>
+      <div class="q"><h3>How often is it updated?</h3><p>Every day. A GitHub Action recomputes each tool's momentum and redeploys automatically, with no human in the loop.</p></div>
+      <div class="q"><h3>Part of The Living Indexes</h3><p>A fleet of self-updating maps of the AI-builder ecosystem — from RAG and diffusion to voice, evals and fine-tuning. Explore them all at <a href="https://indexes.kymatalabs.com">indexes.kymatalabs.com</a>.</p></div>
+    </div>
+  </div></section>
 </main>
 
 <footer><div class="wrap foot-row">
@@ -83,7 +101,7 @@
   </div>
   <div class="links">
     <a href="/sitemap.xml">Sitemap</a><a href="/rss.xml">RSS feed</a>
-    <a href="/llms.txt">llms.txt</a>
+    <a href="/llms.txt">llms.txt</a><a href="/ai.txt">ai.txt</a>
     <a href="https://indexes.kymatalabs.com" target="_blank" rel="noopener">↗ The Living Indexes</a>
     <a href="https://www.kymatalabs.com/live" target="_blank" rel="noopener">Built by tekvisions →</a>
   </div>
