@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T10:48:59.461045+00:00",
+ "generated_at": "2026-07-26T10:56:13.153380+00:00",
  "count": 293,
  "categories": [
   {
@@ -11,11 +11,11 @@
    "count": 50
   },
   {
-   "name": "Toolkits & Frameworks",
+   "name": "Voice Agents & Realtime",
    "count": 46
   },
   {
-   "name": "Voice Agents & Realtime",
+   "name": "Toolkits & Frameworks",
    "count": 45
   },
   {
@@ -35,12 +35,12 @@
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "owner": "harry0703",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4928832?v=4",
-   "stars": 99207,
-   "forks": 14700,
-   "open_issues": 3,
+   "stars": 99336,
+   "forks": 14733,
+   "open_issues": 5,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-24T09:33:23Z",
+   "pushed_at": "2026-07-26T10:27:43Z",
    "created_at": "2024-03-11T02:57:34Z",
    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
    "topics": [
@@ -70,7 +70,7 @@
    "url": "https://github.com/RVC-Boss/GPT-SoVITS",
    "owner": "RVC-Boss",
    "owner_avatar": "https://avatars.githubusercontent.com/u/129054828?v=4",
-   "stars": 60099,
+   "stars": 60126,
    "forks": 6546,
    "open_issues": 874,
    "language": "Python",
@@ -97,9 +97,9 @@
    "url": "https://github.com/jamiepine/voicebox",
    "owner": "jamiepine",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32987599?v=4",
-   "stars": 46587,
-   "forks": 5706,
-   "open_issues": 590,
+   "stars": 46823,
+   "forks": 5741,
+   "open_issues": 594,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-07-21T19:35:46Z",
@@ -120,14 +120,41 @@
    "rank": 3
   },
   {
+   "name": "whisper.cpp",
+   "full_name": "ggml-org/whisper.cpp",
+   "slug": "ggml-org-whisper-cpp",
+   "url": "https://github.com/ggml-org/whisper.cpp",
+   "owner": "ggml-org",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/134263123?v=4",
+   "stars": 52309,
+   "forks": 5895,
+   "open_issues": 1228,
+   "language": "C++",
+   "license": "MIT",
+   "pushed_at": "2026-07-11T15:53:59Z",
+   "created_at": "2022-09-25T18:26:37Z",
+   "description": "Port of OpenAI's Whisper model in C/C++",
+   "topics": [
+    "inference",
+    "openai",
+    "speech-recognition",
+    "speech-to-text",
+    "transformer",
+    "whisper"
+   ],
+   "category": "Speech-to-Text",
+   "momentum": 81,
+   "rank": 4
+  },
+  {
    "name": "Retrieval-based-Voice-Conversion-WebUI",
    "full_name": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
    "slug": "rvc-project-retrieval-based-voice-conversion-webui",
    "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
    "owner": "RVC-Project",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131328897?v=4",
-   "stars": 36687,
-   "forks": 5152,
+   "stars": 36716,
+   "forks": 5154,
    "open_issues": 554,
    "language": "Python",
    "license": "MIT",
@@ -153,35 +180,36 @@
     "voiceconversion"
    ],
    "category": "Voice Cloning & Conversion",
-   "momentum": 82,
-   "rank": 4
-  },
-  {
-   "name": "whisper.cpp",
-   "full_name": "ggml-org/whisper.cpp",
-   "slug": "ggml-org-whisper-cpp",
-   "url": "https://github.com/ggml-org/whisper.cpp",
-   "owner": "ggml-org",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/134263123?v=4",
-   "stars": 52283,
-   "forks": 5879,
-   "open_issues": 1226,
-   "language": "C++",
-   "license": "MIT",
-   "pushed_at": "2026-07-11T15:53:59Z",
-   "created_at": "2022-09-25T18:26:37Z",
-   "description": "Port of OpenAI's Whisper model in C/C++",
-   "topics": [
-    "inference",
-    "openai",
-    "speech-recognition",
-    "speech-to-text",
-    "transformer",
-    "whisper"
-   ],
-   "category": "Speech-to-Text",
    "momentum": 81,
    "rank": 5
+  },
+  {
+   "name": "fish-speech",
+   "full_name": "fishaudio/fish-speech",
+   "slug": "fishaudio-fish-speech",
+   "url": "https://github.com/fishaudio/fish-speech",
+   "owner": "fishaudio",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/122017386?v=4",
+   "stars": 31379,
+   "forks": 2694,
+   "open_issues": 13,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-26T08:06:33Z",
+   "created_at": "2023-10-10T03:16:51Z",
+   "description": "SOTA Open Source TTS",
+   "topics": [
+    "llama",
+    "transformer",
+    "tts",
+    "valle",
+    "vits",
+    "vqgan",
+    "vqvae"
+   ],
+   "category": "Text-to-Speech",
+   "momentum": 81,
+   "rank": 6
   },
   {
    "name": "Handy",
@@ -190,9 +218,9 @@
    "url": "https://github.com/cjpais/Handy",
    "owner": "cjpais",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1559480?v=4",
-   "stars": 27439,
-   "forks": 2376,
-   "open_issues": 179,
+   "stars": 27538,
+   "forks": 2389,
+   "open_issues": 180,
    "language": "Rust",
    "license": "MIT",
    "pushed_at": "2026-07-25T09:46:50Z",
@@ -205,42 +233,7 @@
     "tauri-v2"
    ],
    "category": "Speech-to-Text",
-   "momentum": 81,
-   "rank": 6
-  },
-  {
-   "name": "VoxCPM",
-   "full_name": "OpenBMB/VoxCPM",
-   "slug": "openbmb-voxcpm",
-   "url": "https://github.com/OpenBMB/VoxCPM",
-   "owner": "OpenBMB",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
-   "stars": 34166,
-   "forks": 3907,
-   "open_issues": 97,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-08T09:46:11Z",
-   "created_at": "2025-09-16T03:41:49Z",
-   "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-   "topics": [
-    "audio",
-    "deeplearning",
-    "minicpm",
-    "multilingual",
-    "python",
-    "pytorch",
-    "speech",
-    "speech-synthesis",
-    "text-to-speech",
-    "tts",
-    "tts-model",
-    "voice-cloning",
-    "voice-design",
-    "voxcpm"
-   ],
-   "category": "Text-to-Speech",
-   "momentum": 79,
+   "momentum": 80,
    "rank": 7
   },
   {
@@ -250,12 +243,12 @@
    "url": "https://github.com/DrewThomasson/ebook2audiobook",
    "owner": "DrewThomasson",
    "owner_avatar": "https://avatars.githubusercontent.com/u/126999465?v=4",
-   "stars": 19568,
+   "stars": 19572,
    "forks": 1649,
-   "open_issues": 2,
+   "open_issues": 3,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T15:32:47Z",
+   "pushed_at": "2026-07-26T05:21:07Z",
    "created_at": "2024-01-22T23:49:55Z",
    "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
    "topics": [
@@ -281,58 +274,39 @@
    "rank": 8
   },
   {
-   "name": "whisperX",
-   "full_name": "m-bain/whisperX",
-   "slug": "m-bain-whisperx",
-   "url": "https://github.com/m-bain/whisperX",
-   "owner": "m-bain",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/36994049?v=4",
-   "stars": 23247,
-   "forks": 2355,
-   "open_issues": 203,
+   "name": "VoxCPM",
+   "full_name": "OpenBMB/VoxCPM",
+   "slug": "openbmb-voxcpm",
+   "url": "https://github.com/OpenBMB/VoxCPM",
+   "owner": "OpenBMB",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
+   "stars": 34220,
+   "forks": 3911,
+   "open_issues": 98,
    "language": "Python",
-   "license": "BSD-2-Clause",
-   "pushed_at": "2026-07-13T08:30:07Z",
-   "created_at": "2022-12-09T02:34:23Z",
-   "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-08T09:46:11Z",
+   "created_at": "2025-09-16T03:41:49Z",
+   "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
    "topics": [
-    "asr",
+    "audio",
+    "deeplearning",
+    "minicpm",
+    "multilingual",
+    "python",
+    "pytorch",
     "speech",
-    "speech-recognition",
-    "speech-to-text",
-    "whisper"
-   ],
-   "category": "Enhancement & Analysis",
-   "momentum": 78,
-   "rank": 9
-  },
-  {
-   "name": "index-tts",
-   "full_name": "index-tts/index-tts",
-   "slug": "index-tts-index-tts",
-   "url": "https://github.com/index-tts/index-tts",
-   "owner": "index-tts",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/196291161?v=4",
-   "stars": 22141,
-   "forks": 2701,
-   "open_issues": 369,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-14T11:43:37Z",
-   "created_at": "2025-02-06T04:08:05Z",
-   "description": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
-   "topics": [
-    "bigvgan",
-    "cross-lingual",
-    "indextts",
+    "speech-synthesis",
     "text-to-speech",
     "tts",
-    "voice-clone",
-    "zero-shot-tts"
+    "tts-model",
+    "voice-cloning",
+    "voice-design",
+    "voxcpm"
    ],
    "category": "Text-to-Speech",
    "momentum": 78,
-   "rank": 10
+   "rank": 9
   },
   {
    "name": "pyvideotrans",
@@ -341,9 +315,9 @@
    "url": "https://github.com/jianchang512/pyvideotrans",
    "owner": "jianchang512",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3378335?v=4",
-   "stars": 18436,
-   "forks": 2280,
-   "open_issues": 11,
+   "stars": 18443,
+   "forks": 2282,
+   "open_issues": 10,
    "language": "Python",
    "license": "GPL-3.0",
    "pushed_at": "2026-07-24T05:45:00Z",
@@ -356,7 +330,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 78,
-   "rank": 11
+   "rank": 10
   },
   {
    "name": "Speech",
@@ -365,12 +339,12 @@
    "url": "https://github.com/NVIDIA-NeMo/Speech",
    "owner": "NVIDIA-NeMo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/213689629?v=4",
-   "stars": 17816,
-   "forks": 3518,
+   "stars": 17822,
+   "forks": 3519,
    "open_issues": 237,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T03:00:25Z",
+   "pushed_at": "2026-07-26T00:55:10Z",
    "created_at": "2019-08-05T20:16:42Z",
    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
    "topics": [
@@ -387,7 +361,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 78,
-   "rank": 12
+   "rank": 11
   },
   {
    "name": "leon",
@@ -396,7 +370,7 @@
    "url": "https://github.com/leon-ai/leon",
    "owner": "leon-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35167224?v=4",
-   "stars": 17382,
+   "stars": 17383,
    "forks": 1452,
    "open_issues": 109,
    "language": "TypeScript",
@@ -428,7 +402,61 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 78,
+   "rank": 12
+  },
+  {
+   "name": "whisperX",
+   "full_name": "m-bain/whisperX",
+   "slug": "m-bain-whisperx",
+   "url": "https://github.com/m-bain/whisperX",
+   "owner": "m-bain",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/36994049?v=4",
+   "stars": 23267,
+   "forks": 2357,
+   "open_issues": 204,
+   "language": "Python",
+   "license": "BSD-2-Clause",
+   "pushed_at": "2026-07-13T08:30:07Z",
+   "created_at": "2022-12-09T02:34:23Z",
+   "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+   "topics": [
+    "asr",
+    "speech",
+    "speech-recognition",
+    "speech-to-text",
+    "whisper"
+   ],
+   "category": "Enhancement & Analysis",
+   "momentum": 77,
    "rank": 13
+  },
+  {
+   "name": "index-tts",
+   "full_name": "index-tts/index-tts",
+   "slug": "index-tts-index-tts",
+   "url": "https://github.com/index-tts/index-tts",
+   "owner": "index-tts",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/196291161?v=4",
+   "stars": 22162,
+   "forks": 2703,
+   "open_issues": 369,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-14T11:43:37Z",
+   "created_at": "2025-02-06T04:08:05Z",
+   "description": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
+   "topics": [
+    "bigvgan",
+    "cross-lingual",
+    "indextts",
+    "text-to-speech",
+    "tts",
+    "voice-clone",
+    "zero-shot-tts"
+   ],
+   "category": "Text-to-Speech",
+   "momentum": 77,
+   "rank": 14
   },
   {
    "name": "sherpa-onnx",
@@ -437,7 +465,7 @@
    "url": "https://github.com/k2-fsa/sherpa-onnx",
    "owner": "k2-fsa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/71431748?v=4",
-   "stars": 13781,
+   "stars": 13790,
    "forks": 1586,
    "open_issues": 619,
    "language": "C++",
@@ -469,7 +497,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 77,
-   "rank": 14
+   "rank": 15
   },
   {
    "name": "pipecat",
@@ -478,12 +506,12 @@
    "url": "https://github.com/pipecat-ai/pipecat",
    "owner": "pipecat-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/169612734?v=4",
-   "stars": 13697,
-   "forks": 2364,
-   "open_issues": 220,
+   "stars": 13720,
+   "forks": 2370,
+   "open_issues": 222,
    "language": "Python",
    "license": "BSD-2-Clause",
-   "pushed_at": "2026-07-25T03:05:48Z",
+   "pushed_at": "2026-07-25T15:03:28Z",
    "created_at": "2023-12-27T12:59:00Z",
    "description": "Open Source framework for voice and multimodal conversational AI",
    "topics": [
@@ -496,7 +524,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 77,
-   "rank": 15
+   "rank": 16
   },
   {
    "name": "supertonic",
@@ -505,8 +533,8 @@
    "url": "https://github.com/supertone-inc/supertonic",
    "owner": "supertone-inc",
    "owner_avatar": "https://avatars.githubusercontent.com/u/61007505?v=4",
-   "stars": 13508,
-   "forks": 1400,
+   "stars": 13513,
+   "forks": 1404,
    "open_issues": 126,
    "language": "Swift",
    "license": "MIT",
@@ -537,7 +565,46 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 77,
-   "rank": 16
+   "rank": 17
+  },
+  {
+   "name": "OmniVoice-Studio",
+   "full_name": "debpalash/OmniVoice-Studio",
+   "slug": "debpalash-omnivoice-studio",
+   "url": "https://github.com/debpalash/OmniVoice-Studio",
+   "owner": "debpalash",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4178343?v=4",
+   "stars": 9079,
+   "forks": 1469,
+   "open_issues": 24,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-07-26T10:51:19Z",
+   "created_at": "2026-04-09T21:40:26Z",
+   "description": "Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.",
+   "topics": [
+    "asr",
+    "audiobook",
+    "dubbing",
+    "dubbing-ai",
+    "elevenlabs",
+    "local-ai",
+    "omnivoice",
+    "omnivoice-studio",
+    "self-hosted",
+    "speech-recognition",
+    "speech-to-text",
+    "text-to-speech",
+    "transcription",
+    "tts",
+    "video-editing",
+    "voice-ai",
+    "voice-cloning",
+    "voice-generation"
+   ],
+   "category": "Voice Cloning & Conversion",
+   "momentum": 77,
+   "rank": 18
   },
   {
    "name": "PaddleSpeech",
@@ -546,8 +613,8 @@
    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
    "owner": "PaddlePaddle",
    "owner_avatar": "https://avatars.githubusercontent.com/u/23534030?v=4",
-   "stars": 12650,
-   "forks": 1963,
+   "stars": 12654,
+   "forks": 1964,
    "open_issues": 274,
    "language": "Python",
    "license": "Apache-2.0",
@@ -578,7 +645,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 76,
-   "rank": 17
+   "rank": 19
   },
   {
    "name": "agents",
@@ -587,12 +654,12 @@
    "url": "https://github.com/livekit/agents",
    "owner": "livekit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/69438833?v=4",
-   "stars": 11497,
-   "forks": 3379,
-   "open_issues": 694,
+   "stars": 11506,
+   "forks": 3383,
+   "open_issues": 695,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T02:06:00Z",
+   "pushed_at": "2026-07-25T17:51:04Z",
    "created_at": "2023-10-19T23:00:55Z",
    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
    "topics": [
@@ -605,7 +672,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 76,
-   "rank": 18
+   "rank": 20
   },
   {
    "name": "ten-framework",
@@ -614,8 +681,8 @@
    "url": "https://github.com/TEN-framework/ten-framework",
    "owner": "TEN-framework",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113095513?v=4",
-   "stars": 10965,
-   "forks": 1333,
+   "stars": 10968,
+   "forks": 1334,
    "open_issues": 213,
    "language": "Python",
    "license": "NOASSERTION",
@@ -631,7 +698,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 76,
-   "rank": 19
+   "rank": 21
   },
   {
    "name": "KrillinAI",
@@ -640,7 +707,7 @@
    "url": "https://github.com/krillinai/KrillinAI",
    "owner": "krillinai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2386538?v=4",
-   "stars": 10546,
+   "stars": 10555,
    "forks": 981,
    "open_issues": 31,
    "language": "Go",
@@ -657,7 +724,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 76,
-   "rank": 20
+   "rank": 22
   },
   {
    "name": "moonshine",
@@ -666,12 +733,12 @@
    "url": "https://github.com/moonshine-ai/moonshine",
    "owner": "moonshine-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/98664891?v=4",
-   "stars": 10422,
-   "forks": 551,
-   "open_issues": 5,
+   "stars": 10451,
+   "forks": 555,
+   "open_issues": 6,
    "language": "C++",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T00:50:10Z",
+   "pushed_at": "2026-07-26T01:37:59Z",
    "created_at": "2024-10-04T22:10:28Z",
    "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
    "topics": [
@@ -683,7 +750,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 76,
-   "rank": 21
+   "rank": 23
   },
   {
    "name": "pyannote-audio",
@@ -692,8 +759,8 @@
    "url": "https://github.com/pyannote/pyannote-audio",
    "owner": "pyannote",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7559051?v=4",
-   "stars": 10333,
-   "forks": 1091,
+   "stars": 10335,
+   "forks": 1092,
    "open_issues": 29,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -715,7 +782,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 76,
-   "rank": 22
+   "rank": 24
   },
   {
    "name": "espnet",
@@ -724,12 +791,12 @@
    "url": "https://github.com/espnet/espnet",
    "owner": "espnet",
    "owner_avatar": "https://avatars.githubusercontent.com/u/34493687?v=4",
-   "stars": 9901,
-   "forks": 2418,
+   "stars": 9903,
+   "forks": 2419,
    "open_issues": 51,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T00:32:33Z",
+   "pushed_at": "2026-07-26T03:41:54Z",
    "created_at": "2017-12-13T00:45:11Z",
    "description": "End-to-End Speech Processing Toolkit",
    "topics": [
@@ -752,46 +819,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 76,
-   "rank": 23
-  },
-  {
-   "name": "OmniVoice-Studio",
-   "full_name": "debpalash/OmniVoice-Studio",
-   "slug": "debpalash-omnivoice-studio",
-   "url": "https://github.com/debpalash/OmniVoice-Studio",
-   "owner": "debpalash",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4178343?v=4",
-   "stars": 9035,
-   "forks": 1463,
-   "open_issues": 23,
-   "language": "Python",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-07-23T10:34:20Z",
-   "created_at": "2026-04-09T21:40:26Z",
-   "description": "Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.",
-   "topics": [
-    "asr",
-    "audiobook",
-    "dubbing",
-    "dubbing-ai",
-    "elevenlabs",
-    "local-ai",
-    "omnivoice",
-    "omnivoice-studio",
-    "self-hosted",
-    "speech-recognition",
-    "speech-to-text",
-    "text-to-speech",
-    "transcription",
-    "tts",
-    "video-editing",
-    "voice-ai",
-    "voice-cloning",
-    "voice-generation"
-   ],
-   "category": "Voice Cloning & Conversion",
-   "momentum": 76,
-   "rank": 24
+   "rank": 25
   },
   {
    "name": "WhisperLiveKit",
@@ -801,7 +829,7 @@
    "owner": "QuentinFuxa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/38427957?v=4",
    "stars": 10560,
-   "forks": 1091,
+   "forks": 1092,
    "open_issues": 10,
    "language": "Python",
    "license": "Apache-2.0",
@@ -811,7 +839,7 @@
    "topics": [],
    "category": "Voice Agents & Realtime",
    "momentum": 75,
-   "rank": 25
+   "rank": 26
   },
   {
    "name": "so-vits-svc-fork",
@@ -820,7 +848,7 @@
    "url": "https://github.com/voicepaw/so-vits-svc-fork",
    "owner": "voicepaw",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131225614?v=4",
-   "stars": 9325,
+   "stars": 9328,
    "forks": 1224,
    "open_issues": 156,
    "language": "Python",
@@ -847,7 +875,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 75,
-   "rank": 26
+   "rank": 27
   },
   {
    "name": "SenseVoice",
@@ -856,7 +884,7 @@
    "url": "https://github.com/QwenAudio/SenseVoice",
    "owner": "QwenAudio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167062371?v=4",
-   "stars": 8935,
+   "stars": 8937,
    "forks": 796,
    "open_issues": 0,
    "language": "C",
@@ -888,59 +916,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 75,
-   "rank": 27
-  },
-  {
-   "name": "OmniVoice",
-   "full_name": "k2-fsa/OmniVoice",
-   "slug": "k2-fsa-omnivoice",
-   "url": "https://github.com/k2-fsa/OmniVoice",
-   "owner": "k2-fsa",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/71431748?v=4",
-   "stars": 8459,
-   "forks": 1373,
-   "open_issues": 42,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-20T22:01:11Z",
-   "created_at": "2026-03-31T12:00:45Z",
-   "description": "High-Quality Voice Cloning TTS for 600+ Languages",
-   "topics": [],
-   "category": "Voice Cloning & Conversion",
-   "momentum": 75,
    "rank": 28
-  },
-  {
-   "name": "Vision-Agents",
-   "full_name": "GetStream/Vision-Agents",
-   "slug": "getstream-vision-agents",
-   "url": "https://github.com/GetStream/Vision-Agents",
-   "owner": "GetStream",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/8597527?v=4",
-   "stars": 7994,
-   "forks": 670,
-   "open_issues": 10,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T09:31:06Z",
-   "created_at": "2025-08-11T18:02:04Z",
-   "description": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
-   "topics": [
-    "agentic-ai",
-    "agents",
-    "ai",
-    "ai-agents",
-    "realtime",
-    "stt",
-    "tts",
-    "video-agents",
-    "video-ai",
-    "vision-ai",
-    "voice-ai"
-   ],
-   "category": "Voice Agents & Realtime",
-   "momentum": 75,
-   "rank": 29
   },
   {
    "name": "VideoLingo",
@@ -949,8 +925,8 @@
    "url": "https://github.com/Huanshere/VideoLingo",
    "owner": "Huanshere",
    "owner_avatar": "https://avatars.githubusercontent.com/u/147359634?v=4",
-   "stars": 17849,
-   "forks": 1971,
+   "stars": 17861,
+   "forks": 1972,
    "open_issues": 204,
    "language": "Python",
    "license": "Apache-2.0",
@@ -966,7 +942,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 74,
-   "rank": 30
+   "rank": 29
   },
   {
    "name": "vosk-api",
@@ -975,7 +951,7 @@
    "url": "https://github.com/alphacep/vosk-api",
    "owner": "alphacep",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26358566?v=4",
-   "stars": 14978,
+   "stars": 14983,
    "forks": 1737,
    "open_issues": 600,
    "language": "Jupyter Notebook",
@@ -1007,7 +983,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 74,
-   "rank": 31
+   "rank": 30
   },
   {
    "name": "voice-pro",
@@ -1016,8 +992,8 @@
    "url": "https://github.com/abus-aikorea/voice-pro",
    "owner": "abus-aikorea",
    "owner_avatar": "https://avatars.githubusercontent.com/u/161691694?v=4",
-   "stars": 11210,
-   "forks": 1639,
+   "stars": 11213,
+   "forks": 1640,
    "open_issues": 56,
    "language": "Python",
    "license": "GPL-3.0",
@@ -1047,7 +1023,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 74,
-   "rank": 32
+   "rank": 31
   },
   {
    "name": "silero-vad",
@@ -1056,8 +1032,8 @@
    "url": "https://github.com/snakers4/silero-vad",
    "owner": "snakers4",
    "owner_avatar": "https://avatars.githubusercontent.com/u/12515440?v=4",
-   "stars": 9672,
-   "forks": 807,
+   "stars": 9701,
+   "forks": 810,
    "open_issues": 13,
    "language": "Python",
    "license": "MIT",
@@ -1080,7 +1056,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 74,
-   "rank": 33
+   "rank": 32
   },
   {
    "name": "Bert-VITS2",
@@ -1089,8 +1065,8 @@
    "url": "https://github.com/fishaudio/Bert-VITS2",
    "owner": "fishaudio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/122017386?v=4",
-   "stars": 8779,
-   "forks": 1297,
+   "stars": 8780,
+   "forks": 1296,
    "open_issues": 1,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -1112,7 +1088,59 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 74,
+   "rank": 33
+  },
+  {
+   "name": "OmniVoice",
+   "full_name": "k2-fsa/OmniVoice",
+   "slug": "k2-fsa-omnivoice",
+   "url": "https://github.com/k2-fsa/OmniVoice",
+   "owner": "k2-fsa",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/71431748?v=4",
+   "stars": 8498,
+   "forks": 1378,
+   "open_issues": 42,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-20T22:01:11Z",
+   "created_at": "2026-03-31T12:00:45Z",
+   "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+   "topics": [],
+   "category": "Voice Cloning & Conversion",
+   "momentum": 74,
    "rank": 34
+  },
+  {
+   "name": "Vision-Agents",
+   "full_name": "GetStream/Vision-Agents",
+   "slug": "getstream-vision-agents",
+   "url": "https://github.com/GetStream/Vision-Agents",
+   "owner": "GetStream",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8597527?v=4",
+   "stars": 7995,
+   "forks": 671,
+   "open_issues": 10,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-24T09:31:06Z",
+   "created_at": "2025-08-11T18:02:04Z",
+   "description": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+   "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "realtime",
+    "stt",
+    "tts",
+    "video-agents",
+    "video-ai",
+    "vision-ai",
+    "voice-ai"
+   ],
+   "category": "Voice Agents & Realtime",
+   "momentum": 74,
+   "rank": 35
   },
   {
    "name": "mlx-audio",
@@ -1121,9 +1149,9 @@
    "url": "https://github.com/Blaizzy/mlx-audio",
    "owner": "Blaizzy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/23445657?v=4",
-   "stars": 7617,
-   "forks": 676,
-   "open_issues": 87,
+   "stars": 7621,
+   "forks": 678,
+   "open_issues": 88,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-07-25T09:06:37Z",
@@ -1142,7 +1170,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 74,
-   "rank": 35
+   "rank": 36
   },
   {
    "name": "espeak-ng",
@@ -1151,9 +1179,9 @@
    "url": "https://github.com/espeak-ng/espeak-ng",
    "owner": "espeak-ng",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16214005?v=4",
-   "stars": 6669,
-   "forks": 1260,
-   "open_issues": 587,
+   "stars": 6674,
+   "forks": 1261,
+   "open_issues": 591,
    "language": "C",
    "license": "GPL-3.0",
    "pushed_at": "2026-07-25T00:10:33Z",
@@ -1168,34 +1196,6 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 74,
-   "rank": 36
-  },
-  {
-   "name": "fish-speech",
-   "full_name": "fishaudio/fish-speech",
-   "slug": "fishaudio-fish-speech",
-   "url": "https://github.com/fishaudio/fish-speech",
-   "owner": "fishaudio",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/122017386?v=4",
-   "stars": 31370,
-   "forks": 2693,
-   "open_issues": 12,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-09T10:04:07Z",
-   "created_at": "2023-10-10T03:16:51Z",
-   "description": "SOTA Open Source TTS",
-   "topics": [
-    "llama",
-    "transformer",
-    "tts",
-    "valle",
-    "vits",
-    "vqgan",
-    "vqvae"
-   ],
-   "category": "Text-to-Speech",
-   "momentum": 73,
    "rank": 37
   },
   {
@@ -1205,8 +1205,8 @@
    "url": "https://github.com/ATH-MaaS/Pixelle-Video",
    "owner": "ATH-MaaS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/172576026?v=4",
-   "stars": 25979,
-   "forks": 3758,
+   "stars": 26035,
+   "forks": 3767,
    "open_issues": 149,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1231,8 +1231,8 @@
    "url": "https://github.com/huggingface/speech-to-speech",
    "owner": "huggingface",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-   "stars": 6331,
-   "forks": 835,
+   "stars": 6402,
+   "forks": 866,
    "open_issues": 106,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1261,14 +1261,14 @@
    "url": "https://github.com/cactus-compute/cactus",
    "owner": "cactus-compute",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196640840?v=4",
-   "stars": 5537,
+   "stars": 5538,
    "forks": 450,
    "open_issues": 82,
    "language": "C++",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T15:43:41Z",
+   "pushed_at": "2026-07-25T20:59:32Z",
    "created_at": "2025-04-23T14:33:43Z",
-   "description": "Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.",
+   "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
    "topics": [
     "ai",
     "android",
@@ -1296,84 +1296,6 @@
    "rank": 40
   },
   {
-   "name": "openless",
-   "full_name": "Open-Less/openless",
-   "slug": "open-less-openless",
-   "url": "https://github.com/Open-Less/openless",
-   "owner": "Open-Less",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/283287307?v=4",
-   "stars": 2849,
-   "forks": 249,
-   "open_issues": 23,
-   "language": "Rust",
-   "license": "MIT",
-   "pushed_at": "2026-07-22T00:52:10Z",
-   "created_at": "2026-04-27T07:25:49Z",
-   "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
-   "topics": [
-    "ai-prompt",
-    "asr",
-    "dictation",
-    "linux",
-    "llm",
-    "macos",
-    "open-source",
-    "prompt-engineering",
-    "rust",
-    "speech-to-text",
-    "tauri",
-    "typeless",
-    "typeless-alternative",
-    "voice-input",
-    "windows",
-    "wispr-flow-alternative"
-   ],
-   "category": "Speech-to-Text",
-   "momentum": 73,
-   "rank": 41
-  },
-  {
-   "name": "meetily",
-   "full_name": "Zackriya-Solutions/meetily",
-   "slug": "zackriya-solutions-meetily",
-   "url": "https://github.com/Zackriya-Solutions/meetily",
-   "owner": "Zackriya-Solutions",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/82556810?v=4",
-   "stars": 26536,
-   "forks": 2677,
-   "open_issues": 311,
-   "language": "Rust",
-   "license": "MIT",
-   "pushed_at": "2026-06-05T13:53:17Z",
-   "created_at": "2024-12-26T12:52:14Z",
-   "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-   "topics": [
-    "ai",
-    "ai-meeting-assistant",
-    "llm",
-    "local-ai",
-    "mac",
-    "meeting-minutes",
-    "meeting-notes",
-    "offline-first",
-    "ollama",
-    "parakeet",
-    "privacy-focused",
-    "privacy-tools",
-    "rust",
-    "self-hosted",
-    "sortformer",
-    "speech-to-text",
-    "transcription",
-    "whisper",
-    "whisper-cpp",
-    "windows"
-   ],
-   "category": "Enhancement & Analysis",
-   "momentum": 72,
-   "rank": 42
-  },
-  {
    "name": "annyang",
    "full_name": "TalAter/annyang",
    "slug": "talater-annyang",
@@ -1396,7 +1318,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 43
+   "rank": 41
   },
   {
    "name": "wav2letter",
@@ -1422,43 +1344,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 72,
-   "rank": 44
-  },
-  {
-   "name": "argmax-oss-swift",
-   "full_name": "argmaxinc/argmax-oss-swift",
-   "slug": "argmaxinc-argmax-oss-swift",
-   "url": "https://github.com/argmaxinc/argmax-oss-swift",
-   "owner": "argmaxinc",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/150409474?v=4",
-   "stars": 6283,
-   "forks": 590,
-   "open_issues": 139,
-   "language": "Swift",
-   "license": "MIT",
-   "pushed_at": "2026-07-13T20:40:34Z",
-   "created_at": "2024-01-26T07:11:52Z",
-   "description": "On-device Speech AI for Apple Silicon",
-   "topics": [
-    "inference",
-    "ios",
-    "macos",
-    "pyannote",
-    "qwen3-tts",
-    "speaker-diarization",
-    "speakerkit",
-    "speech-recognition",
-    "speech-to-text",
-    "swift",
-    "text-to-speech",
-    "transformers",
-    "ttskit",
-    "whisper",
-    "whisperkit"
-   ],
-   "category": "Enhancement & Analysis",
-   "momentum": 72,
-   "rank": 45
+   "rank": 42
   },
   {
    "name": "abogen",
@@ -1467,9 +1353,9 @@
    "url": "https://github.com/denizsafak/abogen",
    "owner": "denizsafak",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39929354?v=4",
-   "stars": 5348,
+   "stars": 5357,
    "forks": 397,
-   "open_issues": 42,
+   "open_issues": 41,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-07-23T13:27:54Z",
@@ -1499,7 +1385,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 46
+   "rank": 43
   },
   {
    "name": "Kokoro-FastAPI",
@@ -1508,7 +1394,7 @@
    "url": "https://github.com/remsky/Kokoro-FastAPI",
    "owner": "remsky",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25017870?v=4",
-   "stars": 5252,
+   "stars": 5259,
    "forks": 856,
    "open_issues": 109,
    "language": "Python",
@@ -1532,7 +1418,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 72,
-   "rank": 47
+   "rank": 44
   },
   {
    "name": "piper1-gpl",
@@ -1541,7 +1427,7 @@
    "url": "https://github.com/OHF-Voice/piper1-gpl",
    "owner": "OHF-Voice",
    "owner_avatar": "https://avatars.githubusercontent.com/u/168038120?v=4",
-   "stars": 4895,
+   "stars": 4906,
    "forks": 465,
    "open_issues": 108,
    "language": "C++",
@@ -1552,7 +1438,7 @@
    "topics": [],
    "category": "Text-to-Speech",
    "momentum": 72,
-   "rank": 48
+   "rank": 45
   },
   {
    "name": "porcupine",
@@ -1586,7 +1472,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 72,
-   "rank": 49
+   "rank": 46
   },
   {
    "name": "openwhispr",
@@ -1595,9 +1481,9 @@
    "url": "https://github.com/OpenWhispr/openwhispr",
    "owner": "OpenWhispr",
    "owner_avatar": "https://avatars.githubusercontent.com/u/254803777?v=4",
-   "stars": 4856,
-   "forks": 696,
-   "open_issues": 246,
+   "stars": 4876,
+   "forks": 697,
+   "open_issues": 251,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-07-25T02:17:24Z",
@@ -1622,7 +1508,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 50
+   "rank": 47
   },
   {
    "name": "DiffSinger",
@@ -1654,7 +1540,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 72,
-   "rank": 51
+   "rank": 48
   },
   {
    "name": "SmartSub",
@@ -1663,9 +1549,9 @@
    "url": "https://github.com/buxuku/SmartSub",
    "owner": "buxuku",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7866330?v=4",
-   "stars": 4326,
-   "forks": 304,
-   "open_issues": 28,
+   "stars": 4339,
+   "forks": 306,
+   "open_issues": 30,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-07-24T15:49:08Z",
@@ -1687,6 +1573,120 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 72,
+   "rank": 49
+  },
+  {
+   "name": "openless",
+   "full_name": "Open-Less/openless",
+   "slug": "open-less-openless",
+   "url": "https://github.com/Open-Less/openless",
+   "owner": "Open-Less",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/283287307?v=4",
+   "stars": 2862,
+   "forks": 250,
+   "open_issues": 30,
+   "language": "Rust",
+   "license": "MIT",
+   "pushed_at": "2026-07-22T00:52:10Z",
+   "created_at": "2026-04-27T07:25:49Z",
+   "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+   "topics": [
+    "ai-prompt",
+    "asr",
+    "dictation",
+    "linux",
+    "llm",
+    "macos",
+    "open-source",
+    "prompt-engineering",
+    "rust",
+    "speech-to-text",
+    "tauri",
+    "typeless",
+    "typeless-alternative",
+    "voice-input",
+    "windows",
+    "wispr-flow-alternative"
+   ],
+   "category": "Speech-to-Text",
+   "momentum": 72,
+   "rank": 50
+  },
+  {
+   "name": "meetily",
+   "full_name": "Zackriya-Solutions/meetily",
+   "slug": "zackriya-solutions-meetily",
+   "url": "https://github.com/Zackriya-Solutions/meetily",
+   "owner": "Zackriya-Solutions",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/82556810?v=4",
+   "stars": 26706,
+   "forks": 2702,
+   "open_issues": 312,
+   "language": "Rust",
+   "license": "MIT",
+   "pushed_at": "2026-06-05T13:53:17Z",
+   "created_at": "2024-12-26T12:52:14Z",
+   "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+   "topics": [
+    "ai",
+    "ai-meeting-assistant",
+    "llm",
+    "local-ai",
+    "mac",
+    "meeting-minutes",
+    "meeting-notes",
+    "offline-first",
+    "ollama",
+    "parakeet",
+    "privacy-focused",
+    "privacy-tools",
+    "rust",
+    "self-hosted",
+    "sortformer",
+    "speech-to-text",
+    "transcription",
+    "whisper",
+    "whisper-cpp",
+    "windows"
+   ],
+   "category": "Enhancement & Analysis",
+   "momentum": 71,
+   "rank": 51
+  },
+  {
+   "name": "argmax-oss-swift",
+   "full_name": "argmaxinc/argmax-oss-swift",
+   "slug": "argmaxinc-argmax-oss-swift",
+   "url": "https://github.com/argmaxinc/argmax-oss-swift",
+   "owner": "argmaxinc",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/150409474?v=4",
+   "stars": 6284,
+   "forks": 590,
+   "open_issues": 139,
+   "language": "Swift",
+   "license": "MIT",
+   "pushed_at": "2026-07-13T20:40:34Z",
+   "created_at": "2024-01-26T07:11:52Z",
+   "description": "On-device Speech AI for Apple Silicon",
+   "topics": [
+    "inference",
+    "ios",
+    "macos",
+    "pyannote",
+    "qwen3-tts",
+    "speaker-diarization",
+    "speakerkit",
+    "speech-recognition",
+    "speech-to-text",
+    "swift",
+    "text-to-speech",
+    "transformers",
+    "ttskit",
+    "whisper",
+    "whisperkit"
+   ],
+   "category": "Enhancement & Analysis",
+   "momentum": 71,
    "rank": 52
   },
   {
@@ -1696,9 +1696,9 @@
    "url": "https://github.com/liuzhao1225/YouDub-webui",
    "owner": "liuzhao1225",
    "owner_avatar": "https://avatars.githubusercontent.com/u/15737086?v=4",
-   "stars": 5168,
-   "forks": 556,
-   "open_issues": 3,
+   "stars": 5174,
+   "forks": 558,
+   "open_issues": 5,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-14T14:18:10Z",
@@ -1758,12 +1758,12 @@
    "url": "https://github.com/tmoroney/auto-subs",
    "owner": "tmoroney",
    "owner_avatar": "https://avatars.githubusercontent.com/u/72154813?v=4",
-   "stars": 3893,
+   "stars": 3899,
    "forks": 253,
    "open_issues": 193,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-24T21:58:33Z",
+   "pushed_at": "2026-07-25T15:24:35Z",
    "created_at": "2023-03-15T01:51:06Z",
    "description": "On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.",
    "topics": [
@@ -1832,8 +1832,8 @@
    "url": "https://github.com/yanshengjia/ml-road",
    "owner": "yanshengjia",
    "owner_avatar": "https://avatars.githubusercontent.com/u/8682800?v=4",
-   "stars": 4881,
-   "forks": 1713,
+   "stars": 4882,
+   "forks": 1714,
    "open_issues": 5,
    "language": "Python",
    "license": "MIT",
@@ -1861,8 +1861,8 @@
    "url": "https://github.com/umlx5h/LLPlayer",
    "owner": "umlx5h",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20206121?v=4",
-   "stars": 3956,
-   "forks": 229,
+   "stars": 3957,
+   "forks": 230,
    "open_issues": 58,
    "language": "C#",
    "license": "GPL-3.0",
@@ -1896,7 +1896,7 @@
    "url": "https://github.com/IAHispano/Applio",
    "owner": "IAHispano",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133545040?v=4",
-   "stars": 3513,
+   "stars": 3514,
    "forks": 562,
    "open_issues": 26,
    "language": "Python",
@@ -1931,7 +1931,7 @@
    "url": "https://github.com/SakiRinn/LiveCaptions-Translator",
    "owner": "SakiRinn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/78298057?v=4",
-   "stars": 3400,
+   "stars": 3403,
    "forks": 237,
    "open_issues": 17,
    "language": "C#",
@@ -1961,12 +1961,12 @@
    "url": "https://github.com/HeyWillow/willow",
    "owner": "HeyWillow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/206060000?v=4",
-   "stars": 3079,
+   "stars": 3080,
    "forks": 123,
-   "open_issues": 22,
+   "open_issues": 23,
    "language": "C",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T10:07:17Z",
+   "pushed_at": "2026-07-25T15:00:08Z",
    "created_at": "2023-03-31T14:05:15Z",
    "description": "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",
    "topics": [
@@ -2000,7 +2000,7 @@
    "open_issues": 336,
    "language": "Python",
    "license": "BSD-2-Clause",
-   "pushed_at": "2026-07-24T12:02:25Z",
+   "pushed_at": "2026-07-25T11:52:38Z",
    "created_at": "2017-05-05T00:38:05Z",
    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch",
    "topics": [
@@ -2025,7 +2025,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/5318774?v=4",
    "stars": 2852,
    "forks": 274,
-   "open_issues": 36,
+   "open_issues": 37,
    "language": "Python",
    "license": "AGPL-3.0",
    "pushed_at": "2026-07-25T10:22:31Z",
@@ -2064,8 +2064,8 @@
    "url": "https://github.com/openai/whisper",
    "owner": "openai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
-   "stars": 105540,
-   "forks": 12821,
+   "stars": 105619,
+   "forks": 12829,
    "open_issues": 133,
    "language": "Python",
    "license": "MIT",
@@ -2084,9 +2084,9 @@
    "url": "https://github.com/QwenAudio/CosyVoice",
    "owner": "QwenAudio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167062371?v=4",
-   "stars": 22396,
-   "forks": 2586,
-   "open_issues": 754,
+   "stars": 22413,
+   "forks": 2587,
+   "open_issues": 753,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-05-25T18:15:40Z",
@@ -2124,8 +2124,8 @@
    "url": "https://github.com/speechbrain/speechbrain",
    "owner": "speechbrain",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54749030?v=4",
-   "stars": 11713,
-   "forks": 1710,
+   "stars": 11717,
+   "forks": 1711,
    "open_issues": 185,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2165,9 +2165,9 @@
    "url": "https://github.com/matthartman/ghost-pepper",
    "owner": "matthartman",
    "owner_avatar": "https://avatars.githubusercontent.com/u/537162?v=4",
-   "stars": 2880,
-   "forks": 171,
-   "open_issues": 53,
+   "stars": 2959,
+   "forks": 174,
+   "open_issues": 54,
    "language": "Swift",
    "license": "",
    "pushed_at": "2026-07-22T16:48:03Z",
@@ -2212,12 +2212,12 @@
    "url": "https://github.com/FluidInference/FluidAudio",
    "owner": "FluidInference",
    "owner_avatar": "https://avatars.githubusercontent.com/u/216957621?v=4",
-   "stars": 2514,
+   "stars": 2521,
    "forks": 358,
-   "open_issues": 16,
+   "open_issues": 18,
    "language": "Swift",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T00:41:00Z",
+   "pushed_at": "2026-07-26T00:49:55Z",
    "created_at": "2025-06-21T21:09:30Z",
    "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
    "topics": [
@@ -2252,8 +2252,8 @@
    "url": "https://github.com/Lynpoint/CyberVerse",
    "owner": "Lynpoint",
    "owner_avatar": "https://avatars.githubusercontent.com/u/284742376?v=4",
-   "stars": 1471,
-   "forks": 201,
+   "stars": 1472,
+   "forks": 202,
    "open_issues": 5,
    "language": "Python",
    "license": "GPL-3.0",
@@ -2285,7 +2285,7 @@
    "url": "https://github.com/KoljaB/RealtimeSTT",
    "owner": "KoljaB",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7604638?v=4",
-   "stars": 10003,
+   "stars": 10007,
    "forks": 849,
    "open_issues": 146,
    "language": "Python",
@@ -2335,8 +2335,8 @@
    "owner": "PaddlePaddle",
    "owner_avatar": "https://avatars.githubusercontent.com/u/23534030?v=4",
    "stars": 6206,
-   "forks": 1209,
-   "open_issues": 741,
+   "forks": 1210,
+   "open_issues": 745,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-25T04:47:54Z",
@@ -2397,7 +2397,7 @@
    "url": "https://github.com/MisoLabsAI/MisoTTS",
    "owner": "MisoLabsAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/276445684?v=4",
-   "stars": 3167,
+   "stars": 3170,
    "forks": 321,
    "open_issues": 18,
    "language": "Python",
@@ -2417,7 +2417,7 @@
    "url": "https://github.com/harry0703/AudioNotes",
    "owner": "harry0703",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4928832?v=4",
-   "stars": 2222,
+   "stars": 2223,
    "forks": 324,
    "open_issues": 1,
    "language": "Python",
@@ -2445,9 +2445,9 @@
    "url": "https://github.com/handy-computer/transcribe.cpp",
    "owner": "handy-computer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/254852949?v=4",
-   "stars": 1568,
-   "forks": 54,
-   "open_issues": 29,
+   "stars": 1579,
+   "forks": 58,
+   "open_issues": 32,
    "language": "C++",
    "license": "MIT",
    "pushed_at": "2026-07-25T09:00:29Z",
@@ -2470,7 +2470,7 @@
    "url": "https://github.com/jianchang512/ChatTTS-ui",
    "owner": "jianchang512",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3378335?v=4",
-   "stars": 7625,
+   "stars": 7626,
    "forks": 916,
    "open_issues": 199,
    "language": "Python",
@@ -2493,8 +2493,8 @@
    "url": "https://github.com/pnnbao97/VieNeu-TTS",
    "owner": "pnnbao97",
    "owner_avatar": "https://avatars.githubusercontent.com/u/179232022?v=4",
-   "stars": 2242,
-   "forks": 669,
+   "stars": 2245,
+   "forks": 671,
    "open_issues": 8,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2522,12 +2522,12 @@
    "url": "https://github.com/tuya/TuyaOpen",
    "owner": "tuya",
    "owner_avatar": "https://avatars.githubusercontent.com/u/73523937?v=4",
-   "stars": 1759,
+   "stars": 1760,
    "forks": 285,
    "open_issues": 56,
    "language": "C",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T05:39:06Z",
+   "pushed_at": "2026-07-25T17:41:13Z",
    "created_at": "2023-12-25T03:45:10Z",
    "description": "Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration",
    "topics": [
@@ -2552,34 +2552,70 @@
    "rank": 80
   },
   {
-   "name": "wenet",
-   "full_name": "wenet-e2e/wenet",
-   "slug": "wenet-e2e-wenet",
-   "url": "https://github.com/wenet-e2e/wenet",
-   "owner": "wenet-e2e",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/84374044?v=4",
-   "stars": 5182,
-   "forks": 1183,
-   "open_issues": 24,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-15T05:56:43Z",
-   "created_at": "2020-11-17T03:57:23Z",
-   "description": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+   "name": "dsnote",
+   "full_name": "mkiol/dsnote",
+   "slug": "mkiol-dsnote",
+   "url": "https://github.com/mkiol/dsnote",
+   "owner": "mkiol",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1420902?v=4",
+   "stars": 1551,
+   "forks": 69,
+   "open_issues": 140,
+   "language": "C++",
+   "license": "MPL-2.0",
+   "pushed_at": "2026-07-25T14:15:37Z",
+   "created_at": "2021-10-07T16:54:26Z",
+   "description": "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",
    "topics": [
     "asr",
-    "automatic-speech-recognition",
-    "conformer",
-    "e2e-models",
-    "production-ready",
-    "pytorch",
+    "flatpak-applications",
+    "linux-desktop",
+    "machine-translation",
+    "nmt",
+    "offline",
+    "sailfishos",
     "speech-recognition",
-    "transformer",
-    "whisper"
+    "speech-synthesis",
+    "speech-to-text",
+    "stt",
+    "text-to-speech",
+    "translation",
+    "translator",
+    "tts"
    ],
-   "category": "Toolkits & Frameworks",
-   "momentum": 66,
+   "category": "Speech-to-Text",
+   "momentum": 67,
    "rank": 81
+  },
+  {
+   "name": "video-podcast-maker",
+   "full_name": "Agents365-ai/video-podcast-maker",
+   "slug": "agents365-ai-video-podcast-maker",
+   "url": "https://github.com/Agents365-ai/video-podcast-maker",
+   "owner": "Agents365-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/221161299?v=4",
+   "stars": 1493,
+   "forks": 157,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-26T09:51:55Z",
+   "created_at": "2026-02-16T14:15:27Z",
+   "description": "Topic → 4K narrated video for coding agents. v4.0: all TTS via the ttsCN engine component (11 platforms incl. MiniMax voice clone, native word-level subtitle sync), manifest-based Asset Engine, Remotion composition, cost-gated AI generation",
+   "topics": [
+    "agent-skill",
+    "ai-video",
+    "bilibili",
+    "claude-code",
+    "hyperframes",
+    "idea-to-video",
+    "remotion",
+    "text-to-speech",
+    "video-generation"
+   ],
+   "category": "Voice Cloning & Conversion",
+   "momentum": 67,
+   "rank": 82
   },
   {
    "name": "parlor",
@@ -2588,7 +2624,7 @@
    "url": "https://github.com/fikrikarim/parlor",
    "owner": "fikrikarim",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13066728?v=4",
-   "stars": 1908,
+   "stars": 1911,
    "forks": 244,
    "open_issues": 8,
    "language": "HTML",
@@ -2613,73 +2649,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 66,
-   "rank": 82
-  },
-  {
-   "name": "dsnote",
-   "full_name": "mkiol/dsnote",
-   "slug": "mkiol-dsnote",
-   "url": "https://github.com/mkiol/dsnote",
-   "owner": "mkiol",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1420902?v=4",
-   "stars": 1549,
-   "forks": 69,
-   "open_issues": 140,
-   "language": "C++",
-   "license": "MPL-2.0",
-   "pushed_at": "2026-07-18T18:27:20Z",
-   "created_at": "2021-10-07T16:54:26Z",
-   "description": "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",
-   "topics": [
-    "asr",
-    "flatpak-applications",
-    "linux-desktop",
-    "machine-translation",
-    "nmt",
-    "offline",
-    "sailfishos",
-    "speech-recognition",
-    "speech-synthesis",
-    "speech-to-text",
-    "stt",
-    "text-to-speech",
-    "translation",
-    "translator",
-    "tts"
-   ],
-   "category": "Speech-to-Text",
-   "momentum": 66,
    "rank": 83
-  },
-  {
-   "name": "video-podcast-maker",
-   "full_name": "Agents365-ai/video-podcast-maker",
-   "slug": "agents365-ai-video-podcast-maker",
-   "url": "https://github.com/Agents365-ai/video-podcast-maker",
-   "owner": "Agents365-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/221161299?v=4",
-   "stars": 1489,
-   "forks": 156,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-18T15:45:42Z",
-   "created_at": "2026-02-16T14:15:27Z",
-   "description": "Topic → 4K narrated video for coding agents. v4.0: all TTS via the ttsCN engine component (11 platforms incl. MiniMax voice clone, native word-level subtitle sync), manifest-based Asset Engine, Remotion composition, cost-gated AI generation",
-   "topics": [
-    "agent-skill",
-    "ai-video",
-    "bilibili",
-    "claude-code",
-    "hyperframes",
-    "idea-to-video",
-    "remotion",
-    "text-to-speech",
-    "video-generation"
-   ],
-   "category": "Voice Cloning & Conversion",
-   "momentum": 66,
-   "rank": 84
   },
   {
    "name": "esp-sr",
@@ -2688,7 +2658,7 @@
    "url": "https://github.com/espressif/esp-sr",
    "owner": "espressif",
    "owner_avatar": "https://avatars.githubusercontent.com/u/9460735?v=4",
-   "stars": 1444,
+   "stars": 1445,
    "forks": 211,
    "open_issues": 50,
    "language": "C",
@@ -2699,7 +2669,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 66,
-   "rank": 85
+   "rank": 84
   },
   {
    "name": "Fun-ASR",
@@ -2708,8 +2678,8 @@
    "url": "https://github.com/QwenAudio/Fun-ASR",
    "owner": "QwenAudio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167062371?v=4",
-   "stars": 1428,
-   "forks": 140,
+   "stars": 1429,
+   "forks": 141,
    "open_issues": 0,
    "language": "C",
    "license": "Apache-2.0",
@@ -2740,6 +2710,37 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 66,
+   "rank": 85
+  },
+  {
+   "name": "dicio-android",
+   "full_name": "DicioTeam/dicio-android",
+   "slug": "dicioteam-dicio-android",
+   "url": "https://github.com/DicioTeam/dicio-android",
+   "owner": "DicioTeam",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278598733?v=4",
+   "stars": 1415,
+   "forks": 151,
+   "open_issues": 120,
+   "language": "Kotlin",
+   "license": "GPL-3.0",
+   "pushed_at": "2026-07-25T13:18:25Z",
+   "created_at": "2019-08-02T17:43:01Z",
+   "description": "Dicio assistant app for Android",
+   "topics": [
+    "android",
+    "assistant",
+    "dicio",
+    "personal-assistant",
+    "skills",
+    "stt",
+    "tts",
+    "voice-assistant",
+    "vosk",
+    "wakeword"
+   ],
+   "category": "Voice Agents & Realtime",
+   "momentum": 66,
    "rank": 86
   },
   {
@@ -2749,12 +2750,12 @@
    "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
    "owner": "hkjarral",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42726887?v=4",
-   "stars": 1156,
+   "stars": 1157,
    "forks": 249,
-   "open_issues": 34,
+   "open_issues": 33,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T07:39:08Z",
+   "pushed_at": "2026-07-26T08:06:38Z",
    "created_at": "2025-09-05T23:07:40Z",
    "description": "An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology",
    "topics": [],
@@ -2789,7 +2790,7 @@
    "url": "https://github.com/jasonppy/VoiceCraft",
    "owner": "jasonppy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/47729801?v=4",
-   "stars": 8504,
+   "stars": 8505,
    "forks": 795,
    "open_issues": 103,
    "language": "Jupyter Notebook",
@@ -2803,40 +2804,50 @@
    "rank": 89
   },
   {
+   "name": "wenet",
+   "full_name": "wenet-e2e/wenet",
+   "slug": "wenet-e2e-wenet",
+   "url": "https://github.com/wenet-e2e/wenet",
+   "owner": "wenet-e2e",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/84374044?v=4",
+   "stars": 5192,
+   "forks": 1185,
+   "open_issues": 24,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-15T05:56:43Z",
+   "created_at": "2020-11-17T03:57:23Z",
+   "description": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+   "topics": [
+    "asr",
+    "automatic-speech-recognition",
+    "conformer",
+    "e2e-models",
+    "production-ready",
+    "pytorch",
+    "speech-recognition",
+    "transformer",
+    "whisper"
+   ],
+   "category": "Toolkits & Frameworks",
+   "momentum": 65,
+   "rank": 90
+  },
+  {
    "name": "Qwen3-ASR",
    "full_name": "QwenLM/Qwen3-ASR",
    "slug": "qwenlm-qwen3-asr",
    "url": "https://github.com/QwenLM/Qwen3-ASR",
    "owner": "QwenLM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/141221163?v=4",
-   "stars": 3218,
+   "stars": 3224,
    "forks": 326,
-   "open_issues": 28,
+   "open_issues": 27,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-26T08:20:17Z",
    "created_at": "2026-01-28T05:44:59Z",
    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.",
-   "topics": [],
-   "category": "Speech-to-Text",
-   "momentum": 65,
-   "rank": 90
-  },
-  {
-   "name": "flycut-caption",
-   "full_name": "x007xyz/flycut-caption",
-   "slug": "x007xyz-flycut-caption",
-   "url": "https://github.com/x007xyz/flycut-caption",
-   "owner": "x007xyz",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/13807549?v=4",
-   "stars": 1695,
-   "forks": 227,
-   "open_issues": 0,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-10T06:25:44Z",
-   "created_at": "2025-09-22T15:20:20Z",
-   "description": "A complete video subtitle editing React component with AI-powered speech recognition and visual editing capabilities.",
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 65,
@@ -2849,7 +2860,7 @@
    "url": "https://github.com/amicalhq/amical",
    "owner": "amicalhq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/89311697?v=4",
-   "stars": 1462,
+   "stars": 1465,
    "forks": 132,
    "open_issues": 53,
    "language": "TypeScript",
@@ -2891,10 +2902,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/18393788?v=4",
    "stars": 1148,
    "forks": 150,
-   "open_issues": 16,
+   "open_issues": 15,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-23T13:57:00Z",
+   "pushed_at": "2026-07-26T07:09:53Z",
    "created_at": "2021-12-14T09:47:52Z",
    "description": "Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины.",
    "topics": [
@@ -2915,12 +2926,12 @@
    "url": "https://github.com/soniqo/speech-swift",
    "owner": "soniqo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/266238383?v=4",
-   "stars": 1078,
-   "forks": 138,
+   "stars": 1080,
+   "forks": 139,
    "open_issues": 3,
    "language": "Swift",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T10:10:42Z",
+   "pushed_at": "2026-07-25T17:18:02Z",
    "created_at": "2026-02-04T00:52:46Z",
    "description": "AI speech toolkit for Apple Silicon — ASR, TTS, speech-to-speech, VAD, and diarization powered by MLX and CoreML",
    "topics": [
@@ -2946,51 +2957,13 @@
    "rank": 94
   },
   {
-   "name": "ChatTTS",
-   "full_name": "2noise/ChatTTS",
-   "slug": "2noise-chattts",
-   "url": "https://github.com/2noise/ChatTTS",
-   "owner": "2noise",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/164844019?v=4",
-   "stars": 39672,
-   "forks": 4250,
-   "open_issues": 62,
-   "language": "Python",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-04-10T16:33:48Z",
-   "created_at": "2024-05-27T18:26:49Z",
-   "description": "A generative speech model for daily dialogue.",
-   "topics": [
-    "agent",
-    "chat",
-    "chatgpt",
-    "chattts",
-    "chinese",
-    "chinese-language",
-    "english",
-    "english-language",
-    "gpt",
-    "llm",
-    "llm-agent",
-    "natural-language-inference",
-    "python",
-    "text-to-speech",
-    "torch",
-    "torchaudio",
-    "tts"
-   ],
-   "category": "Voice Agents & Realtime",
-   "momentum": 64,
-   "rank": 95
-  },
-  {
    "name": "silero-models",
    "full_name": "snakers4/silero-models",
    "slug": "snakers4-silero-models",
    "url": "https://github.com/snakers4/silero-models",
    "owner": "snakers4",
    "owner_avatar": "https://avatars.githubusercontent.com/u/12515440?v=4",
-   "stars": 6023,
+   "stars": 6022,
    "forks": 368,
    "open_issues": 12,
    "language": "Jupyter Notebook",
@@ -3022,27 +2995,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 64,
-   "rank": 96
-  },
-  {
-   "name": "LuxTTS",
-   "full_name": "ysharma3501/LuxTTS",
-   "slug": "ysharma3501-luxtts",
-   "url": "https://github.com/ysharma3501/LuxTTS",
-   "owner": "ysharma3501",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/244096243?v=4",
-   "stars": 4851,
-   "forks": 628,
-   "open_issues": 32,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-05T21:24:15Z",
-   "created_at": "2026-01-23T20:12:03Z",
-   "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.",
-   "topics": [],
-   "category": "Voice Cloning & Conversion",
-   "momentum": 64,
-   "rank": 97
+   "rank": 95
   },
   {
    "name": "lingvo",
@@ -3080,7 +3033,27 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 64,
-   "rank": 98
+   "rank": 96
+  },
+  {
+   "name": "flycut-caption",
+   "full_name": "x007xyz/flycut-caption",
+   "slug": "x007xyz-flycut-caption",
+   "url": "https://github.com/x007xyz/flycut-caption",
+   "owner": "x007xyz",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13807549?v=4",
+   "stars": 1696,
+   "forks": 227,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-10T06:25:44Z",
+   "created_at": "2025-09-22T15:20:20Z",
+   "description": "A complete video subtitle editing React component with AI-powered speech recognition and visual editing capabilities.",
+   "topics": [],
+   "category": "Speech-to-Text",
+   "momentum": 64,
+   "rank": 97
   },
   {
    "name": "SwitchAI",
@@ -3089,7 +3062,7 @@
    "url": "https://github.com/WSTxda/SwitchAI",
    "owner": "WSTxda",
    "owner_avatar": "https://avatars.githubusercontent.com/u/37253994?v=4",
-   "stars": 1402,
+   "stars": 1403,
    "forks": 57,
    "open_issues": 4,
    "language": "Kotlin",
@@ -3119,7 +3092,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 64,
-   "rank": 99
+   "rank": 98
   },
   {
    "name": "Patter",
@@ -3128,7 +3101,7 @@
    "url": "https://github.com/PatterAI/Patter",
    "owner": "PatterAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/274219050?v=4",
-   "stars": 1015,
+   "stars": 1016,
    "forks": 104,
    "open_issues": 0,
    "language": "Python",
@@ -3160,7 +3133,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 64,
-   "rank": 100
+   "rank": 99
   },
   {
    "name": "metabot",
@@ -3171,7 +3144,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/247408520?v=4",
    "stars": 931,
    "forks": 150,
-   "open_issues": 14,
+   "open_issues": 15,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-07-25T02:09:13Z",
@@ -3201,7 +3174,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 64,
-   "rank": 101
+   "rank": 100
   },
   {
    "name": "agent-starter-react",
@@ -3211,11 +3184,11 @@
    "owner": "livekit-examples",
    "owner_avatar": "https://avatars.githubusercontent.com/u/123608324?v=4",
    "stars": 905,
-   "forks": 439,
+   "forks": 440,
    "open_issues": 31,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T00:33:43Z",
+   "pushed_at": "2026-07-25T21:55:12Z",
    "created_at": "2024-09-11T14:06:32Z",
    "description": "A complete voice AI frontend app for LiveKit Agents with Next.js",
    "topics": [
@@ -3223,7 +3196,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 64,
-   "rank": 102
+   "rank": 101
   },
   {
    "name": "alexandria-audiobook",
@@ -3232,7 +3205,7 @@
    "url": "https://github.com/Finrandojin/alexandria-audiobook",
    "owner": "Finrandojin",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30663969?v=4",
-   "stars": 836,
+   "stars": 837,
    "forks": 96,
    "open_issues": 2,
    "language": "Python",
@@ -3263,6 +3236,44 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 64,
+   "rank": 102
+  },
+  {
+   "name": "ChatTTS",
+   "full_name": "2noise/ChatTTS",
+   "slug": "2noise-chattts",
+   "url": "https://github.com/2noise/ChatTTS",
+   "owner": "2noise",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/164844019?v=4",
+   "stars": 39681,
+   "forks": 4251,
+   "open_issues": 62,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-04-10T16:33:48Z",
+   "created_at": "2024-05-27T18:26:49Z",
+   "description": "A generative speech model for daily dialogue.",
+   "topics": [
+    "agent",
+    "chat",
+    "chatgpt",
+    "chattts",
+    "chinese",
+    "chinese-language",
+    "english",
+    "english-language",
+    "gpt",
+    "llm",
+    "llm-agent",
+    "natural-language-inference",
+    "python",
+    "text-to-speech",
+    "torch",
+    "torchaudio",
+    "tts"
+   ],
+   "category": "Voice Agents & Realtime",
+   "momentum": 63,
    "rank": 103
   },
   {
@@ -3272,7 +3283,7 @@
    "url": "https://github.com/jdepoix/youtube-transcript-api",
    "owner": "jdepoix",
    "owner_avatar": "https://avatars.githubusercontent.com/u/15710159?v=4",
-   "stars": 7953,
+   "stars": 7956,
    "forks": 802,
    "open_issues": 30,
    "language": "Python",
@@ -3304,14 +3315,34 @@
    "rank": 104
   },
   {
+   "name": "LuxTTS",
+   "full_name": "ysharma3501/LuxTTS",
+   "slug": "ysharma3501-luxtts",
+   "url": "https://github.com/ysharma3501/LuxTTS",
+   "owner": "ysharma3501",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/244096243?v=4",
+   "stars": 4853,
+   "forks": 628,
+   "open_issues": 32,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-05T21:24:15Z",
+   "created_at": "2026-01-23T20:12:03Z",
+   "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.",
+   "topics": [],
+   "category": "Voice Cloning & Conversion",
+   "momentum": 63,
+   "rank": 105
+  },
+  {
    "name": "wespeaker",
    "full_name": "wenet-e2e/wespeaker",
    "slug": "wenet-e2e-wespeaker",
    "url": "https://github.com/wenet-e2e/wespeaker",
    "owner": "wenet-e2e",
    "owner_avatar": "https://avatars.githubusercontent.com/u/84374044?v=4",
-   "stars": 1365,
-   "forks": 199,
+   "stars": 1366,
+   "forks": 200,
    "open_issues": 38,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3342,7 +3373,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 63,
-   "rank": 105
+   "rank": 106
   },
   {
    "name": "Irodori-TTS",
@@ -3351,8 +3382,8 @@
    "url": "https://github.com/Aratako/Irodori-TTS",
    "owner": "Aratako",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127325395?v=4",
-   "stars": 1045,
-   "forks": 130,
+   "stars": 1048,
+   "forks": 131,
    "open_issues": 13,
    "language": "Python",
    "license": "MIT",
@@ -3370,7 +3401,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 63,
-   "rank": 106
+   "rank": 107
   },
   {
    "name": "rustpbx",
@@ -3381,10 +3412,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/82350773?v=4",
    "stars": 731,
    "forks": 102,
-   "open_issues": 5,
+   "open_issues": 7,
    "language": "Rust",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:46:37Z",
+   "pushed_at": "2026-07-25T11:15:38Z",
    "created_at": "2025-02-14T06:47:04Z",
    "description": "A PBX written by rust",
    "topics": [
@@ -3398,7 +3429,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 63,
-   "rank": 107
+   "rank": 108
   },
   {
    "name": "bolna",
@@ -3407,12 +3438,12 @@
    "url": "https://github.com/bolna-ai/bolna",
    "owner": "bolna-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/178783630?v=4",
-   "stars": 710,
-   "forks": 321,
-   "open_issues": 80,
+   "stars": 711,
+   "forks": 322,
+   "open_issues": 81,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T08:01:32Z",
+   "pushed_at": "2026-07-26T09:37:05Z",
    "created_at": "2024-08-24T10:40:26Z",
    "description": "Conversational voice AI agents",
    "topics": [
@@ -3438,7 +3469,37 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 63,
-   "rank": 108
+   "rank": 109
+  },
+  {
+   "name": "voxt",
+   "full_name": "hehehai/voxt",
+   "slug": "hehehai-voxt",
+   "url": "https://github.com/hehehai/voxt",
+   "owner": "hehehai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/12692552?v=4",
+   "stars": 705,
+   "forks": 53,
+   "open_issues": 3,
+   "language": "Swift",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-25T23:55:48Z",
+   "created_at": "2026-02-26T02:45:43Z",
+   "description": "🎙️Voice input and translation app for macOS. Press to talk, release to paste.",
+   "topics": [
+    "ai",
+    "ai-writer",
+    "asr",
+    "meeting",
+    "speaker",
+    "stt",
+    "typeless",
+    "voice-assistant",
+    "whisper"
+   ],
+   "category": "Speech-to-Text",
+   "momentum": 63,
+   "rank": 110
   },
   {
    "name": "rhino",
@@ -3452,7 +3513,7 @@
    "open_issues": 3,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T03:28:53Z",
+   "pushed_at": "2026-07-25T16:56:47Z",
    "created_at": "2018-10-28T05:34:00Z",
    "description": "On-device Speech-to-Intent engine powered by deep learning",
    "topics": [
@@ -3477,37 +3538,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 63,
-   "rank": 109
-  },
-  {
-   "name": "voxt",
-   "full_name": "hehehai/voxt",
-   "slug": "hehehai-voxt",
-   "url": "https://github.com/hehehai/voxt",
-   "owner": "hehehai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/12692552?v=4",
-   "stars": 705,
-   "forks": 53,
-   "open_issues": 5,
-   "language": "Swift",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T10:44:44Z",
-   "created_at": "2026-02-26T02:45:43Z",
-   "description": "🎙️Voice input and translation app for macOS. Press to talk, release to paste.",
-   "topics": [
-    "ai",
-    "ai-writer",
-    "asr",
-    "meeting",
-    "speaker",
-    "stt",
-    "typeless",
-    "voice-assistant",
-    "whisper"
-   ],
-   "category": "Speech-to-Text",
-   "momentum": 63,
-   "rank": 110
+   "rank": 111
   },
   {
    "name": "voice-ai",
@@ -3516,12 +3547,12 @@
    "url": "https://github.com/rapidaai/voice-ai",
    "owner": "rapidaai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/136778580?v=4",
-   "stars": 702,
+   "stars": 703,
    "forks": 110,
    "open_issues": 27,
    "language": "Go",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T10:14:22Z",
+   "pushed_at": "2026-07-25T12:02:49Z",
    "created_at": "2023-12-07T07:57:00Z",
    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.",
    "topics": [
@@ -3548,7 +3579,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 63,
-   "rank": 111
+   "rank": 112
   },
   {
    "name": "flowcraft",
@@ -3584,7 +3615,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 63,
-   "rank": 112
+   "rank": 113
   },
   {
    "name": "RealtimeTTS",
@@ -3593,7 +3624,7 @@
    "url": "https://github.com/KoljaB/RealtimeTTS",
    "owner": "KoljaB",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7604638?v=4",
-   "stars": 3999,
+   "stars": 4000,
    "forks": 399,
    "open_issues": 125,
    "language": "Python",
@@ -3609,7 +3640,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 62,
-   "rank": 113
+   "rank": 114
   },
   {
    "name": "diart",
@@ -3637,7 +3668,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 62,
-   "rank": 114
+   "rank": 115
   },
   {
    "name": "MioSub",
@@ -3646,7 +3677,7 @@
    "url": "https://github.com/corvo007/MioSub",
    "owner": "corvo007",
    "owner_avatar": "https://avatars.githubusercontent.com/u/67192165?v=4",
-   "stars": 761,
+   "stars": 762,
    "forks": 52,
    "open_issues": 6,
    "language": "TypeScript",
@@ -3677,7 +3708,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 62,
-   "rank": 115
+   "rank": 116
   },
   {
    "name": "Pandrator",
@@ -3686,12 +3717,12 @@
    "url": "https://github.com/lukaszliniewicz/Pandrator",
    "owner": "lukaszliniewicz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/75737665?v=4",
-   "stars": 593,
+   "stars": 594,
    "forks": 43,
    "open_issues": 16,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-25T04:39:57Z",
+   "pushed_at": "2026-07-26T04:01:31Z",
    "created_at": "2024-03-20T14:46:13Z",
    "description": "Turn PDFs and EPUBs into audiobooks; subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app with a GUI, an installer and all-in-one packages.",
    "topics": [
@@ -3718,7 +3749,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 62,
-   "rank": 116
+   "rank": 117
   },
   {
    "name": "adk-rust",
@@ -3727,12 +3758,12 @@
    "url": "https://github.com/zavora-ai/adk-rust",
    "owner": "zavora-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/89301109?v=4",
-   "stars": 567,
-   "forks": 82,
-   "open_issues": 15,
+   "stars": 568,
+   "forks": 83,
+   "open_issues": 7,
    "language": "Rust",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T10:09:25Z",
+   "pushed_at": "2026-07-26T09:57:17Z",
    "created_at": "2025-11-23T09:24:22Z",
    "description": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
    "topics": [
@@ -3756,7 +3787,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 62,
-   "rank": 117
+   "rank": 118
   },
   {
    "name": "Real-Time-Voice-Cloning",
@@ -3765,7 +3796,7 @@
    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
    "owner": "CorentinJ",
    "owner_avatar": "https://avatars.githubusercontent.com/u/12038136?v=4",
-   "stars": 60057,
+   "stars": 60059,
    "forks": 9404,
    "open_issues": 175,
    "language": "Python",
@@ -3783,7 +3814,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 60,
-   "rank": 118
+   "rank": 119
   },
   {
    "name": "Bark-Voice-Cloning",
@@ -3803,7 +3834,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 60,
-   "rank": 119
+   "rank": 120
   },
   {
    "name": "yandex_smart_home",
@@ -3814,7 +3845,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/3103856?v=4",
    "stars": 1075,
    "forks": 140,
-   "open_issues": 8,
+   "open_issues": 7,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-06-26T06:14:58Z",
@@ -3830,7 +3861,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 60,
-   "rank": 120
+   "rank": 121
   },
   {
    "name": "vui",
@@ -3839,7 +3870,7 @@
    "url": "https://github.com/fluxions-ai/vui",
    "owner": "fluxions-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/178551655?v=4",
-   "stars": 728,
+   "stars": 730,
    "forks": 75,
    "open_issues": 3,
    "language": "Python",
@@ -3871,7 +3902,79 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 60,
-   "rank": 121
+   "rank": 122
+  },
+  {
+   "name": "izwi",
+   "full_name": "izwi-ai/izwi",
+   "slug": "izwi-ai-izwi",
+   "url": "https://github.com/izwi-ai/izwi",
+   "owner": "izwi-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/267741509?v=4",
+   "stars": 353,
+   "forks": 33,
+   "open_issues": 18,
+   "language": "Rust",
+   "license": "MIT",
+   "pushed_at": "2026-07-20T16:10:25Z",
+   "created_at": "2026-01-23T16:53:17Z",
+   "description": "Voice AI runtime. Local first transcription, speaker diarization, TTS, and voice cloning with an OpenAI compatible API.",
+   "topics": [
+    "asr",
+    "audio-inference",
+    "local-first",
+    "openai-compatible-api",
+    "self-hosted-ai",
+    "speaker-diarization",
+    "speech-to-text",
+    "text-to-speech",
+    "tts",
+    "voice-cloning"
+   ],
+   "category": "Voice Cloning & Conversion",
+   "momentum": 59,
+   "rank": 123
+  },
+  {
+   "name": "humla",
+   "full_name": "michaelwilhelmsen/humla",
+   "slug": "michaelwilhelmsen-humla",
+   "url": "https://github.com/michaelwilhelmsen/humla",
+   "owner": "michaelwilhelmsen",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/6598620?v=4",
+   "stars": 157,
+   "forks": 13,
+   "open_issues": 17,
+   "language": "Rust",
+   "license": "MIT",
+   "pushed_at": "2026-07-26T09:42:28Z",
+   "created_at": "2026-04-27T21:08:53Z",
+   "description": "Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deepgram / Groq, identifies speakers offline, and writes summaries that fuse your notes with the transcript. Ask your notes and get cited answers. Tauri 2 + Rust + Swift.",
+   "topics": [
+    "ai",
+    "apple-silicon",
+    "granola-alternative",
+    "local-first",
+    "local-llm",
+    "macos",
+    "meeting-minutes",
+    "meeting-notes",
+    "norwegian",
+    "note-taking",
+    "on-device",
+    "open-source",
+    "privacy",
+    "rag",
+    "rust",
+    "speaker-diarization",
+    "swift",
+    "tauri",
+    "transcription",
+    "whisper"
+   ],
+   "category": "Enhancement & Analysis",
+   "momentum": 59,
+   "rank": 124
   },
   {
    "name": "livecaption",
@@ -3900,68 +4003,8 @@
     "translation"
    ],
    "category": "Voice Agents & Realtime",
-   "momentum": 60,
-   "rank": 122
-  },
-  {
-   "name": "izwi",
-   "full_name": "izwi-ai/izwi",
-   "slug": "izwi-ai-izwi",
-   "url": "https://github.com/izwi-ai/izwi",
-   "owner": "izwi-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/267741509?v=4",
-   "stars": 352,
-   "forks": 33,
-   "open_issues": 18,
-   "language": "Rust",
-   "license": "MIT",
-   "pushed_at": "2026-07-20T16:10:25Z",
-   "created_at": "2026-01-23T16:53:17Z",
-   "description": "Voice AI runtime. Local first transcription, speaker diarization, TTS, and voice cloning with an OpenAI compatible API.",
-   "topics": [
-    "asr",
-    "audio-inference",
-    "local-first",
-    "openai-compatible-api",
-    "self-hosted-ai",
-    "speaker-diarization",
-    "speech-to-text",
-    "text-to-speech",
-    "tts",
-    "voice-cloning"
-   ],
-   "category": "Voice Cloning & Conversion",
    "momentum": 59,
-   "rank": 123
-  },
-  {
-   "name": "senko",
-   "full_name": "narcotic-sh/senko",
-   "slug": "narcotic-sh-senko",
-   "url": "https://github.com/narcotic-sh/senko",
-   "owner": "narcotic-sh",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/159318243?v=4",
-   "stars": 285,
-   "forks": 29,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-23T09:39:28Z",
-   "created_at": "2025-09-02T05:20:15Z",
-   "description": "Very fast, accurate speaker diarization",
-   "topics": [
-    "audio-ai",
-    "diarization",
-    "fbank",
-    "pyannote",
-    "rapids",
-    "silero-vad",
-    "speaker-diarization",
-    "zanshin"
-   ],
-   "category": "Enhancement & Analysis",
-   "momentum": 59,
-   "rank": 124
+   "rank": 125
   },
   {
    "name": "unified-audio",
@@ -3990,7 +4033,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 58,
-   "rank": 125
+   "rank": 126
   },
   {
    "name": "parakeet-rs",
@@ -4020,35 +4063,36 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 58,
-   "rank": 126
+   "rank": 127
   },
   {
-   "name": "GPA",
-   "full_name": "AutoArk/GPA",
-   "slug": "autoark-gpa",
-   "url": "https://github.com/AutoArk/GPA",
-   "owner": "AutoArk",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/224494850?v=4",
-   "stars": 1710,
-   "forks": 119,
-   "open_issues": 4,
+   "name": "senko",
+   "full_name": "narcotic-sh/senko",
+   "slug": "narcotic-sh-senko",
+   "url": "https://github.com/narcotic-sh/senko",
+   "owner": "narcotic-sh",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/159318243?v=4",
+   "stars": 287,
+   "forks": 29,
+   "open_issues": 0,
    "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-25T08:02:41Z",
-   "created_at": "2025-12-16T05:20:34Z",
-   "description": "[AutoArk] GPA (General Purpose Audio) can do ASR, TTS and voice conversion with one tiny model!",
+   "license": "MIT",
+   "pushed_at": "2026-07-23T09:39:28Z",
+   "created_at": "2025-09-02T05:20:15Z",
+   "description": "Very fast, accurate speaker diarization",
    "topics": [
-    "asr",
-    "automatic-speech-recognition",
-    "text-to-speech",
-    "transformer",
-    "tts",
-    "vc",
-    "voice-conversion"
+    "audio-ai",
+    "diarization",
+    "fbank",
+    "pyannote",
+    "rapids",
+    "silero-vad",
+    "speaker-diarization",
+    "zanshin"
    ],
-   "category": "Voice Cloning & Conversion",
-   "momentum": 57,
-   "rank": 127
+   "category": "Enhancement & Analysis",
+   "momentum": 58,
+   "rank": 128
   },
   {
    "name": "EVA-OS",
@@ -4057,7 +4101,7 @@
    "url": "https://github.com/AutoArk/EVA-OS",
    "owner": "AutoArk",
    "owner_avatar": "https://avatars.githubusercontent.com/u/224494850?v=4",
-   "stars": 1104,
+   "stars": 1105,
    "forks": 71,
    "open_issues": 2,
    "language": "TypeScript",
@@ -4076,33 +4120,6 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 57,
-   "rank": 128
-  },
-  {
-   "name": "CloneTTS",
-   "full_name": "sipeter/CloneTTS",
-   "slug": "sipeter-clonetts",
-   "url": "https://github.com/sipeter/CloneTTS",
-   "owner": "sipeter",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/8326141?v=4",
-   "stars": 746,
-   "forks": 22,
-   "open_issues": 0,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-06-17T06:35:36Z",
-   "created_at": "2026-03-21T00:01:04Z",
-   "description": "A lightweight, offline Android Text-to-Speech (TTS) engine enabling seamless system-wide voice cloning and high-fidelity text reading. / 运行在安卓本地的轻量级文字转语音 (TTS) 引擎，支持离线发音人提取、零门槛音色克隆与双擎系统级全局听书。",
-   "topics": [
-    "android",
-    "offline-tts",
-    "reader",
-    "text-to-speech",
-    "tts",
-    "voice-cloning"
-   ],
-   "category": "Voice Cloning & Conversion",
-   "momentum": 57,
    "rank": 129
   },
   {
@@ -4112,7 +4129,7 @@
    "url": "https://github.com/babysor/MockingBird",
    "owner": "babysor",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7423248?v=4",
-   "stars": 36924,
+   "stars": 36926,
    "forks": 5196,
    "open_issues": 482,
    "language": "Python",
@@ -4164,13 +4181,41 @@
    "rank": 131
   },
   {
+   "name": "GPA",
+   "full_name": "AutoArk/GPA",
+   "slug": "autoark-gpa",
+   "url": "https://github.com/AutoArk/GPA",
+   "owner": "AutoArk",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/224494850?v=4",
+   "stars": 1728,
+   "forks": 119,
+   "open_issues": 4,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-25T08:02:41Z",
+   "created_at": "2025-12-16T05:20:34Z",
+   "description": "[AutoArk] GPA (General Purpose Audio) can do ASR, TTS and voice conversion with one tiny model!",
+   "topics": [
+    "asr",
+    "automatic-speech-recognition",
+    "text-to-speech",
+    "transformer",
+    "tts",
+    "vc",
+    "voice-conversion"
+   ],
+   "category": "Voice Cloning & Conversion",
+   "momentum": 56,
+   "rank": 132
+  },
+  {
    "name": "Chatterbox-TTS-Server",
    "full_name": "devnen/Chatterbox-TTS-Server",
    "slug": "devnen-chatterbox-tts-server",
    "url": "https://github.com/devnen/Chatterbox-TTS-Server",
    "owner": "devnen",
    "owner_avatar": "https://avatars.githubusercontent.com/u/195903272?v=4",
-   "stars": 1373,
+   "stars": 1372,
    "forks": 330,
    "open_issues": 45,
    "language": "Python",
@@ -4201,7 +4246,75 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 56,
-   "rank": 132
+   "rank": 133
+  },
+  {
+   "name": "CloneTTS",
+   "full_name": "sipeter/CloneTTS",
+   "slug": "sipeter-clonetts",
+   "url": "https://github.com/sipeter/CloneTTS",
+   "owner": "sipeter",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8326141?v=4",
+   "stars": 747,
+   "forks": 22,
+   "open_issues": 0,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-06-17T06:35:36Z",
+   "created_at": "2026-03-21T00:01:04Z",
+   "description": "A lightweight, offline Android Text-to-Speech (TTS) engine enabling seamless system-wide voice cloning and high-fidelity text reading. / 运行在安卓本地的轻量级文字转语音 (TTS) 引擎，支持离线发音人提取、零门槛音色克隆与双擎系统级全局听书。",
+   "topics": [
+    "android",
+    "offline-tts",
+    "reader",
+    "text-to-speech",
+    "tts",
+    "voice-cloning"
+   ],
+   "category": "Voice Cloning & Conversion",
+   "momentum": 56,
+   "rank": 134
+  },
+  {
+   "name": "matrix-live-diarizer",
+   "full_name": "lgy1027/matrix-live-diarizer",
+   "slug": "lgy1027-matrix-live-diarizer",
+   "url": "https://github.com/lgy1027/matrix-live-diarizer",
+   "owner": "lgy1027",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/38779388?v=4",
+   "stars": 168,
+   "forks": 20,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-22T08:48:31Z",
+   "created_at": "2026-03-08T16:59:46Z",
+   "description": "Local-first real-time meeting transcription with speaker diarization, switchable ASR engines, and optional OpenAI-compatible LLM summaries.",
+   "topics": [
+    "asr",
+    "docker",
+    "fastapi",
+    "funasr",
+    "llm",
+    "local-first",
+    "meeting-transcription",
+    "modelscope",
+    "ollama",
+    "openai-compatible",
+    "privacy",
+    "pytorch",
+    "qwen",
+    "realtime-transcription",
+    "speaker-diarization",
+    "speaker-identification",
+    "speech-to-text",
+    "vite",
+    "vue",
+    "websocket"
+   ],
+   "category": "Voice Agents & Realtime",
+   "momentum": 56,
+   "rank": 135
   },
   {
    "name": "obs-localvocal",
@@ -4210,7 +4323,7 @@
    "url": "https://github.com/royshil/obs-localvocal",
    "owner": "royshil",
    "owner_avatar": "https://avatars.githubusercontent.com/u/441170?v=4",
-   "stars": 1553,
+   "stars": 1554,
    "forks": 120,
    "open_issues": 55,
    "language": "C++",
@@ -4239,7 +4352,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 55,
-   "rank": 133
+   "rank": 136
   },
   {
    "name": "Speech-AI-Forge",
@@ -4249,7 +4362,7 @@
    "owner": "lenML",
    "owner_avatar": "https://avatars.githubusercontent.com/u/154655365?v=4",
    "stars": 1415,
-   "forks": 186,
+   "forks": 187,
    "open_issues": 77,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -4280,38 +4393,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 55,
-   "rank": 134
-  },
-  {
-   "name": "dicio-android",
-   "full_name": "DicioTeam/dicio-android",
-   "slug": "dicioteam-dicio-android",
-   "url": "https://github.com/DicioTeam/dicio-android",
-   "owner": "DicioTeam",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/278598733?v=4",
-   "stars": 1415,
-   "forks": 151,
-   "open_issues": 120,
-   "language": "Kotlin",
-   "license": "GPL-3.0",
-   "pushed_at": "2026-05-21T09:20:37Z",
-   "created_at": "2019-08-02T17:43:01Z",
-   "description": "Dicio assistant app for Android",
-   "topics": [
-    "android",
-    "assistant",
-    "dicio",
-    "personal-assistant",
-    "skills",
-    "stt",
-    "tts",
-    "voice-assistant",
-    "vosk",
-    "wakeword"
-   ],
-   "category": "Voice Agents & Realtime",
-   "momentum": 55,
-   "rank": 135
+   "rank": 137
   },
   {
    "name": "openclaw-nerve",
@@ -4321,7 +4403,7 @@
    "owner": "daggerhashimoto",
    "owner_avatar": "https://avatars.githubusercontent.com/u/212682?v=4",
    "stars": 855,
-   "forks": 143,
+   "forks": 144,
    "open_issues": 29,
    "language": "TypeScript",
    "license": "MIT",
@@ -4345,7 +4427,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 55,
-   "rank": 136
+   "rank": 138
   },
   {
    "name": "Qwen3-TTS",
@@ -4354,8 +4436,8 @@
    "url": "https://github.com/QwenLM/Qwen3-TTS",
    "owner": "QwenLM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/141221163?v=4",
-   "stars": 12593,
-   "forks": 1629,
+   "stars": 12610,
+   "forks": 1630,
    "open_issues": 57,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4365,7 +4447,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 54,
-   "rank": 137
+   "rank": 139
   },
   {
    "name": "edge-tts",
@@ -4374,7 +4456,7 @@
    "url": "https://github.com/rany2/edge-tts",
    "owner": "rany2",
    "owner_avatar": "https://avatars.githubusercontent.com/u/71077389?v=4",
-   "stars": 11575,
+   "stars": 11583,
    "forks": 1064,
    "open_issues": 5,
    "language": "Python",
@@ -4389,7 +4471,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 54,
-   "rank": 138
+   "rank": 140
   },
   {
    "name": "Amphion",
@@ -4398,7 +4480,7 @@
    "url": "https://github.com/open-mmlab/Amphion",
    "owner": "open-mmlab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10245193?v=4",
-   "stars": 9963,
+   "stars": 9967,
    "forks": 830,
    "open_issues": 175,
    "language": "Python",
@@ -4427,7 +4509,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 54,
-   "rank": 139
+   "rank": 141
   },
   {
    "name": "TTS",
@@ -4436,8 +4518,8 @@
    "url": "https://github.com/coqui-ai/TTS",
    "owner": "coqui-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/75583352?v=4",
-   "stars": 45805,
-   "forks": 6154,
+   "stars": 45817,
+   "forks": 6157,
    "open_issues": 4,
    "language": "Python",
    "license": "MPL-2.0",
@@ -4467,7 +4549,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 51,
-   "rank": 140
+   "rank": 142
   },
   {
    "name": "SoniTranslate",
@@ -4476,8 +4558,8 @@
    "url": "https://github.com/R3gm/SoniTranslate",
    "owner": "R3gm",
    "owner_avatar": "https://avatars.githubusercontent.com/u/114810545?v=4",
-   "stars": 1398,
-   "forks": 334,
+   "stars": 1399,
+   "forks": 335,
    "open_issues": 118,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4503,7 +4585,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 51,
-   "rank": 141
+   "rank": 143
   },
   {
    "name": "OpenVoice",
@@ -4512,7 +4594,7 @@
    "url": "https://github.com/myshell-ai/OpenVoice",
    "owner": "myshell-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127754094?v=4",
-   "stars": 37017,
+   "stars": 37024,
    "forks": 4137,
    "open_issues": 307,
    "language": "Python",
@@ -4528,7 +4610,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 50,
-   "rank": 142
+   "rank": 144
   },
   {
    "name": "gTTS",
@@ -4558,7 +4640,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 50,
-   "rank": 143
+   "rank": 145
   },
   {
    "name": "Genie-TTS",
@@ -4569,7 +4651,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/69069943?v=4",
    "stars": 1671,
    "forks": 117,
-   "open_issues": 32,
+   "open_issues": 33,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-04-18T11:02:14Z",
@@ -4585,32 +4667,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 50,
-   "rank": 144
-  },
-  {
-   "name": "video-analyzer",
-   "full_name": "byjlw/video-analyzer",
-   "slug": "byjlw-video-analyzer",
-   "url": "https://github.com/byjlw/video-analyzer",
-   "owner": "byjlw",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5281939?v=4",
-   "stars": 1517,
-   "forks": 215,
-   "open_issues": 7,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-04-19T19:29:05Z",
-   "created_at": "2024-11-10T17:49:24Z",
-   "description": "Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition",
-   "topics": [
-    "asr",
-    "llms",
-    "video",
-    "video-processing"
-   ],
-   "category": "Speech-to-Text",
-   "momentum": 50,
-   "rank": 145
+   "rank": 146
   },
   {
    "name": "so-vits-svc",
@@ -4620,7 +4677,7 @@
    "owner": "svc-develop-team",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127122328?v=4",
    "stars": 28152,
-   "forks": 5047,
+   "forks": 5046,
    "open_issues": 27,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -4648,33 +4705,32 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 49,
-   "rank": 146
+   "rank": 147
   },
   {
-   "name": "audiblez",
-   "full_name": "santinic/audiblez",
-   "slug": "santinic-audiblez",
-   "url": "https://github.com/santinic/audiblez",
-   "owner": "santinic",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/179558?v=4",
-   "stars": 8116,
-   "forks": 699,
-   "open_issues": 68,
+   "name": "video-analyzer",
+   "full_name": "byjlw/video-analyzer",
+   "slug": "byjlw-video-analyzer",
+   "url": "https://github.com/byjlw/video-analyzer",
+   "owner": "byjlw",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5281939?v=4",
+   "stars": 1519,
+   "forks": 215,
+   "open_issues": 7,
    "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-02-27T19:06:57Z",
-   "created_at": "2025-01-14T14:36:20Z",
-   "description": "Generate audiobooks from e-books",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-04-19T19:29:05Z",
+   "created_at": "2024-11-10T17:49:24Z",
+   "description": "Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition",
    "topics": [
-    "audiobooks",
-    "epub",
-    "kokoro",
-    "python",
-    "tts"
+    "asr",
+    "llms",
+    "video",
+    "video-processing"
    ],
-   "category": "Text-to-Speech",
+   "category": "Speech-to-Text",
    "momentum": 49,
-   "rank": 147
+   "rank": 148
   },
   {
    "name": "DeepSpeech",
@@ -4683,8 +4739,8 @@
    "url": "https://github.com/mozilla/DeepSpeech",
    "owner": "mozilla",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131524?v=4",
-   "stars": 26774,
-   "forks": 4081,
+   "stars": 26775,
+   "forks": 4083,
    "open_issues": 151,
    "language": "C++",
    "license": "MPL-2.0",
@@ -4705,7 +4761,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 48,
-   "rank": 148
+   "rank": 149
   },
   {
    "name": "faster-whisper",
@@ -4714,8 +4770,8 @@
    "url": "https://github.com/SYSTRAN/faster-whisper",
    "owner": "SYSTRAN",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1520500?v=4",
-   "stars": 24516,
-   "forks": 1994,
+   "stars": 24540,
+   "forks": 1995,
    "open_issues": 316,
    "language": "Python",
    "license": "MIT",
@@ -4734,7 +4790,33 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 48,
-   "rank": 149
+   "rank": 150
+  },
+  {
+   "name": "audiblez",
+   "full_name": "santinic/audiblez",
+   "slug": "santinic-audiblez",
+   "url": "https://github.com/santinic/audiblez",
+   "owner": "santinic",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/179558?v=4",
+   "stars": 8126,
+   "forks": 702,
+   "open_issues": 68,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-02-27T19:06:57Z",
+   "created_at": "2025-01-14T14:36:20Z",
+   "description": "Generate audiobooks from e-books",
+   "topics": [
+    "audiobooks",
+    "epub",
+    "kokoro",
+    "python",
+    "tts"
+   ],
+   "category": "Text-to-Speech",
+   "momentum": 48,
+   "rank": 151
   },
   {
    "name": "bailing",
@@ -4767,7 +4849,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 48,
-   "rank": 150
+   "rank": 152
   },
   {
    "name": "dia",
@@ -4776,8 +4858,8 @@
    "url": "https://github.com/nari-labs/dia",
    "owner": "nari-labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/208232306?v=4",
-   "stars": 19358,
-   "forks": 1690,
+   "stars": 19361,
+   "forks": 1689,
    "open_issues": 91,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4791,7 +4873,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 47,
-   "rank": 151
+   "rank": 153
   },
   {
    "name": "qwen3-tts-apple-silicon",
@@ -4824,7 +4906,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 47,
-   "rank": 152
+   "rank": 154
   },
   {
    "name": "kaldi",
@@ -4833,8 +4915,8 @@
    "url": "https://github.com/kaldi-asr/kaldi",
    "owner": "kaldi-asr",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11650082?v=4",
-   "stars": 15437,
-   "forks": 5356,
+   "stars": 15439,
+   "forks": 5355,
    "open_issues": 260,
    "language": "Shell",
    "license": "NOASSERTION",
@@ -4854,7 +4936,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 46,
-   "rank": 153
+   "rank": 155
   },
   {
    "name": "whisper-diarization",
@@ -4881,7 +4963,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 46,
-   "rank": 154
+   "rank": 156
   },
   {
    "name": "Step-Audio-EditX",
@@ -4912,8 +4994,8 @@
     "zero-shot-tts"
    ],
    "category": "Enhancement & Analysis",
-   "momentum": 46,
-   "rank": 155
+   "momentum": 45,
+   "rank": 157
   },
   {
    "name": "Qwen3-Audiobook-Converter",
@@ -4933,7 +5015,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 45,
-   "rank": 156
+   "rank": 158
   },
   {
    "name": "piper",
@@ -4942,8 +5024,8 @@
    "url": "https://github.com/rhasspy/piper",
    "owner": "rhasspy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59055969?v=4",
-   "stars": 11258,
-   "forks": 1041,
+   "stars": 11262,
+   "forks": 1040,
    "open_issues": 419,
    "language": "C++",
    "license": "MIT",
@@ -4957,7 +5039,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 44,
-   "rank": 157
+   "rank": 159
   },
   {
    "name": "TTS",
@@ -4966,7 +5048,7 @@
    "url": "https://github.com/mozilla/TTS",
    "owner": "mozilla",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131524?v=4",
-   "stars": 10165,
+   "stars": 10166,
    "forks": 1322,
    "open_issues": 38,
    "language": "Jupyter Notebook",
@@ -4994,45 +5076,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 44,
-   "rank": 158
-  },
-  {
-   "name": "RCLI",
-   "full_name": "RunanywhereAI/RCLI",
-   "slug": "runanywhereai-rcli",
-   "url": "https://github.com/RunanywhereAI/RCLI",
-   "owner": "RunanywhereAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/220821781?v=4",
-   "stars": 1531,
-   "forks": 84,
-   "open_issues": 12,
-   "language": "C++",
-   "license": "MIT",
-   "pushed_at": "2026-03-16T02:30:00Z",
-   "created_at": "2026-03-04T07:41:17Z",
-   "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
-   "topics": [
-    "ai-assistant",
-    "apple-silicon",
-    "kitten-tts",
-    "kokoro-tts",
-    "lfm2",
-    "llama-cpp",
-    "llm",
-    "local-ai",
-    "metal",
-    "on-device-ai",
-    "parakeet",
-    "qwen3",
-    "rag",
-    "speech-to-text",
-    "text-to-speech",
-    "tool-calling",
-    "voice-assistant"
-   ],
-   "category": "Speech-to-Text",
-   "momentum": 44,
-   "rank": 159
+   "rank": 160
   },
   {
    "name": "MOSS-TTSD",
@@ -5059,7 +5103,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 44,
-   "rank": 160
+   "rank": 161
   },
   {
    "name": "FlashLabs-Chroma",
@@ -5088,7 +5132,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 44,
-   "rank": 161
+   "rank": 162
   },
   {
    "name": "parakeet.cpp",
@@ -5118,7 +5162,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 44,
-   "rank": 162
+   "rank": 163
   },
   {
    "name": "clone-voice",
@@ -5127,8 +5171,8 @@
    "url": "https://github.com/jianchang512/clone-voice",
    "owner": "jianchang512",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3378335?v=4",
-   "stars": 8983,
-   "forks": 984,
+   "stars": 8984,
+   "forks": 983,
    "open_issues": 40,
    "language": "Python",
    "license": "NOASSERTION",
@@ -5144,7 +5188,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 43,
-   "rank": 163
+   "rank": 164
   },
   {
    "name": "EmotiVoice",
@@ -5154,7 +5198,7 @@
    "owner": "netease-youdao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3909232?v=4",
    "stars": 8498,
-   "forks": 754,
+   "forks": 753,
    "open_issues": 139,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5178,7 +5222,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 43,
-   "rank": 164
+   "rank": 165
   },
   {
    "name": "VALL-E-X",
@@ -5206,7 +5250,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 43,
-   "rank": 165
+   "rank": 166
   },
   {
    "name": "vits",
@@ -5232,7 +5276,45 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 43,
-   "rank": 166
+   "rank": 167
+  },
+  {
+   "name": "RCLI",
+   "full_name": "RunanywhereAI/RCLI",
+   "slug": "runanywhereai-rcli",
+   "url": "https://github.com/RunanywhereAI/RCLI",
+   "owner": "RunanywhereAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/220821781?v=4",
+   "stars": 1532,
+   "forks": 84,
+   "open_issues": 12,
+   "language": "C++",
+   "license": "MIT",
+   "pushed_at": "2026-03-16T02:30:00Z",
+   "created_at": "2026-03-04T07:41:17Z",
+   "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
+   "topics": [
+    "ai-assistant",
+    "apple-silicon",
+    "kitten-tts",
+    "kokoro-tts",
+    "lfm2",
+    "llama-cpp",
+    "llm",
+    "local-ai",
+    "metal",
+    "on-device-ai",
+    "parakeet",
+    "qwen3",
+    "rag",
+    "speech-to-text",
+    "text-to-speech",
+    "tool-calling",
+    "voice-assistant"
+   ],
+   "category": "Speech-to-Text",
+   "momentum": 43,
+   "rank": 168
   },
   {
    "name": "Retrieval-based-Voice-Conversion-WebUI",
@@ -5267,7 +5349,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 43,
-   "rank": 167
+   "rank": 169
   },
   {
    "name": "FS-EEND",
@@ -5295,7 +5377,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 43,
-   "rank": 168
+   "rank": 170
   },
   {
    "name": "MeloTTS",
@@ -5304,8 +5386,8 @@
    "url": "https://github.com/myshell-ai/MeloTTS",
    "owner": "myshell-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127754094?v=4",
-   "stars": 7549,
-   "forks": 1057,
+   "stars": 7550,
+   "forks": 1058,
    "open_issues": 232,
    "language": "Python",
    "license": "MIT",
@@ -5325,7 +5407,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 42,
-   "rank": 169
+   "rank": 171
   },
   {
    "name": "Zonos",
@@ -5345,7 +5427,7 @@
    "topics": [],
    "category": "Text-to-Speech",
    "momentum": 42,
-   "rank": 170
+   "rank": 172
   },
   {
    "name": "wukong-robot",
@@ -5383,7 +5465,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 42,
-   "rank": 171
+   "rank": 173
   },
   {
    "name": "mycroft-core",
@@ -5421,7 +5503,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 42,
-   "rank": 172
+   "rank": 174
   },
   {
    "name": "StyleTTS2",
@@ -5454,7 +5536,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 42,
-   "rank": 173
+   "rank": 175
   },
   {
    "name": "Orpheus-TTS",
@@ -5463,8 +5545,8 @@
    "url": "https://github.com/canopyai/Orpheus-TTS",
    "owner": "canopyai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/157303550?v=4",
-   "stars": 6260,
-   "forks": 532,
+   "stars": 6262,
+   "forks": 533,
    "open_issues": 126,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5478,7 +5560,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 42,
-   "rank": 174
+   "rank": 176
   },
   {
    "name": "jarvis",
@@ -5502,7 +5584,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 42,
-   "rank": 175
+   "rank": 177
   },
   {
    "name": "FireRedASR",
@@ -5533,7 +5615,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 41,
-   "rank": 176
+   "rank": 178
   },
   {
    "name": "speechlib",
@@ -5562,7 +5644,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 41,
-   "rank": 177
+   "rank": 179
   },
   {
    "name": "stt",
@@ -5571,8 +5653,8 @@
    "url": "https://github.com/jianchang512/stt",
    "owner": "jianchang512",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3378335?v=4",
-   "stars": 4700,
-   "forks": 493,
+   "stars": 4703,
+   "forks": 494,
    "open_issues": 100,
    "language": "Python",
    "license": "GPL-3.0",
@@ -5587,7 +5669,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 40,
-   "rank": 178
+   "rank": 180
   },
   {
    "name": "whisper-jax",
@@ -5613,7 +5695,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 40,
-   "rank": 179
+   "rank": 181
   },
   {
    "name": "WhisperSpeech",
@@ -5637,7 +5719,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 40,
-   "rank": 180
+   "rank": 182
   },
   {
    "name": "fastrtc",
@@ -5647,7 +5729,7 @@
    "owner": "gradio-app",
    "owner_avatar": "https://avatars.githubusercontent.com/u/51063788?v=4",
    "stars": 4616,
-   "forks": 434,
+   "forks": 433,
    "open_issues": 79,
    "language": "JavaScript",
    "license": "MIT",
@@ -5666,7 +5748,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 40,
-   "rank": 181
+   "rank": 183
   },
   {
    "name": "DeepFilterNet",
@@ -5675,8 +5757,8 @@
    "url": "https://github.com/Rikorose/DeepFilterNet",
    "owner": "Rikorose",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16517898?v=4",
-   "stars": 4503,
-   "forks": 491,
+   "stars": 4504,
+   "forks": 492,
    "open_issues": 59,
    "language": "Python",
    "license": "NOASSERTION",
@@ -5694,7 +5776,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 40,
-   "rank": 182
+   "rank": 184
   },
   {
    "name": "ultravox",
@@ -5703,8 +5785,8 @@
    "url": "https://github.com/fixie-ai/ultravox",
    "owner": "fixie-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104391453?v=4",
-   "stars": 4481,
-   "forks": 381,
+   "stars": 4488,
+   "forks": 382,
    "open_issues": 62,
    "language": "Python",
    "license": "MIT",
@@ -5719,7 +5801,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 40,
-   "rank": 183
+   "rank": 185
   },
   {
    "name": "ClearerVoice-Studio",
@@ -5728,8 +5810,8 @@
    "url": "https://github.com/modelscope/ClearerVoice-Studio",
    "owner": "modelscope",
    "owner_avatar": "https://avatars.githubusercontent.com/u/109945100?v=4",
-   "stars": 4330,
-   "forks": 355,
+   "stars": 4332,
+   "forks": 356,
    "open_issues": 90,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5751,7 +5833,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 40,
-   "rank": 184
+   "rank": 186
   },
   {
    "name": "metavoice-src",
@@ -5781,7 +5863,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 40,
-   "rank": 185
+   "rank": 187
   },
   {
    "name": "distil-whisper",
@@ -5790,7 +5872,7 @@
    "url": "https://github.com/huggingface/distil-whisper",
    "owner": "huggingface",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-   "stars": 4097,
+   "stars": 4098,
    "forks": 353,
    "open_issues": 76,
    "language": "Python",
@@ -5805,7 +5887,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 40,
-   "rank": 186
+   "rank": 188
   },
   {
    "name": "speech-to-text-wavenet",
@@ -5814,8 +5896,8 @@
    "url": "https://github.com/buriburisuri/speech-to-text-wavenet",
    "owner": "buriburisuri",
    "owner_avatar": "https://avatars.githubusercontent.com/u/15722005?v=4",
-   "stars": 4005,
-   "forks": 787,
+   "stars": 4006,
+   "forks": 788,
    "open_issues": 85,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5825,7 +5907,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 187
+   "rank": 189
   },
   {
    "name": "TensorFlowTTS",
@@ -5866,7 +5948,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 39,
-   "rank": 188
+   "rank": 190
   },
   {
    "name": "seed-vc",
@@ -5875,7 +5957,7 @@
    "url": "https://github.com/Plachtaa/seed-vc",
    "owner": "Plachtaa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/112609742?v=4",
-   "stars": 3885,
+   "stars": 3888,
    "forks": 513,
    "open_issues": 94,
    "language": "Python",
@@ -5889,7 +5971,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 39,
-   "rank": 189
+   "rank": 191
   },
   {
    "name": "olivia",
@@ -5924,7 +6006,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 190
+   "rank": 192
   },
   {
    "name": "whisper_streaming",
@@ -5944,7 +6026,7 @@
    "topics": [],
    "category": "Voice Agents & Realtime",
    "momentum": 39,
-   "rank": 191
+   "rank": 193
   },
   {
    "name": "whisper-web",
@@ -5968,7 +6050,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 192
+   "rank": 194
   },
   {
    "name": "whisper-asr-webservice",
@@ -5977,7 +6059,7 @@
    "url": "https://github.com/ahmetoner/whisper-asr-webservice",
    "owner": "ahmetoner",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3612657?v=4",
-   "stars": 3303,
+   "stars": 3304,
    "forks": 581,
    "open_issues": 118,
    "language": "Python",
@@ -5996,7 +6078,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 193
+   "rank": 195
   },
   {
    "name": "iOS-10-Sampler",
@@ -6030,7 +6112,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 194
+   "rank": 196
   },
   {
    "name": "BayLing-Speech",
@@ -6057,7 +6139,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 195
+   "rank": 197
   },
   {
    "name": "Chenyme-AAVT",
@@ -6068,7 +6150,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/118253778?v=4",
    "stars": 3129,
    "forks": 245,
-   "open_issues": 51,
+   "open_issues": 26,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2025-04-07T05:48:22Z",
@@ -6084,7 +6166,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 196
+   "rank": 198
   },
   {
    "name": "whisper-standalone-win",
@@ -6093,7 +6175,7 @@
    "url": "https://github.com/Purfview/whisper-standalone-win",
    "owner": "Purfview",
    "owner_avatar": "https://avatars.githubusercontent.com/u/69023953?v=4",
-   "stars": 3127,
+   "stars": 3128,
    "forks": 165,
    "open_issues": 7,
    "language": "",
@@ -6120,7 +6202,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 38,
-   "rank": 197
+   "rank": 199
   },
   {
    "name": "3D-Speaker",
@@ -6151,7 +6233,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 38,
-   "rank": 198
+   "rank": 200
   },
   {
    "name": "whishper",
@@ -6160,8 +6242,8 @@
    "url": "https://github.com/pluja/whishper",
    "owner": "pluja",
    "owner_avatar": "https://avatars.githubusercontent.com/u/64632615?v=4",
-   "stars": 3045,
-   "forks": 178,
+   "stars": 3047,
+   "forks": 179,
    "open_issues": 108,
    "language": "Svelte",
    "license": "AGPL-3.0",
@@ -6186,7 +6268,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 199
+   "rank": 201
   },
   {
    "name": "tacotron",
@@ -6213,7 +6295,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 38,
-   "rank": 200
+   "rank": 202
   },
   {
    "name": "delayed-streams-modeling",
@@ -6222,7 +6304,7 @@
    "url": "https://github.com/kyutai-labs/delayed-streams-modeling",
    "owner": "kyutai-labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/151010778?v=4",
-   "stars": 2984,
+   "stars": 2986,
    "forks": 309,
    "open_issues": 36,
    "language": "Python",
@@ -6233,7 +6315,7 @@
    "topics": [],
    "category": "Toolkits & Frameworks",
    "momentum": 38,
-   "rank": 201
+   "rank": 203
   },
   {
    "name": "faster-whisper-GUI",
@@ -6243,7 +6325,7 @@
    "owner": "CheshireCC",
    "owner_avatar": "https://avatars.githubusercontent.com/u/36411617?v=4",
    "stars": 2982,
-   "forks": 169,
+   "forks": 170,
    "open_issues": 124,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -6262,7 +6344,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 38,
-   "rank": 202
+   "rank": 204
   },
   {
    "name": "whisper-vits-svc",
@@ -6293,7 +6375,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 38,
-   "rank": 203
+   "rank": 205
   },
   {
    "name": "Automatic_Speech_Recognition",
@@ -6332,7 +6414,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 204
+   "rank": 206
   },
   {
    "name": "whisper-timestamped",
@@ -6373,7 +6455,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 38,
-   "rank": 205
+   "rank": 207
   },
   {
    "name": "MARS5-TTS",
@@ -6400,7 +6482,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 38,
-   "rank": 206
+   "rank": 208
   },
   {
    "name": "ten-vad",
@@ -6409,7 +6491,7 @@
    "url": "https://github.com/TEN-framework/ten-vad",
    "owner": "TEN-framework",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113095513?v=4",
-   "stars": 2204,
+   "stars": 2207,
    "forks": 174,
    "open_issues": 26,
    "language": "C",
@@ -6433,7 +6515,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 38,
-   "rank": 207
+   "rank": 209
   },
   {
    "name": "STT",
@@ -6464,7 +6546,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 37,
-   "rank": 208
+   "rank": 210
   },
   {
    "name": "marytts",
@@ -6489,7 +6571,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 209
+   "rank": 211
   },
   {
    "name": "juliusjs",
@@ -6509,7 +6591,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 37,
-   "rank": 210
+   "rank": 212
   },
   {
    "name": "pytorch-kaldi",
@@ -6547,7 +6629,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 37,
-   "rank": 211
+   "rank": 213
   },
   {
    "name": "wavenet_vocoder",
@@ -6576,7 +6658,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 212
+   "rank": 214
   },
   {
    "name": "hifi-gan",
@@ -6586,7 +6668,7 @@
    "owner": "jik876",
    "owner_avatar": "https://avatars.githubusercontent.com/u/65878508?v=4",
    "stars": 2360,
-   "forks": 556,
+   "forks": 555,
    "open_issues": 111,
    "language": "Python",
    "license": "MIT",
@@ -6605,7 +6687,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 213
+   "rank": 215
   },
   {
    "name": "Tacotron-2",
@@ -6633,7 +6715,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 214
+   "rank": 216
   },
   {
    "name": "IMS-Toucan",
@@ -6642,7 +6724,7 @@
    "url": "https://github.com/DigitalPhonetics/IMS-Toucan",
    "owner": "DigitalPhonetics",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42207404?v=4",
-   "stars": 2207,
+   "stars": 2208,
    "forks": 317,
    "open_issues": 3,
    "language": "Python",
@@ -6662,7 +6744,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 37,
-   "rank": 215
+   "rank": 217
   },
   {
    "name": "WaveRNN",
@@ -6690,7 +6772,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 216
+   "rank": 218
   },
   {
    "name": "tensorflow-speech-recognition",
@@ -6717,7 +6799,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 37,
-   "rank": 217
+   "rank": 219
   },
   {
    "name": "soloud",
@@ -6726,7 +6808,7 @@
    "url": "https://github.com/jarikomppa/soloud",
    "owner": "jarikomppa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4472647?v=4",
-   "stars": 2139,
+   "stars": 2140,
    "forks": 343,
    "open_issues": 122,
    "language": "C",
@@ -6758,7 +6840,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 218
+   "rank": 220
   },
   {
    "name": "deepspeech.pytorch",
@@ -6778,7 +6860,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 219
+   "rank": 221
   },
   {
    "name": "deepvoice3_pytorch",
@@ -6807,7 +6889,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 36,
-   "rank": 220
+   "rank": 222
   },
   {
    "name": "masr",
@@ -6832,7 +6914,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 221
+   "rank": 223
   },
   {
    "name": "julius",
@@ -6857,7 +6939,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 222
+   "rank": 224
   },
   {
    "name": "alan-sdk-ios",
@@ -6866,7 +6948,7 @@
    "url": "https://github.com/alan-ai/alan-sdk-ios",
    "owner": "alan-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54960780?v=4",
-   "stars": 1882,
+   "stars": 1881,
    "forks": 15,
    "open_issues": 0,
    "language": "Objective-C",
@@ -6891,7 +6973,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 36,
-   "rank": 223
+   "rank": 225
   },
   {
    "name": "wer_are_we",
@@ -6901,7 +6983,7 @@
    "owner": "syhw",
    "owner_avatar": "https://avatars.githubusercontent.com/u/57564?v=4",
    "stars": 1864,
-   "forks": 225,
+   "forks": 224,
    "open_issues": 18,
    "language": "",
    "license": "",
@@ -6915,7 +6997,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 224
+   "rank": 226
   },
   {
    "name": "alan-sdk-android",
@@ -6924,7 +7006,7 @@
    "url": "https://github.com/alan-ai/alan-sdk-android",
    "owner": "alan-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54960780?v=4",
-   "stars": 1809,
+   "stars": 1808,
    "forks": 23,
    "open_issues": 5,
    "language": "",
@@ -6953,7 +7035,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 36,
-   "rank": 225
+   "rank": 227
   },
   {
    "name": "sherpa-ncnn",
@@ -6984,7 +7066,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 36,
-   "rank": 226
+   "rank": 228
   },
   {
    "name": "alan-sdk-flutter",
@@ -6993,7 +7075,7 @@
    "url": "https://github.com/alan-ai/alan-sdk-flutter",
    "owner": "alan-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54960780?v=4",
-   "stars": 1760,
+   "stars": 1759,
    "forks": 40,
    "open_issues": 3,
    "language": "Ruby",
@@ -7023,7 +7105,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 36,
-   "rank": 227
+   "rank": 229
   },
   {
    "name": "jovo-framework",
@@ -7054,7 +7136,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 35,
-   "rank": 228
+   "rank": 230
   },
   {
    "name": "alan-sdk-ionic",
@@ -7063,7 +7145,7 @@
    "url": "https://github.com/alan-ai/alan-sdk-ionic",
    "owner": "alan-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54960780?v=4",
-   "stars": 1654,
+   "stars": 1653,
    "forks": 20,
    "open_issues": 63,
    "language": "TypeScript",
@@ -7092,7 +7174,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 35,
-   "rank": 229
+   "rank": 231
   },
   {
    "name": "delta",
@@ -7133,7 +7215,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 35,
-   "rank": 230
+   "rank": 232
   },
   {
    "name": "uis-rnn",
@@ -7161,7 +7243,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 35,
-   "rank": 231
+   "rank": 233
   },
   {
    "name": "amica",
@@ -7188,7 +7270,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 232
+   "rank": 234
   },
   {
    "name": "OpenSeq2Seq",
@@ -7198,7 +7280,7 @@
    "owner": "NVIDIA",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
    "stars": 1559,
-   "forks": 371,
+   "forks": 372,
    "open_issues": 87,
    "language": "Python",
    "license": "Apache-2.0",
@@ -7223,7 +7305,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 35,
-   "rank": 233
+   "rank": 235
   },
   {
    "name": "pocketsphinx.js",
@@ -7243,7 +7325,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 234
+   "rank": 236
   },
   {
    "name": "Voice-Cloning-App",
@@ -7271,7 +7353,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 35,
-   "rank": 235
+   "rank": 237
   },
   {
    "name": "sphinx4",
@@ -7291,7 +7373,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 236
+   "rank": 238
   },
   {
    "name": "merlin",
@@ -7321,7 +7403,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 34,
-   "rank": 237
+   "rank": 239
   },
   {
    "name": "VideoChat",
@@ -7354,7 +7436,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 34,
-   "rank": 238
+   "rank": 240
   },
   {
    "name": "Twocast",
@@ -7379,7 +7461,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 34,
-   "rank": 239
+   "rank": 241
   },
   {
    "name": "audio-webui",
@@ -7417,7 +7499,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 34,
-   "rank": 240
+   "rank": 242
   },
   {
    "name": "sopro",
@@ -7437,7 +7519,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 34,
-   "rank": 241
+   "rank": 243
   },
   {
    "name": "echokit_server",
@@ -7448,7 +7530,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/47135233?v=4",
    "stars": 591,
    "forks": 77,
-   "open_issues": 21,
+   "open_issues": 22,
    "language": "Rust",
    "license": "GPL-3.0",
    "pushed_at": "2026-02-15T20:35:16Z",
@@ -7468,7 +7550,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 34,
-   "rank": 242
+   "rank": 244
   },
   {
    "name": "alan-sdk-cordova",
@@ -7477,7 +7559,7 @@
    "url": "https://github.com/alan-ai/alan-sdk-cordova",
    "owner": "alan-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54960780?v=4",
-   "stars": 1135,
+   "stars": 1134,
    "forks": 5,
    "open_issues": 4,
    "language": "Ruby",
@@ -7499,7 +7581,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 33,
-   "rank": 243
+   "rank": 245
   },
   {
    "name": "autovc",
@@ -7526,7 +7608,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 33,
-   "rank": 244
+   "rank": 246
   },
   {
    "name": "YourTTS",
@@ -7552,7 +7634,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 33,
-   "rank": 245
+   "rank": 247
   },
   {
    "name": "Python-ai-assistant",
@@ -7593,7 +7675,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 33,
-   "rank": 246
+   "rank": 248
   },
   {
    "name": "NISQA",
@@ -7624,7 +7706,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 33,
-   "rank": 247
+   "rank": 249
   },
   {
    "name": "rhasspy",
@@ -7663,7 +7745,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 33,
-   "rank": 248
+   "rank": 250
   },
   {
    "name": "blurr",
@@ -7699,7 +7781,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 33,
-   "rank": 249
+   "rank": 251
   },
   {
    "name": "transcriptionstream",
@@ -7730,7 +7812,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 33,
-   "rank": 250
+   "rank": 252
   },
   {
    "name": "Multilingual_Text_to_Speech",
@@ -7757,7 +7839,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 32,
-   "rank": 251
+   "rank": 253
   },
   {
    "name": "Gesture-Controlled-Virtual-Mouse",
@@ -7767,7 +7849,7 @@
    "owner": "Viral-Doshi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/66052861?v=4",
    "stars": 836,
-   "forks": 247,
+   "forks": 248,
    "open_issues": 22,
    "language": "Python",
    "license": "GPL-3.0",
@@ -7792,7 +7874,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 32,
-   "rank": 252
+   "rank": 254
   },
   {
    "name": "Jarvis-Desktop-Voice-Assistant",
@@ -7801,8 +7883,8 @@
    "url": "https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant",
    "owner": "kishanrajput23",
    "owner_avatar": "https://avatars.githubusercontent.com/u/70385488?v=4",
-   "stars": 831,
-   "forks": 1997,
+   "stars": 833,
+   "forks": 2000,
    "open_issues": 1,
    "language": "Python",
    "license": "MIT",
@@ -7833,7 +7915,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 32,
-   "rank": 253
+   "rank": 255
   },
   {
    "name": "mycroft-skills",
@@ -7843,7 +7925,7 @@
    "owner": "MycroftAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14171097?v=4",
    "stars": 760,
-   "forks": 840,
+   "forks": 839,
    "open_issues": 0,
    "language": "HTML",
    "license": "",
@@ -7865,7 +7947,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 32,
-   "rank": 254
+   "rank": 256
   },
   {
    "name": "dla",
@@ -7893,7 +7975,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 32,
-   "rank": 255
+   "rank": 257
   },
   {
    "name": "FreeVC",
@@ -7917,7 +7999,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 31,
-   "rank": 256
+   "rank": 258
   },
   {
    "name": "bark-voice-cloning-HuBERT-quantizer",
@@ -7943,7 +8025,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 31,
-   "rank": 257
+   "rank": 259
   },
   {
    "name": "ProjectAlice",
@@ -7972,7 +8054,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 31,
-   "rank": 258
+   "rank": 260
   },
   {
    "name": "picovoice",
@@ -8004,7 +8086,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 31,
-   "rank": 259
+   "rank": 261
   },
   {
    "name": "SpeechSplit",
@@ -8028,7 +8110,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 31,
-   "rank": 260
+   "rank": 262
   },
   {
    "name": "pyannote-whisper",
@@ -8055,7 +8137,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 31,
-   "rank": 261
+   "rank": 263
   },
   {
    "name": "lora-svc",
@@ -8086,7 +8168,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 31,
-   "rank": 262
+   "rank": 264
   },
   {
    "name": "vits2",
@@ -8115,7 +8197,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 31,
-   "rank": 263
+   "rank": 265
   },
   {
    "name": "chatterbox-tts-api",
@@ -8124,7 +8206,7 @@
    "url": "https://github.com/travisvn/chatterbox-tts-api",
    "owner": "travisvn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2686415?v=4",
-   "stars": 631,
+   "stars": 630,
    "forks": 146,
    "open_issues": 16,
    "language": "Python",
@@ -8155,7 +8237,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 31,
-   "rank": 264
+   "rank": 266
   },
   {
    "name": "Parakeet",
@@ -8189,7 +8271,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 31,
-   "rank": 265
+   "rank": 267
   },
   {
    "name": "ChatGLM2-Voice-Cloning",
@@ -8209,7 +8291,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 31,
-   "rank": 266
+   "rank": 268
   },
   {
    "name": "sprocket",
@@ -8234,7 +8316,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 267
+   "rank": 269
   },
   {
    "name": "Chatterbox-TTS-Extended",
@@ -8266,7 +8348,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 30,
-   "rank": 268
+   "rank": 270
   },
   {
    "name": "CycleGAN-VC2",
@@ -8299,7 +8381,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 269
+   "rank": 271
   },
   {
    "name": "SpectralCluster",
@@ -8329,7 +8411,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 30,
-   "rank": 270
+   "rank": 272
   },
   {
    "name": "ComfyUI_IndexTTS",
@@ -8349,7 +8431,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 271
+   "rank": 273
   },
   {
    "name": "Voice-Converter-CycleGAN",
@@ -8373,7 +8455,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 272
+   "rank": 274
   },
   {
    "name": "rvc-webui",
@@ -8398,7 +8480,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 273
+   "rank": 275
   },
   {
    "name": "StarGAN-Voice-Conversion",
@@ -8422,7 +8504,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 274
+   "rank": 276
   },
   {
    "name": "StarGANv2-VC",
@@ -8450,7 +8532,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 30,
-   "rank": 275
+   "rank": 277
   },
   {
    "name": "knn-vc",
@@ -8478,7 +8560,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 276
+   "rank": 278
   },
   {
    "name": "gantts",
@@ -8504,7 +8586,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 277
+   "rank": 279
   },
   {
    "name": "Speaker-Diarization",
@@ -8530,7 +8612,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 30,
-   "rank": 278
+   "rank": 280
   },
   {
    "name": "subtitles-view",
@@ -8560,7 +8642,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 29,
-   "rank": 279
+   "rank": 281
   },
   {
    "name": "speech_dataset",
@@ -8600,7 +8682,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 29,
-   "rank": 280
+   "rank": 282
   },
   {
    "name": "soft-vc",
@@ -8624,7 +8706,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 29,
-   "rank": 281
+   "rank": 283
   },
   {
    "name": "speaker-id",
@@ -8650,7 +8732,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 29,
-   "rank": 282
+   "rank": 284
   },
   {
    "name": "reverb",
@@ -8690,7 +8772,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 29,
-   "rank": 283
+   "rank": 285
   },
   {
    "name": "EEND",
@@ -8718,7 +8800,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 29,
-   "rank": 284
+   "rank": 286
   },
   {
    "name": "saas-app",
@@ -8727,7 +8809,7 @@
    "url": "https://github.com/adrianhajdin/saas-app",
    "owner": "adrianhajdin",
    "owner_avatar": "https://avatars.githubusercontent.com/u/24898559?v=4",
-   "stars": 434,
+   "stars": 435,
    "forks": 197,
    "open_issues": 4,
    "language": "TypeScript",
@@ -8752,7 +8834,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 29,
-   "rank": 285
+   "rank": 287
   },
   {
    "name": "bolna",
@@ -8793,7 +8875,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 29,
-   "rank": 286
+   "rank": 288
   },
   {
    "name": "hubert",
@@ -8818,7 +8900,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 29,
-   "rank": 287
+   "rank": 289
   },
   {
    "name": "VAF_2",
@@ -8844,7 +8926,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 28,
-   "rank": 288
+   "rank": 290
   },
   {
    "name": "pytorch_xvectors",
@@ -8869,7 +8951,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 27,
-   "rank": 289
+   "rank": 291
   },
   {
    "name": "TDNN",
@@ -8899,7 +8981,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 25,
-   "rank": 290
+   "rank": 292
   },
   {
    "name": "simple_diarizer",
@@ -8923,70 +9005,6 @@
     "speaker-diarization",
     "speech-to-text",
     "transcription"
-   ],
-   "category": "Enhancement & Analysis",
-   "momentum": 24,
-   "rank": 291
-  },
-  {
-   "name": "Factorized-TDNN",
-   "full_name": "cvqluu/Factorized-TDNN",
-   "slug": "cvqluu-factorized-tdnn",
-   "url": "https://github.com/cvqluu/Factorized-TDNN",
-   "owner": "cvqluu",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/32367480?v=4",
-   "stars": 149,
-   "forks": 34,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2020-01-06T22:00:07Z",
-   "created_at": "2019-11-20T14:32:04Z",
-   "description": "PyTorch implementation of the Factorized TDNN (TDNN-F) from \"Semi-Orthogonal Low-Rank Matrix Factorization for Deep Neural Networks\" and Kaldi",
-   "topics": [
-    "acoustic-model",
-    "acoustic-models",
-    "embedding",
-    "factorized-tdnn",
-    "kaldi",
-    "neural-network",
-    "neural-networks",
-    "pytorch",
-    "speaker-diarization",
-    "speaker-recognition",
-    "speaker-verification",
-    "speech-recognition",
-    "tdnn",
-    "tdnn-f",
-    "x-vector"
-   ],
-   "category": "Toolkits & Frameworks",
-   "momentum": 24,
-   "rank": 292
-  },
-  {
-   "name": "AliMeeting",
-   "full_name": "yufan-aslp/AliMeeting",
-   "slug": "yufan-aslp-alimeeting",
-   "url": "https://github.com/yufan-aslp/AliMeeting",
-   "owner": "yufan-aslp",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/23340797?v=4",
-   "stars": 142,
-   "forks": 19,
-   "open_issues": 7,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2022-06-10T02:51:32Z",
-   "created_at": "2021-10-20T03:10:37Z",
-   "description": "The project is associated with the recently-launched ICASSP 2022 Multi-channel Multi-party Meeting Transcription Challenge (M2MeT) to provide participants with baseline systems for speech recognition and speaker diarization in conference scenario.",
-   "topics": [
-    "aishell-4",
-    "alimeeting",
-    "asr",
-    "challenge",
-    "m2met",
-    "multi-speaker-asr",
-    "speaker-diarization"
    ],
    "category": "Enhancement & Analysis",
    "momentum": 24,
