@@ -3,48 +3,48 @@
 > The living index of voice & speech AI tooling — text-to-speech, speech recognition,
 > voice cloning & conversion, realtime voice agents, toolkits — ranked daily by GitHub momentum.
 
-Updated: 2026-08-05T11:33:44.762914+00:00
+Updated: 2026-08-06T11:37:20.667233+00:00
 Tools indexed: 296
 
 ## Top voice & speech tools by momentum
 
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — momentum 87, ⭐101709 — Speech-to-Text — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automate
-- [openai/whisper](https://github.com/openai/whisper) — momentum 86, ⭐106667 — Speech-to-Text — Robust Speech Recognition via Large-Scale Weak Supervision
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) — momentum 83, ⭐52590 — Speech-to-Text — Port of OpenAI's Whisper model in C/C++
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — momentum 82, ⭐60479 — Voice Cloning & Conversion — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) — momentum 82, ⭐49277 — Speech-to-Text — The open-source AI voice studio. Clone, dictate, create.
-- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — momentum 82, ⭐37107 — Voice Cloning & Conversion — Easily train a good VC model with voice data <= 10 mins!
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) — momentum 81, ⭐32013 — Text-to-Speech — SOTA Open Source TTS
-- [cjpais/Handy](https://github.com/cjpais/Handy) — momentum 81, ⭐28745 — Speech-to-Text — A free, open source, and extensible speech-to-text application that works completely offline.
-- [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) — momentum 80, ⭐1914 — Voice Agents & Realtime — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime f
-- [index-tts/index-tts](https://github.com/index-tts/index-tts) — momentum 79, ⭐22425 — Text-to-Speech — An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) — momentum 79, ⭐19626 — Voice Cloning & Conversion — Generate audiobooks from e-books, voice cloning & 1158+ languages!
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) — momentum 79, ⭐18562 — Speech-to-Text — Translate the video from one language to another and embed dubbing & subtitles.
-- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) — momentum 79, ⭐17888 — Toolkits & Frameworks — A scalable generative AI framework built for researchers and developers working on Large Language Mo
-- [leon-ai/leon](https://github.com/leon-ai/leon) — momentum 78, ⭐17409 — Voice Agents & Realtime — 🧠 Leon is your open-source personal assistant.
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — momentum 77, ⭐34936 — Text-to-Speech — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) — momentum 77, ⭐13984 — Toolkits & Frameworks — Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD 
-- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) — momentum 77, ⭐13938 — Toolkits & Frameworks — Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and th
-- [livekit/agents](https://github.com/livekit/agents) — momentum 77, ⭐12618 — Toolkits & Frameworks — A framework for building realtime voice AI agents 🤖🎙️📹
-- [m-bain/whisperX](https://github.com/m-bain/whisperX) — momentum 76, ⭐23438 — Enhancement & Analysis — WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) — momentum 76, ⭐12658 — Toolkits & Frameworks — Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctua
-- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — momentum 76, ⭐11049 — Voice Agents & Realtime — Build local voice agents with open-source models
-- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) — momentum 76, ⭐11017 — Toolkits & Frameworks — Open-source framework for conversational voice AI agents
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) — momentum 76, ⭐10621 — Voice Agents & Realtime — Very low latency speech to text, intent recognition, and text to speech, for building voice agents a
-- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) — momentum 76, ⭐10376 — Enhancement & Analysis — Neural building blocks for speaker diarization: speech activity detection, speaker change detection,
-- [espnet/espnet](https://github.com/espnet/espnet) — momentum 76, ⭐9909 — Toolkits & Frameworks — End-to-End Speech Processing Toolkit
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) — momentum 76, ⭐9552 — Voice Cloning & Conversion — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternat
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) — momentum 75, ⭐13595 — Text-to-Speech — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) — momentum 75, ⭐10581 — Voice Agents & Realtime — Simultaneous speech-to-text models
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — momentum 87, ⭐101845 — Speech-to-Text — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automate
+- [openai/whisper](https://github.com/openai/whisper) — momentum 85, ⭐106739 — Speech-to-Text — Robust Speech Recognition via Large-Scale Weak Supervision
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) — momentum 83, ⭐52616 — Speech-to-Text — Port of OpenAI's Whisper model in C/C++
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — momentum 82, ⭐60533 — Voice Cloning & Conversion — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) — momentum 82, ⭐49503 — Speech-to-Text — The open-source AI voice studio. Clone, dictate, create.
+- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — momentum 82, ⭐37142 — Voice Cloning & Conversion — Easily train a good VC model with voice data <= 10 mins!
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) — momentum 81, ⭐32046 — Text-to-Speech — SOTA Open Source TTS
+- [cjpais/Handy](https://github.com/cjpais/Handy) — momentum 81, ⭐28860 — Speech-to-Text — A free, open source, and extensible speech-to-text application that works completely offline.
+- [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) — momentum 80, ⭐1950 — Voice Agents & Realtime — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime f
+- [index-tts/index-tts](https://github.com/index-tts/index-tts) — momentum 79, ⭐22443 — Text-to-Speech — An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) — momentum 79, ⭐17922 — Toolkits & Frameworks — A scalable generative AI framework built for researchers and developers working on Large Language Mo
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) — momentum 78, ⭐19632 — Voice Cloning & Conversion — Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) — momentum 78, ⭐18599 — Speech-to-Text — Translate the video from one language to another and embed dubbing & subtitles.
+- [leon-ai/leon](https://github.com/leon-ai/leon) — momentum 78, ⭐17412 — Voice Agents & Realtime — 🧠 Leon is your open-source personal assistant.
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — momentum 77, ⭐34988 — Text-to-Speech — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) — momentum 77, ⭐14008 — Toolkits & Frameworks — Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD 
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) — momentum 77, ⭐13956 — Toolkits & Frameworks — Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and th
+- [livekit/agents](https://github.com/livekit/agents) — momentum 77, ⭐12691 — Toolkits & Frameworks — A framework for building realtime voice AI agents 🤖🎙️📹
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) — momentum 76, ⭐23452 — Enhancement & Analysis — WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) — momentum 76, ⭐12661 — Toolkits & Frameworks — Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctua
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — momentum 76, ⭐11338 — Voice Agents & Realtime — Build local voice agents with open-source models
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) — momentum 76, ⭐11020 — Toolkits & Frameworks — Open-source framework for conversational voice AI agents
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) — momentum 76, ⭐10632 — Voice Agents & Realtime — Very low latency speech to text, intent recognition, and text to speech, for building voice agents a
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) — momentum 76, ⭐10382 — Enhancement & Analysis — Neural building blocks for speaker diarization: speech activity detection, speaker change detection,
+- [espnet/espnet](https://github.com/espnet/espnet) — momentum 76, ⭐9912 — Toolkits & Frameworks — End-to-End Speech Processing Toolkit
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — momentum 76, ⭐9595 — Voice Cloning & Conversion — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternat
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) — momentum 75, ⭐13608 — Text-to-Speech — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) — momentum 75, ⭐10587 — Voice Agents & Realtime — Simultaneous speech-to-text models
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) — momentum 75, ⭐9328 — Voice Cloning & Conversion — so-vits-svc fork with realtime support, improved interface and more features.
-- [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) — momentum 75, ⭐8792 — Voice Agents & Realtime — vits2 backbone with multilingual-bert
-- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) — momentum 75, ⭐8785 — Voice Cloning & Conversion — High-Quality Voice Cloning TTS for 600+ Languages
-- [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) — momentum 75, ⭐8008 — Voice Agents & Realtime — Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) — momentum 74, ⭐10648 — Voice Agents & Realtime — AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: downlo
-- [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) — momentum 74, ⭐9001 — Enhancement & Analysis — Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, langua
-- [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) — momentum 74, ⭐8980 — Speech-to-Text — Speech recognition module for Python, supporting several engines and APIs, online and offline.
-- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) — momentum 74, ⭐7684 — Toolkits & Frameworks — A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX
+- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) — momentum 75, ⭐8804 — Voice Cloning & Conversion — High-Quality Voice Cloning TTS for 600+ Languages
+- [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) — momentum 75, ⭐8790 — Voice Agents & Realtime — vits2 backbone with multilingual-bert
+- [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) — momentum 75, ⭐8007 — Voice Agents & Realtime — Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) — momentum 74, ⭐10649 — Voice Agents & Realtime — AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: downlo
+- [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) — momentum 74, ⭐9017 — Enhancement & Analysis — Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, langua
+- [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) — momentum 74, ⭐8981 — Speech-to-Text — Speech recognition module for Python, supporting several engines and APIs, online and offline.
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) — momentum 74, ⭐7687 — Toolkits & Frameworks — A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX
 - [TalAter/annyang](https://github.com/TalAter/annyang) — momentum 74, ⭐6818 — Speech-to-Text — 💬 Speech recognition for your site
-- [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) — momentum 74, ⭐6711 — Text-to-Speech — eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) — momentum 73, ⭐18056 — Speech-to-Text — Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated
-- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) — momentum 73, ⭐6310 — Enhancement & Analysis — On-device Speech AI for Apple Silicon
+- [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) — momentum 73, ⭐6714 — Text-to-Speech — eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) — momentum 73, ⭐6312 — Enhancement & Analysis — On-device Speech AI for Apple Silicon
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) — momentum 73, ⭐5561 — Toolkits & Frameworks — Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
