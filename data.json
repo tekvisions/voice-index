@@ -1,10 +1,10 @@
 {
  "generated_at": "2026-11-02T19:37:30.881849+00:00",
- "count": 287,
+ "count": 286,
  "categories": [
   {
    "name": "Speech-to-Text",
-   "count": 71
+   "count": 70
   },
   {
    "name": "Voice Agents & Realtime",
@@ -28,41 +28,6 @@
   }
  ],
  "items": [
-  {
-   "name": "MoneyPrinterTurbo",
-   "full_name": "harry0703/MoneyPrinterTurbo",
-   "slug": "harry0703-moneyprinterturbo",
-   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-   "owner": "harry0703",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4928832?v=4",
-   "stars": 137439,
-   "forks": 21945,
-   "open_issues": 78,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-11-02T09:22:43Z",
-   "created_at": "2024-03-11T02:57:34Z",
-   "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "topics": [
-    "ai-video-generator",
-    "content-creation",
-    "ffmpeg",
-    "instagram-reels",
-    "llm",
-    "python",
-    "short-video",
-    "subtitles",
-    "text-to-speech",
-    "tiktok",
-    "video-automation",
-    "video-workflow",
-    "workflow-automation",
-    "youtube-shorts"
-   ],
-   "category": "Speech-to-Text",
-   "momentum": 87,
-   "rank": 1
-  },
   {
    "name": "VoiceStudio",
    "full_name": "debpalash/VoiceStudio",
@@ -101,7 +66,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 85,
-   "rank": 2
+   "rank": 1
   },
   {
    "name": "lemo-opuscar",
@@ -142,7 +107,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 84,
-   "rank": 3
+   "rank": 2
   },
   {
    "name": "GPT-SoVITS",
@@ -169,7 +134,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 83,
-   "rank": 4
+   "rank": 3
   },
   {
    "name": "whisper.cpp",
@@ -196,7 +161,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 82,
-   "rank": 5
+   "rank": 4
   },
   {
    "name": "Handy",
@@ -221,7 +186,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 81,
-   "rank": 6
+   "rank": 5
   },
   {
    "name": "agentscope",
@@ -254,7 +219,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 81,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "fish-speech",
@@ -282,7 +247,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 80,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "meetily",
@@ -323,7 +288,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 80,
-   "rank": 9
+   "rank": 8
   },
   {
    "name": "faster-whisper",
@@ -352,7 +317,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 79,
-   "rank": 10
+   "rank": 9
   },
   {
    "name": "voicebox",
@@ -381,7 +346,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 78,
-   "rank": 11
+   "rank": 10
   },
   {
    "name": "pyvideotrans",
@@ -408,7 +373,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 78,
-   "rank": 12
+   "rank": 11
   },
   {
    "name": "Speech",
@@ -439,7 +404,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 78,
-   "rank": 13
+   "rank": 12
   },
   {
    "name": "VoxCPM",
@@ -474,7 +439,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 77,
-   "rank": 14
+   "rank": 13
   },
   {
    "name": "whisperX",
@@ -500,7 +465,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 77,
-   "rank": 15
+   "rank": 14
   },
   {
    "name": "leon",
@@ -541,7 +506,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 77,
-   "rank": 16
+   "rank": 15
   },
   {
    "name": "pipecat",
@@ -568,7 +533,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 77,
-   "rank": 17
+   "rank": 16
   },
   {
    "name": "agents",
@@ -595,7 +560,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 77,
-   "rank": 18
+   "rank": 17
   },
   {
    "name": "OmniVoice",
@@ -615,7 +580,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 76,
-   "rank": 19
+   "rank": 18
   },
   {
    "name": "sherpa-onnx",
@@ -656,7 +621,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 76,
-   "rank": 20
+   "rank": 19
   },
   {
    "name": "OpenCreator",
@@ -689,7 +654,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 76,
-   "rank": 21
+   "rank": 20
   },
   {
    "name": "speech-to-speech",
@@ -719,7 +684,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 76,
-   "rank": 22
+   "rank": 21
   },
   {
    "name": "whisper",
@@ -739,7 +704,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 75,
-   "rank": 23
+   "rank": 22
   },
   {
    "name": "moonshine",
@@ -765,7 +730,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 75,
-   "rank": 24
+   "rank": 23
   },
   {
    "name": "ten-framework",
@@ -791,7 +756,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 75,
-   "rank": 25
+   "rank": 24
   },
   {
    "name": "WhisperLiveKit",
@@ -824,7 +789,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 75,
-   "rank": 26
+   "rank": 25
   },
   {
    "name": "VidBee",
@@ -865,7 +830,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 75,
-   "rank": 27
+   "rank": 26
   },
   {
    "name": "pyannote-audio",
@@ -897,7 +862,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 75,
-   "rank": 28
+   "rank": 27
   },
   {
    "name": "openwhispr",
@@ -933,7 +898,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 75,
-   "rank": 29
+   "rank": 28
   },
   {
    "name": "espnet",
@@ -970,7 +935,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 75,
-   "rank": 30
+   "rank": 29
   },
   {
    "name": "yovoice",
@@ -1007,7 +972,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 75,
-   "rank": 31
+   "rank": 30
   },
   {
    "name": "RealtimeSTT",
@@ -1031,7 +996,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 74,
-   "rank": 32
+   "rank": 31
   },
   {
    "name": "so-vits-svc-fork",
@@ -1067,7 +1032,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 74,
-   "rank": 33
+   "rank": 32
   },
   {
    "name": "Vision-Agents",
@@ -1099,7 +1064,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 74,
-   "rank": 34
+   "rank": 33
   },
   {
    "name": "mlx-audio",
@@ -1129,7 +1094,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 74,
-   "rank": 35
+   "rank": 34
   },
   {
    "name": "ODS",
@@ -1166,7 +1131,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 74,
-   "rank": 36
+   "rank": 35
   },
   {
    "name": "index-tts",
@@ -1194,7 +1159,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 73,
-   "rank": 37
+   "rank": 36
   },
   {
    "name": "ebook2audiobook",
@@ -1231,7 +1196,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 73,
-   "rank": 38
+   "rank": 37
   },
   {
    "name": "vosk-api",
@@ -1272,7 +1237,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 73,
-   "rank": 39
+   "rank": 38
   },
   {
    "name": "silero-vad",
@@ -1305,7 +1270,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 73,
-   "rank": 40
+   "rank": 39
   },
   {
    "name": "Bert-VITS2",
@@ -1337,7 +1302,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 73,
-   "rank": 41
+   "rank": 40
   },
   {
    "name": "youtube-transcript-api",
@@ -1375,7 +1340,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 73,
-   "rank": 42
+   "rank": 41
   },
   {
    "name": "dramaclaw",
@@ -1415,7 +1380,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 73,
-   "rank": 43
+   "rank": 42
   },
   {
    "name": "piper1-gpl",
@@ -1435,7 +1400,7 @@
    "topics": [],
    "category": "Text-to-Speech",
    "momentum": 73,
-   "rank": 44
+   "rank": 43
   },
   {
    "name": "VideoLingo",
@@ -1461,7 +1426,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 45
+   "rank": 44
   },
   {
    "name": "edge-tts",
@@ -1485,7 +1450,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 72,
-   "rank": 46
+   "rank": 45
   },
   {
    "name": "speechbrain",
@@ -1526,7 +1491,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 72,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "annyang",
@@ -1551,7 +1516,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 48
+   "rank": 47
   },
   {
    "name": "argmax-oss-swift",
@@ -1587,7 +1552,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 72,
-   "rank": 49
+   "rank": 48
   },
   {
    "name": "abogen",
@@ -1628,7 +1593,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 50
+   "rank": 49
   },
   {
    "name": "SmartSub",
@@ -1661,7 +1626,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 72,
-   "rank": 51
+   "rank": 50
   },
   {
    "name": "openscreen",
@@ -1700,7 +1665,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 52
+   "rank": 51
   },
   {
    "name": "YouDub-webui",
@@ -1741,7 +1706,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 72,
-   "rank": 53
+   "rank": 52
   },
   {
    "name": "Kokoro-FastAPI",
@@ -1780,7 +1745,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 54
+   "rank": 53
   },
   {
    "name": "porcupine",
@@ -1814,7 +1779,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 72,
-   "rank": 55
+   "rank": 54
   },
   {
    "name": "hex",
@@ -1843,7 +1808,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 72,
-   "rank": 56
+   "rank": 55
   },
   {
    "name": "qwen-audio-agent",
@@ -1877,7 +1842,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 72,
-   "rank": 57
+   "rank": 56
   },
   {
    "name": "wenet",
@@ -1907,7 +1872,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 71,
-   "rank": 58
+   "rank": 57
   },
   {
    "name": "OpenUtau",
@@ -1937,7 +1902,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 71,
-   "rank": 59
+   "rank": 58
   },
   {
    "name": "LLPlayer",
@@ -1972,7 +1937,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 71,
-   "rank": 60
+   "rank": 59
   },
   {
    "name": "openless",
@@ -2009,7 +1974,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 71,
-   "rank": 61
+   "rank": 60
   },
   {
    "name": "PaddleX",
@@ -2042,7 +2007,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 70,
-   "rank": 62
+   "rank": 61
   },
   {
    "name": "RealtimeTTS",
@@ -2067,7 +2032,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 70,
-   "rank": 63
+   "rank": 62
   },
   {
    "name": "Applio",
@@ -2102,7 +2067,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 70,
-   "rank": 64
+   "rank": 63
   },
   {
    "name": "SenseVoice",
@@ -2143,7 +2108,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 69,
-   "rank": 65
+   "rank": 64
   },
   {
    "name": "silero-models",
@@ -2184,7 +2149,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 69,
-   "rank": 66
+   "rank": 65
   },
   {
    "name": "fastrtc",
@@ -2213,7 +2178,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 69,
-   "rank": 67
+   "rank": 66
   },
   {
    "name": "FluidAudio",
@@ -2253,7 +2218,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 69,
-   "rank": 68
+   "rank": 67
   },
   {
    "name": "N.E.K.O",
@@ -2287,7 +2252,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 69,
-   "rank": 69
+   "rank": 68
   },
   {
    "name": "willow",
@@ -2321,7 +2286,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 69,
-   "rank": 70
+   "rank": 69
   },
   {
    "name": "VieNeu-TTS",
@@ -2350,7 +2315,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 69,
-   "rank": 71
+   "rank": 70
   },
   {
    "name": "audio",
@@ -2378,7 +2343,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 69,
-   "rank": 72
+   "rank": 71
   },
   {
    "name": "kiosk-satellite",
@@ -2419,7 +2384,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 69,
-   "rank": 73
+   "rank": 72
   },
   {
    "name": "explainroo",
@@ -2453,7 +2418,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 69,
-   "rank": 74
+   "rank": 73
   },
   {
    "name": "Whisper",
@@ -2473,7 +2438,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 68,
-   "rank": 75
+   "rank": 74
   },
   {
    "name": "lingvo",
@@ -2511,7 +2476,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 68,
-   "rank": 76
+   "rank": 75
   },
   {
    "name": "mlx-serve",
@@ -2552,7 +2517,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 68,
-   "rank": 77
+   "rank": 76
   },
   {
    "name": "dsh-voice-ai-girlfriend",
@@ -2584,7 +2549,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 68,
-   "rank": 78
+   "rank": 77
   },
   {
    "name": "omarchy-meeting-recorder",
@@ -2614,7 +2579,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 68,
-   "rank": 79
+   "rank": 78
   },
   {
    "name": "meetcap",
@@ -2646,7 +2611,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 68,
-   "rank": 80
+   "rank": 79
   },
   {
    "name": "supertonic",
@@ -2687,7 +2652,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 67,
-   "rank": 81
+   "rank": 80
   },
   {
    "name": "pocketsphinx",
@@ -2711,7 +2676,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 67,
-   "rank": 82
+   "rank": 81
   },
   {
    "name": "Genie-TTS",
@@ -2738,7 +2703,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 67,
-   "rank": 83
+   "rank": 82
   },
   {
    "name": "sglang-omni",
@@ -2775,7 +2740,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 67,
-   "rank": 84
+   "rank": 83
   },
   {
    "name": "jonex",
@@ -2811,7 +2776,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 67,
-   "rank": 85
+   "rank": 84
   },
   {
    "name": "espeak-ng",
@@ -2837,7 +2802,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 66,
-   "rank": 86
+   "rank": 85
   },
   {
    "name": "cactus",
@@ -2878,7 +2843,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 66,
-   "rank": 87
+   "rank": 86
   },
   {
    "name": "MOSS-Transcribe-Diarize",
@@ -2906,7 +2871,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 66,
-   "rank": 88
+   "rank": 87
   },
   {
    "name": "transcribe.cpp",
@@ -2931,7 +2896,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 66,
-   "rank": 89
+   "rank": 88
   },
   {
    "name": "TuyaOpen",
@@ -2967,7 +2932,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 66,
-   "rank": 90
+   "rank": 89
   },
   {
    "name": "dsnote",
@@ -3003,7 +2968,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 66,
-   "rank": 91
+   "rank": 90
   },
   {
    "name": "esp-sr",
@@ -3023,7 +2988,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 66,
-   "rank": 92
+   "rank": 91
   },
   {
    "name": "EchoMuse",
@@ -3056,7 +3021,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 66,
-   "rank": 93
+   "rank": 92
   },
   {
    "name": "Retrieval-based-Voice-Conversion-WebUI",
@@ -3093,7 +3058,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 65,
-   "rank": 94
+   "rank": 93
   },
   {
    "name": "VoiceMem",
@@ -3127,7 +3092,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 65,
-   "rank": 95
+   "rank": 94
   },
   {
    "name": "CyberVerse",
@@ -3160,7 +3125,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 65,
-   "rank": 96
+   "rank": 95
   },
   {
    "name": "amical",
@@ -3200,7 +3165,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 65,
-   "rank": 97
+   "rank": 96
   },
   {
    "name": "AVA-AI-Voice-Agent-for-Asterisk",
@@ -3220,7 +3185,7 @@
    "topics": [],
    "category": "Voice Agents & Realtime",
    "momentum": 65,
-   "rank": 98
+   "rank": 97
   },
   {
    "name": "speech-swift",
@@ -3257,7 +3222,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 65,
-   "rank": 99
+   "rank": 98
   },
   {
    "name": "whisper-asr-webservice",
@@ -3285,7 +3250,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 64,
-   "rank": 100
+   "rank": 99
   },
   {
    "name": "ten-vad",
@@ -3318,7 +3283,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 64,
-   "rank": 101
+   "rank": 100
   },
   {
    "name": "dicio-android",
@@ -3349,7 +3314,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 64,
-   "rank": 102
+   "rank": 101
   },
   {
    "name": "Irodori-TTS",
@@ -3377,7 +3342,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 64,
-   "rank": 103
+   "rank": 102
   },
   {
    "name": "agent-starter-react",
@@ -3399,7 +3364,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 64,
-   "rank": 104
+   "rank": 103
   },
   {
    "name": "speech_recognition",
@@ -3424,7 +3389,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 63,
-   "rank": 105
+   "rank": 104
   },
   {
    "name": "EmotiVoice",
@@ -3458,7 +3423,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 63,
-   "rank": 106
+   "rank": 105
   },
   {
    "name": "whisper-timestamped",
@@ -3499,7 +3464,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 63,
-   "rank": 107
+   "rank": 106
   },
   {
    "name": "obs-localvocal",
@@ -3537,7 +3502,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 63,
-   "rank": 108
+   "rank": 107
   },
   {
    "name": "SwitchAI",
@@ -3576,7 +3541,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 63,
-   "rank": 109
+   "rank": 108
   },
   {
    "name": "metabot",
@@ -3617,7 +3582,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 63,
-   "rank": 110
+   "rank": 109
   },
   {
    "name": "openclaw-nerve",
@@ -3651,7 +3616,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 63,
-   "rank": 111
+   "rank": 110
   },
   {
    "name": "bolna",
@@ -3691,7 +3656,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 63,
-   "rank": 112
+   "rank": 111
   },
   {
    "name": "voice-ai",
@@ -3732,7 +3697,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 63,
-   "rank": 113
+   "rank": 112
   },
   {
    "name": "tapq",
@@ -3771,7 +3736,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 63,
-   "rank": 114
+   "rank": 113
   },
   {
    "name": "Fun-ASR",
@@ -3812,7 +3777,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 62,
-   "rank": 115
+   "rank": 114
   },
   {
    "name": "CloneTTS",
@@ -3839,7 +3804,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 62,
-   "rank": 116
+   "rank": 115
   },
   {
    "name": "dla",
@@ -3867,7 +3832,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 62,
-   "rank": 117
+   "rank": 116
   },
   {
    "name": "adk-rust",
@@ -3905,7 +3870,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 62,
-   "rank": 118
+   "rank": 117
   },
   {
    "name": "Pandrator",
@@ -3946,7 +3911,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 62,
-   "rank": 119
+   "rank": 118
   },
   {
    "name": "PaddleSpeech",
@@ -3987,7 +3952,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 61,
-   "rank": 120
+   "rank": 119
   },
   {
    "name": "wav2letter",
@@ -4013,7 +3978,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 61,
-   "rank": 121
+   "rank": 120
   },
   {
    "name": "MOSS-TTS-Nano",
@@ -4048,7 +4013,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 61,
-   "rank": 122
+   "rank": 121
   },
   {
    "name": "FireRedTTS3",
@@ -4068,7 +4033,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 61,
-   "rank": 123
+   "rank": 122
   },
   {
    "name": "MioSub",
@@ -4108,7 +4073,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 61,
-   "rank": 124
+   "rank": 123
   },
   {
    "name": "SpectralCluster",
@@ -4138,7 +4103,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 61,
-   "rank": 125
+   "rank": 124
   },
   {
    "name": "Jarvis-Desktop-Voice-Assistant",
@@ -4179,7 +4144,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 60,
-   "rank": 126
+   "rank": 125
   },
   {
    "name": "voxt",
@@ -4213,7 +4178,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 60,
-   "rank": 127
+   "rank": 126
   },
   {
    "name": "izwi",
@@ -4244,7 +4209,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 60,
-   "rank": 128
+   "rank": 127
   },
   {
    "name": "parakeet-rs",
@@ -4274,7 +4239,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 60,
-   "rank": 129
+   "rank": 128
   },
   {
    "name": "amica",
@@ -4301,7 +4266,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 59,
-   "rank": 130
+   "rank": 129
   },
   {
    "name": "Patter",
@@ -4342,7 +4307,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 59,
-   "rank": 131
+   "rank": 130
   },
   {
    "name": "vui",
@@ -4383,7 +4348,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 59,
-   "rank": 132
+   "rank": 131
   },
   {
    "name": "humla",
@@ -4424,7 +4389,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 59,
-   "rank": 133
+   "rank": 132
   },
   {
    "name": "whisper-diarization",
@@ -4451,7 +4416,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 58,
-   "rank": 134
+   "rank": 133
   },
   {
    "name": "wespeaker",
@@ -4492,7 +4457,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 58,
-   "rank": 135
+   "rank": 134
   },
   {
    "name": "faster-whisper-GUI",
@@ -4521,7 +4486,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 57,
-   "rank": 136
+   "rank": 135
   },
   {
    "name": "voice-satellite-card-integration",
@@ -4549,7 +4514,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 57,
-   "rank": 137
+   "rank": 136
   },
   {
    "name": "dub-studio",
@@ -4590,7 +4555,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 57,
-   "rank": 138
+   "rank": 137
   },
   {
    "name": "voice-pro",
@@ -4630,7 +4595,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 56,
-   "rank": 139
+   "rank": 138
   },
   {
    "name": "speaker-id",
@@ -4656,7 +4621,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 56,
-   "rank": 140
+   "rank": 139
   },
   {
    "name": "Pixelle-Video",
@@ -4682,7 +4647,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 55,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "Recorder",
@@ -4723,7 +4688,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 55,
-   "rank": 142
+   "rank": 141
   },
   {
    "name": "ml-road",
@@ -4752,7 +4717,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 55,
-   "rank": 143
+   "rank": 142
   },
   {
    "name": "AudioNotes",
@@ -4780,7 +4745,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 55,
-   "rank": 144
+   "rank": 143
   },
   {
    "name": "MOSS-TTSD",
@@ -4811,7 +4776,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 55,
-   "rank": 145
+   "rank": 144
   },
   {
    "name": "VODER",
@@ -4839,7 +4804,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 55,
-   "rank": 146
+   "rank": 145
   },
   {
    "name": "yandex_smart_home",
@@ -4866,7 +4831,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 54,
-   "rank": 147
+   "rank": 146
   },
   {
    "name": "jarvis",
@@ -4902,7 +4867,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 54,
-   "rank": 148
+   "rank": 147
   },
   {
    "name": "DiffSinger",
@@ -4934,7 +4899,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 53,
-   "rank": 149
+   "rank": 148
   },
   {
    "name": "sopro",
@@ -4954,7 +4919,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 53,
-   "rank": 150
+   "rank": 149
   },
   {
    "name": "ghost-pepper",
@@ -4974,7 +4939,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 52,
-   "rank": 151
+   "rank": 150
   },
   {
    "name": "Real-Time-Voice-Cloning",
@@ -5001,7 +4966,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 51,
-   "rank": 152
+   "rank": 151
   },
   {
    "name": "B",
@@ -5034,7 +4999,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 51,
-   "rank": 153
+   "rank": 152
   },
   {
    "name": "aeneas",
@@ -5075,7 +5040,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 51,
-   "rank": 154
+   "rank": 153
   },
   {
    "name": "parlor",
@@ -5109,7 +5074,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 51,
-   "rank": 155
+   "rank": 154
   },
   {
    "name": "EVA-OS",
@@ -5137,7 +5102,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 51,
-   "rank": 156
+   "rank": 155
   },
   {
    "name": "TTS",
@@ -5177,7 +5142,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 50,
-   "rank": 157
+   "rank": 156
   },
   {
    "name": "CosyVoice",
@@ -5217,7 +5182,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 50,
-   "rank": 158
+   "rank": 157
   },
   {
    "name": "ChatTTS",
@@ -5255,7 +5220,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 49,
-   "rank": 159
+   "rank": 158
   },
   {
    "name": "OpenVoice",
@@ -5280,7 +5245,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 49,
-   "rank": 160
+   "rank": 159
   },
   {
    "name": "MockingBird",
@@ -5307,7 +5272,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 49,
-   "rank": 161
+   "rank": 160
   },
   {
    "name": "so-vits-svc",
@@ -5345,7 +5310,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 48,
-   "rank": 162
+   "rank": 161
   },
   {
    "name": "ChatTTS-ui",
@@ -5368,7 +5333,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 48,
-   "rank": 163
+   "rank": 162
   },
   {
    "name": "alexandria-audiobook",
@@ -5408,7 +5373,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 48,
-   "rank": 164
+   "rank": 163
   },
   {
    "name": "DeepSpeech",
@@ -5439,7 +5404,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 47,
-   "rank": 165
+   "rank": 164
   },
   {
    "name": "Qwen3-ASR",
@@ -5459,7 +5424,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 47,
-   "rank": 166
+   "rank": 165
   },
   {
    "name": "Irene-Voice-Assistant",
@@ -5485,7 +5450,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 47,
-   "rank": 167
+   "rank": 166
   },
   {
    "name": "senko",
@@ -5514,7 +5479,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 47,
-   "rank": 168
+   "rank": 167
   },
   {
    "name": "dia",
@@ -5538,7 +5503,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 46,
-   "rank": 169
+   "rank": 168
   },
   {
    "name": "VoiceCraft",
@@ -5558,7 +5523,7 @@
    "topics": [],
    "category": "Text-to-Speech",
    "momentum": 46,
-   "rank": 170
+   "rank": 169
   },
   {
    "name": "flycut-caption",
@@ -5578,7 +5543,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 46,
-   "rank": 171
+   "rank": 170
   },
   {
    "name": "kaldi",
@@ -5608,7 +5573,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 45,
-   "rank": 172
+   "rank": 171
   },
   {
    "name": "LuxTTS",
@@ -5628,7 +5593,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 45,
-   "rank": 173
+   "rank": 172
   },
   {
    "name": "Qwen3-TTS",
@@ -5648,7 +5613,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 44,
-   "rank": 174
+   "rank": 173
   },
   {
    "name": "MisoTTS",
@@ -5668,7 +5633,7 @@
    "topics": [],
    "category": "Text-to-Speech",
    "momentum": 44,
-   "rank": 175
+   "rank": 174
   },
   {
    "name": "piper",
@@ -5692,7 +5657,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 43,
-   "rank": 176
+   "rank": 175
   },
   {
    "name": "Amphion",
@@ -5730,7 +5695,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 43,
-   "rank": 177
+   "rank": 176
   },
   {
    "name": "TTS",
@@ -5767,7 +5732,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 43,
-   "rank": 178
+   "rank": 177
   },
   {
    "name": "diart",
@@ -5795,7 +5760,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 43,
-   "rank": 179
+   "rank": 178
   },
   {
    "name": "clone-voice",
@@ -5821,7 +5786,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 42,
-   "rank": 180
+   "rank": 179
   },
   {
    "name": "audiblez",
@@ -5847,7 +5812,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 42,
-   "rank": 181
+   "rank": 180
   },
   {
    "name": "ASRT_SpeechRecognition",
@@ -5878,7 +5843,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 42,
-   "rank": 182
+   "rank": 181
   },
   {
    "name": "VALL-E-X",
@@ -5906,7 +5871,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 42,
-   "rank": 183
+   "rank": 182
   },
   {
    "name": "vits",
@@ -5932,7 +5897,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 42,
-   "rank": 184
+   "rank": 183
   },
   {
    "name": "MeloTTS",
@@ -5962,7 +5927,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 42,
-   "rank": 185
+   "rank": 184
   },
   {
    "name": "Zonos",
@@ -5982,7 +5947,7 @@
    "topics": [],
    "category": "Text-to-Speech",
    "momentum": 41,
-   "rank": 186
+   "rank": 185
   },
   {
    "name": "wukong-robot",
@@ -6020,7 +5985,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 41,
-   "rank": 187
+   "rank": 186
   },
   {
    "name": "mycroft-core",
@@ -6058,7 +6023,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 41,
-   "rank": 188
+   "rank": 187
   },
   {
    "name": "StyleTTS2",
@@ -6091,7 +6056,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 41,
-   "rank": 189
+   "rank": 188
   },
   {
    "name": "GPA",
@@ -6119,7 +6084,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 41,
-   "rank": 190
+   "rank": 189
   },
   {
    "name": "Bark-Voice-Cloning",
@@ -6139,7 +6104,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 41,
-   "rank": 191
+   "rank": 190
   },
   {
    "name": "DeepFilterNet",
@@ -6167,7 +6132,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 40,
-   "rank": 192
+   "rank": 191
   },
   {
    "name": "unified-audio",
@@ -6196,7 +6161,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 40,
-   "rank": 193
+   "rank": 192
   },
   {
    "name": "stt",
@@ -6221,7 +6186,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 194
+   "rank": 193
   },
   {
    "name": "whisper-jax",
@@ -6247,7 +6212,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 195
+   "rank": 194
   },
   {
    "name": "WhisperSpeech",
@@ -6271,7 +6236,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 196
+   "rank": 195
   },
   {
    "name": "ClearerVoice-Studio",
@@ -6303,7 +6268,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 39,
-   "rank": 197
+   "rank": 196
   },
   {
    "name": "ultravox",
@@ -6328,7 +6293,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 39,
-   "rank": 198
+   "rank": 197
   },
   {
    "name": "metavoice-src",
@@ -6358,7 +6323,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 39,
-   "rank": 199
+   "rank": 198
   },
   {
    "name": "distil-whisper",
@@ -6382,7 +6347,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 200
+   "rank": 199
   },
   {
    "name": "speech-to-text-wavenet",
@@ -6402,7 +6367,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 39,
-   "rank": 201
+   "rank": 200
   },
   {
    "name": "TensorFlowTTS",
@@ -6443,7 +6408,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 39,
-   "rank": 202
+   "rank": 201
   },
   {
    "name": "seed-vc",
@@ -6466,7 +6431,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 38,
-   "rank": 203
+   "rank": 202
   },
   {
    "name": "olivia",
@@ -6501,7 +6466,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 204
+   "rank": 203
   },
   {
    "name": "whisper_streaming",
@@ -6521,7 +6486,7 @@
    "topics": [],
    "category": "Voice Agents & Realtime",
    "momentum": 38,
-   "rank": 205
+   "rank": 204
   },
   {
    "name": "whisper-web",
@@ -6545,7 +6510,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 206
+   "rank": 205
   },
   {
    "name": "iOS-10-Sampler",
@@ -6579,7 +6544,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 38,
-   "rank": 207
+   "rank": 206
   },
   {
    "name": "whisper-standalone-win",
@@ -6615,7 +6580,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 38,
-   "rank": 208
+   "rank": 207
   },
   {
    "name": "3D-Speaker",
@@ -6646,7 +6611,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 38,
-   "rank": 209
+   "rank": 208
   },
   {
    "name": "Chatterbox-TTS-Server",
@@ -6686,7 +6651,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 38,
-   "rank": 210
+   "rank": 209
   },
   {
    "name": "Chenyme-AAVT",
@@ -6713,7 +6678,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 37,
-   "rank": 211
+   "rank": 210
   },
   {
    "name": "delayed-streams-modeling",
@@ -6733,7 +6698,7 @@
    "topics": [],
    "category": "Toolkits & Frameworks",
    "momentum": 37,
-   "rank": 212
+   "rank": 211
   },
   {
    "name": "jarvis",
@@ -6757,7 +6722,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 37,
-   "rank": 213
+   "rank": 212
   },
   {
    "name": "tacotron",
@@ -6784,7 +6749,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 214
+   "rank": 213
   },
   {
    "name": "whisper-vits-svc",
@@ -6815,7 +6780,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 37,
-   "rank": 215
+   "rank": 214
   },
   {
    "name": "Automatic_Speech_Recognition",
@@ -6854,7 +6819,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 37,
-   "rank": 216
+   "rank": 215
   },
   {
    "name": "MARS5-TTS",
@@ -6881,7 +6846,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 217
+   "rank": 216
   },
   {
    "name": "gTTS",
@@ -6911,7 +6876,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 218
+   "rank": 217
   },
   {
    "name": "STT",
@@ -6942,7 +6907,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 37,
-   "rank": 219
+   "rank": 218
   },
   {
    "name": "marytts",
@@ -6967,7 +6932,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 37,
-   "rank": 220
+   "rank": 219
   },
   {
    "name": "juliusjs",
@@ -6987,7 +6952,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 221
+   "rank": 220
   },
   {
    "name": "pytorch-kaldi",
@@ -7025,7 +6990,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 36,
-   "rank": 222
+   "rank": 221
   },
   {
    "name": "hifi-gan",
@@ -7054,7 +7019,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 36,
-   "rank": 223
+   "rank": 222
   },
   {
    "name": "wavenet_vocoder",
@@ -7083,7 +7048,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 36,
-   "rank": 224
+   "rank": 223
   },
   {
    "name": "Tacotron-2",
@@ -7111,7 +7076,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 36,
-   "rank": 225
+   "rank": 224
   },
   {
    "name": "IMS-Toucan",
@@ -7140,7 +7105,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 36,
-   "rank": 226
+   "rank": 225
   },
   {
    "name": "soloud",
@@ -7181,7 +7146,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 227
+   "rank": 226
   },
   {
    "name": "tensorflow-speech-recognition",
@@ -7208,7 +7173,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 36,
-   "rank": 228
+   "rank": 227
   },
   {
    "name": "deepspeech.pytorch",
@@ -7228,7 +7193,7 @@
    "topics": [],
    "category": "Speech-to-Text",
    "momentum": 36,
-   "rank": 229
+   "rank": 228
   },
   {
    "name": "FireRedASR",
@@ -7259,7 +7224,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 230
+   "rank": 229
   },
   {
    "name": "masr",
@@ -7284,7 +7249,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 231
+   "rank": 230
   },
   {
    "name": "julius",
@@ -7309,7 +7274,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 232
+   "rank": 231
   },
   {
    "name": "alan-sdk-ios",
@@ -7343,7 +7308,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 35,
-   "rank": 233
+   "rank": 232
   },
   {
    "name": "wer_are_we",
@@ -7367,7 +7332,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 234
+   "rank": 233
   },
   {
    "name": "alan-sdk-android",
@@ -7405,7 +7370,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 35,
-   "rank": 235
+   "rank": 234
   },
   {
    "name": "sherpa-ncnn",
@@ -7436,7 +7401,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 35,
-   "rank": 236
+   "rank": 235
   },
   {
    "name": "bailing",
@@ -7469,7 +7434,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 35,
-   "rank": 237
+   "rank": 236
   },
   {
    "name": "alan-sdk-flutter",
@@ -7508,7 +7473,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 35,
-   "rank": 238
+   "rank": 237
   },
   {
    "name": "jovo-framework",
@@ -7539,7 +7504,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 34,
-   "rank": 239
+   "rank": 238
   },
   {
    "name": "alan-sdk-ionic",
@@ -7577,7 +7542,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 34,
-   "rank": 240
+   "rank": 239
   },
   {
    "name": "video-analyzer",
@@ -7602,7 +7567,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 34,
-   "rank": 241
+   "rank": 240
   },
   {
    "name": "delta",
@@ -7643,7 +7608,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 34,
-   "rank": 242
+   "rank": 241
   },
   {
    "name": "uis-rnn",
@@ -7671,7 +7636,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 34,
-   "rank": 243
+   "rank": 242
   },
   {
    "name": "OpenSeq2Seq",
@@ -7706,7 +7671,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 34,
-   "rank": 244
+   "rank": 243
   },
   {
    "name": "Voice-Cloning-App",
@@ -7734,7 +7699,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 34,
-   "rank": 245
+   "rank": 244
   },
   {
    "name": "VideoChat",
@@ -7767,7 +7732,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 33,
-   "rank": 246
+   "rank": 245
   },
   {
    "name": "merlin",
@@ -7797,7 +7762,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 33,
-   "rank": 247
+   "rank": 246
   },
   {
    "name": "Twocast",
@@ -7822,7 +7787,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 33,
-   "rank": 248
+   "rank": 247
   },
   {
    "name": "audio-webui",
@@ -7860,7 +7825,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 33,
-   "rank": 249
+   "rank": 248
   },
   {
    "name": "alan-sdk-cordova",
@@ -7891,7 +7856,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 33,
-   "rank": 250
+   "rank": 249
   },
   {
    "name": "Qwen3-Audiobook-Converter",
@@ -7911,7 +7876,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 33,
-   "rank": 251
+   "rank": 250
   },
   {
    "name": "autovc",
@@ -7938,7 +7903,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 33,
-   "rank": 252
+   "rank": 251
   },
   {
    "name": "YourTTS",
@@ -7964,7 +7929,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 32,
-   "rank": 253
+   "rank": 252
   },
   {
    "name": "Python-ai-assistant",
@@ -8005,7 +7970,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 32,
-   "rank": 254
+   "rank": 253
   },
   {
    "name": "blurr",
@@ -8041,7 +8006,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 32,
-   "rank": 255
+   "rank": 254
   },
   {
    "name": "Step-Audio-EditX",
@@ -8073,7 +8038,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 32,
-   "rank": 256
+   "rank": 255
   },
   {
    "name": "NISQA",
@@ -8104,7 +8069,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 32,
-   "rank": 257
+   "rank": 256
   },
   {
    "name": "rhasspy",
@@ -8143,7 +8108,7 @@
    ],
    "category": "Voice Agents & Realtime",
    "momentum": 32,
-   "rank": 258
+   "rank": 257
   },
   {
    "name": "transcriptionstream",
@@ -8174,7 +8139,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 32,
-   "rank": 259
+   "rank": 258
   },
   {
    "name": "Gesture-Controlled-Virtual-Mouse",
@@ -8209,7 +8174,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 32,
-   "rank": 260
+   "rank": 259
   },
   {
    "name": "Voice-Clone-Studio",
@@ -8229,7 +8194,7 @@
    "topics": [],
    "category": "Voice Cloning & Conversion",
    "momentum": 32,
-   "rank": 261
+   "rank": 260
   },
   {
    "name": "Multilingual_Text_to_Speech",
@@ -8256,7 +8221,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 31,
-   "rank": 262
+   "rank": 261
   },
   {
    "name": "FreeVC",
@@ -8280,7 +8245,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 31,
-   "rank": 263
+   "rank": 262
   },
   {
    "name": "bark-voice-cloning-HuBERT-quantizer",
@@ -8306,7 +8271,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 31,
-   "rank": 264
+   "rank": 263
   },
   {
    "name": "SpeechSplit",
@@ -8330,7 +8295,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 30,
-   "rank": 265
+   "rank": 264
   },
   {
    "name": "chatterbox-tts-api",
@@ -8370,7 +8335,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 266
+   "rank": 265
   },
   {
    "name": "pyannote-whisper",
@@ -8397,7 +8362,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 30,
-   "rank": 267
+   "rank": 266
   },
   {
    "name": "vits2",
@@ -8426,7 +8391,7 @@
    ],
    "category": "Text-to-Speech",
    "momentum": 30,
-   "rank": 268
+   "rank": 267
   },
   {
    "name": "lora-svc",
@@ -8457,7 +8422,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 269
+   "rank": 268
   },
   {
    "name": "sprocket",
@@ -8482,7 +8447,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 270
+   "rank": 269
   },
   {
    "name": "CycleGAN-VC2",
@@ -8515,7 +8480,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 30,
-   "rank": 271
+   "rank": 270
   },
   {
    "name": "Voice-Converter-CycleGAN",
@@ -8539,7 +8504,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 29,
-   "rank": 272
+   "rank": 271
   },
   {
    "name": "knn-vc",
@@ -8567,7 +8532,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 29,
-   "rank": 273
+   "rank": 272
   },
   {
    "name": "StarGAN-Voice-Conversion",
@@ -8591,7 +8556,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 29,
-   "rank": 274
+   "rank": 273
   },
   {
    "name": "rvc-webui",
@@ -8616,7 +8581,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 29,
-   "rank": 275
+   "rank": 274
   },
   {
    "name": "StarGANv2-VC",
@@ -8644,7 +8609,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 29,
-   "rank": 276
+   "rank": 275
   },
   {
    "name": "gantts",
@@ -8670,7 +8635,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 29,
-   "rank": 277
+   "rank": 276
   },
   {
    "name": "Speaker-Diarization",
@@ -8696,7 +8661,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 29,
-   "rank": 278
+   "rank": 277
   },
   {
    "name": "subtitles-view",
@@ -8726,7 +8691,7 @@
    ],
    "category": "Speech-to-Text",
    "momentum": 29,
-   "rank": 279
+   "rank": 278
   },
   {
    "name": "speech_dataset",
@@ -8766,7 +8731,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 29,
-   "rank": 280
+   "rank": 279
   },
   {
    "name": "soft-vc",
@@ -8790,7 +8755,7 @@
    ],
    "category": "Voice Cloning & Conversion",
    "momentum": 28,
-   "rank": 281
+   "rank": 280
   },
   {
    "name": "EEND",
@@ -8818,7 +8783,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 28,
-   "rank": 282
+   "rank": 281
   },
   {
    "name": "reverb",
@@ -8858,7 +8823,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 28,
-   "rank": 283
+   "rank": 282
   },
   {
    "name": "VAF_2",
@@ -8884,7 +8849,7 @@
    ],
    "category": "Toolkits & Frameworks",
    "momentum": 28,
-   "rank": 284
+   "rank": 283
   },
   {
    "name": "pytorch_xvectors",
@@ -8909,7 +8874,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 27,
-   "rank": 285
+   "rank": 284
   },
   {
    "name": "parakeet.cpp",
@@ -8939,7 +8904,7 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 27,
-   "rank": 286
+   "rank": 285
   },
   {
    "name": "speechlib",
@@ -8968,7 +8933,32 @@
    ],
    "category": "Enhancement & Analysis",
    "momentum": 26,
-   "rank": 287
+   "rank": 286
   }
- ]
+ ],
+ "review_references": [
+  {
+   "full_name": "harry0703/MoneyPrinterTurbo",
+   "slug": "harry0703-moneyprinterturbo",
+   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+   "description": "A video-production workflow with voiceover and optional Whisper subtitle transcription, retained as an integration reference.",
+   "status": "inclusion_review_reference",
+   "reviewed_on": "2026-11-03",
+   "last_source_snapshot_at": "2026-11-02T19:37:30.881849+00:00",
+   "reason": "The primary documentation describes video creation and an optional upstream Whisper transcription integration. It does not support presenting this application as the leading core Speech-to-Text implementation. Core spoken-language-stack inclusion is withheld pending review.",
+   "evidence_needed": "Document an independently reusable speech interface/toolkit and the appropriate existing voice category, or explicitly approve broader downstream integration scope. Do not infer ASR quality from repository popularity.",
+   "primary_sources": [
+    {
+     "url": "https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md",
+     "title": "harry0703/MoneyPrinterTurbo primary README, reviewed November3,2026"
+    }
+   ]
+  }
+ ],
+ "inclusion_review": {
+  "reviewed_on": "2026-11-03",
+  "criteria": "Ranked entries target the spoken-language stack: synthesis, transcription, voice conversion, realtime voice agents and speech toolkits or analysis. A downstream application using speech is not automatically a core speech implementation.",
+  "scope": "Only explicitly reviewed identities are withheld from ranked results; other entries retain their existing automated inclusion status, not independent verification.",
+  "score_basis": "Existing momentum scores retain their original source-snapshot basis; core ranks and category counts are recounted. Future refreshes exclude these reviewed identities before score normalization."
+ }
 }

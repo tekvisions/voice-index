@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/p/nvidia-nemo-nemo",
+      "destination": "/p/nvidia-nemo-speech/",
+      "permanent": true
+    },
+    {
+      "source": "/p/nvidia-nemo-nemo/",
+      "destination": "/p/nvidia-nemo-speech/",
+      "permanent": true
+    }
+  ]
+}

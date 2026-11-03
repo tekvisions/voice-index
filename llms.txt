@@ -1,50 +1,71 @@
 # The Voice AI Index
 
-> The living index of voice & speech AI tooling — text-to-speech, speech recognition,
-> voice cloning & conversion, realtime voice agents, toolkits — ranked daily by GitHub momentum.
+> The Voice AI Index: a source-backed catalog published by Kymata Labs.
 
-Updated: 2026-11-02T19:37:30.881849+00:00
-Tools indexed: 287
+Snapshot collected: 2026-11-02T19:37:30.881849+00:00
+Current catalog records: 286
 
-## Top voice & speech tools by momentum
+## Sources and interpretation
 
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — momentum 87, ⭐137439 — Speech-to-Text — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automate
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — momentum 85, ⭐98849 — Voice Cloning & Conversion — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, vi
-- [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) — momentum 84, ⭐11044 — Voice Agents & Realtime — A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is 
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — momentum 83, ⭐64618 — Voice Cloning & Conversion — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) — momentum 82, ⭐54868 — Speech-to-Text — Port of OpenAI's Whisper model in C/C++
-- [cjpais/Handy](https://github.com/cjpais/Handy) — momentum 81, ⭐37107 — Speech-to-Text — A free, open source, and extensible speech-to-text application that works completely offline.
-- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) — momentum 81, ⭐35223 — Voice Agents & Realtime — Build and run agents you can see, understand and trust.
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) — momentum 80, ⭐33547 — Text-to-Speech — SOTA Open Source TTS
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) — momentum 80, ⭐32387 — Enhancement & Analysis — Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whispe
-- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) — momentum 79, ⭐26410 — Speech-to-Text — Faster Whisper transcription with CTranslate2
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) — momentum 78, ⭐59276 — Speech-to-Text — The open-source AI voice studio. Clone, dictate, create.
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) — momentum 78, ⭐19623 — Speech-to-Text — Translate the video from one language to another and embed dubbing & subtitles.
-- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) — momentum 78, ⭐18681 — Toolkits & Frameworks — A scalable generative AI framework built for researchers and developers working on Large Language Mo
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — momentum 77, ⭐40976 — Text-to-Speech — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L
-- [m-bain/whisperX](https://github.com/m-bain/whisperX) — momentum 77, ⭐25023 — Enhancement & Analysis — WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [leon-ai/leon](https://github.com/leon-ai/leon) — momentum 77, ⭐17629 — Voice Agents & Realtime — 🧠 Leon is your open-source personal assistant.
-- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) — momentum 77, ⭐17007 — Toolkits & Frameworks — Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and th
-- [livekit/agents](https://github.com/livekit/agents) — momentum 77, ⭐15062 — Toolkits & Frameworks — A framework for building realtime voice AI agents 🤖🎙️📹
-- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) — momentum 76, ⭐16215 — Voice Cloning & Conversion — High-Quality Voice Cloning TTS for 600+ Languages
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) — momentum 76, ⭐15686 — Toolkits & Frameworks — Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD 
-- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) — momentum 76, ⭐14097 — Voice Agents & Realtime — Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace f
-- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — momentum 76, ⭐13628 — Voice Agents & Realtime — Build voice agents with open-source models
-- [openai/whisper](https://github.com/openai/whisper) — momentum 75, ⭐111792 — Speech-to-Text — Robust Speech Recognition via Large-Scale Weak Supervision
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) — momentum 75, ⭐11383 — Voice Agents & Realtime — Very low latency speech to text, intent recognition, and text to speech, for building voice agents a
-- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) — momentum 75, ⭐11219 — Toolkits & Frameworks — Open-source framework for conversational voice AI agents
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) — momentum 75, ⭐11204 — Voice Agents & Realtime — Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Dee
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) — momentum 75, ⭐11051 — Enhancement & Analysis — Download video and audio from 1000+ sites, transcribe locally with speaker labels, and summarize, tr
-- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) — momentum 75, ⭐10750 — Enhancement & Analysis — Neural building blocks for speaker diarization: speech activity detection, speaker change detection,
-- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) — momentum 75, ⭐10566 — Speech-to-Text — Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-fi
-- [espnet/espnet](https://github.com/espnet/espnet) — momentum 75, ⭐10004 — Toolkits & Frameworks — End-to-End Speech Processing Toolkit
-- [leemysw/yovoice](https://github.com/leemysw/yovoice) — momentum 75, ⭐2038 — Voice Cloning & Conversion — Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) — momentum 74, ⭐10227 — Voice Agents & Realtime — A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake
-- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) — momentum 74, ⭐9329 — Voice Cloning & Conversion — so-vits-svc fork with realtime support, improved interface and more features.
-- [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) — momentum 74, ⭐8199 — Voice Agents & Realtime — Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider
-- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) — momentum 74, ⭐8184 — Toolkits & Frameworks — A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX
-- [Osmantic/ODS](https://github.com/Osmantic/ODS) — momentum 74, ⭐7745 — Speech-to-Text — ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac
-- [index-tts/index-tts](https://github.com/index-tts/index-tts) — momentum 73, ⭐24886 — Text-to-Speech — An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) — momentum 73, ⭐20483 — Voice Cloning & Conversion — Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
-- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) — momentum 73, ⭐15224 — Toolkits & Frameworks — Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and 
-- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) — momentum 73, ⭐10581 — Enhancement & Analysis — Silero VAD: pre-trained enterprise-grade Voice Activity Detector
+- [Public GitHub repository searches and API signals](https://docs.github.com/en/rest/search)
+- [Collection and scoring source](https://github.com/tekvisions/voice-index/blob/main/build_data.py)
+
+Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 days (32%), and a young-repository bonus for repositories under 120 days old with at least 20 stars (13%), rounded and clamped to 1–100. Configured searches select the catalog; coverage is not exhaustive. Stars and repository activity are proxies, not measured adoption, reviews, security or product-quality benchmarks.
+
+## Readable and structured resources
+
+- [Catalog](https://voice.kymatalabs.com/)
+- [Selection guide and evidence limits](https://voice.kymatalabs.com/#catalog-guidance)
+- [Methodology and snapshot date](https://voice.kymatalabs.com/#catalog-methodology)
+- [Current source snapshot (JSON)](https://voice.kymatalabs.com/data.json)
+- [Sitemap of published pages](https://voice.kymatalabs.com/sitemap.xml)
+
+## Current catalog sample
+
+- [debpalash/VoiceStudio](https://voice.kymatalabs.com/p/debpalash-voicestudio/) — Voice Cloning & Conversion
+- [lemomo-ai/lemo-opuscar](https://voice.kymatalabs.com/p/lemomo-ai-lemo-opuscar/) — Voice Agents & Realtime
+- [RVC-Boss/GPT-SoVITS](https://voice.kymatalabs.com/p/rvc-boss-gpt-sovits/) — Voice Cloning & Conversion
+- [ggml-org/whisper.cpp](https://voice.kymatalabs.com/p/ggml-org-whisper-cpp/) — Speech-to-Text
+- [cjpais/Handy](https://voice.kymatalabs.com/p/cjpais-handy/) — Speech-to-Text
+- [agentscope-ai/agentscope](https://voice.kymatalabs.com/p/agentscope-ai-agentscope/) — Voice Agents & Realtime
+- [fishaudio/fish-speech](https://voice.kymatalabs.com/p/fishaudio-fish-speech/) — Text-to-Speech
+- [Zackriya-Solutions/meetily](https://voice.kymatalabs.com/p/zackriya-solutions-meetily/) — Enhancement & Analysis
+- [SYSTRAN/faster-whisper](https://voice.kymatalabs.com/p/systran-faster-whisper/) — Speech-to-Text
+- [jamiepine/voicebox](https://voice.kymatalabs.com/p/jamiepine-voicebox/) — Speech-to-Text
+- [jianchang512/pyvideotrans](https://voice.kymatalabs.com/p/jianchang512-pyvideotrans/) — Speech-to-Text
+- [NVIDIA-NeMo/Speech](https://voice.kymatalabs.com/p/nvidia-nemo-speech/) — Toolkits & Frameworks
+- [OpenBMB/VoxCPM](https://voice.kymatalabs.com/p/openbmb-voxcpm/) — Text-to-Speech
+- [m-bain/whisperX](https://voice.kymatalabs.com/p/m-bain-whisperx/) — Enhancement & Analysis
+- [leon-ai/leon](https://voice.kymatalabs.com/p/leon-ai-leon/) — Voice Agents & Realtime
+- [pipecat-ai/pipecat](https://voice.kymatalabs.com/p/pipecat-ai-pipecat/) — Toolkits & Frameworks
+- [livekit/agents](https://voice.kymatalabs.com/p/livekit-agents/) — Toolkits & Frameworks
+- [k2-fsa/OmniVoice](https://voice.kymatalabs.com/p/k2-fsa-omnivoice/) — Voice Cloning & Conversion
+- [k2-fsa/sherpa-onnx](https://voice.kymatalabs.com/p/k2-fsa-sherpa-onnx/) — Toolkits & Frameworks
+- [krillinai/OpenCreator](https://voice.kymatalabs.com/p/krillinai-opencreator/) — Voice Agents & Realtime
+- [huggingface/speech-to-speech](https://voice.kymatalabs.com/p/huggingface-speech-to-speech/) — Voice Agents & Realtime
+- [openai/whisper](https://voice.kymatalabs.com/p/openai-whisper/) — Speech-to-Text
+- [moonshine-ai/moonshine](https://voice.kymatalabs.com/p/moonshine-ai-moonshine/) — Voice Agents & Realtime
+- [TEN-framework/ten-framework](https://voice.kymatalabs.com/p/ten-framework-ten-framework/) — Toolkits & Frameworks
+- [QuentinFuxa/WhisperLiveKit](https://voice.kymatalabs.com/p/quentinfuxa-whisperlivekit/) — Voice Agents & Realtime
+- [nexmoe/VidBee](https://voice.kymatalabs.com/p/nexmoe-vidbee/) — Enhancement & Analysis
+- [pyannote/pyannote-audio](https://voice.kymatalabs.com/p/pyannote-pyannote-audio/) — Enhancement & Analysis
+- [OpenWhispr/openwhispr](https://voice.kymatalabs.com/p/openwhispr-openwhispr/) — Speech-to-Text
+- [espnet/espnet](https://voice.kymatalabs.com/p/espnet-espnet/) — Toolkits & Frameworks
+- [leemysw/yovoice](https://voice.kymatalabs.com/p/leemysw-yovoice/) — Voice Cloning & Conversion
+- [KoljaB/RealtimeSTT](https://voice.kymatalabs.com/p/koljab-realtimestt/) — Voice Agents & Realtime
+- [voicepaw/so-vits-svc-fork](https://voice.kymatalabs.com/p/voicepaw-so-vits-svc-fork/) — Voice Cloning & Conversion
+- [GetStream/Vision-Agents](https://voice.kymatalabs.com/p/getstream-vision-agents/) — Voice Agents & Realtime
+- [Blaizzy/mlx-audio](https://voice.kymatalabs.com/p/blaizzy-mlx-audio/) — Toolkits & Frameworks
+- [Osmantic/ODS](https://voice.kymatalabs.com/p/osmantic-ods/) — Speech-to-Text
+- [index-tts/index-tts](https://voice.kymatalabs.com/p/index-tts-index-tts/) — Text-to-Speech
+- [DrewThomasson/ebook2audiobook](https://voice.kymatalabs.com/p/drewthomasson-ebook2audiobook/) — Voice Cloning & Conversion
+- [alphacep/vosk-api](https://voice.kymatalabs.com/p/alphacep-vosk-api/) — Toolkits & Frameworks
+- [snakers4/silero-vad](https://voice.kymatalabs.com/p/snakers4-silero-vad/) — Enhancement & Analysis
+- [fishaudio/Bert-VITS2](https://voice.kymatalabs.com/p/fishaudio-bert-vits2/) — Voice Agents & Realtime
+
+## Unranked inclusion-review references
+
+Ranked entries target the spoken-language stack: synthesis, transcription, voice conversion, realtime voice agents and speech toolkits or analysis. A downstream application using speech is not automatically a core speech implementation.
+Only explicitly reviewed identities are withheld from ranked results; other entries retain their existing automated inclusion status, not independent verification.
+Existing momentum scores retain their original source-snapshot basis; core ranks and category counts are recounted. Future refreshes exclude these reviewed identities before score normalization.
+- [harry0703/MoneyPrinterTurbo](https://voice.kymatalabs.com/p/harry0703-moneyprinterturbo/) — unranked inclusion-review reference, reviewed 2026-11-03: A video-production workflow with voiceover and optional Whisper subtitle transcription, retained as an integration reference.

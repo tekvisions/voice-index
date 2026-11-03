@@ -1,0 +1,122 @@
+{
+  "host": "voice.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose voice AI tools for synthesis, recognition or realtime use",
+  "answer": "First separate text-to-speech, speech-to-text and an interactive voice pipeline. A library that synthesizes speech, a runtime that supports several speech tasks and an application that calls those libraries need different evaluation questions.",
+  "choices": [
+    {
+      "categories": [
+        "Text-to-Speech"
+      ],
+      "task": "Generate speech from text",
+      "guidance": "Check the specific voice/model, language, license, runtime version and target hardware. A runtime name alone is not a reproducible voice-quality or speed result."
+    },
+    {
+      "categories": [
+        "Speech-to-Text",
+        "Enhancement & Analysis"
+      ],
+      "task": "Transcribe or clean recorded audio",
+      "guidance": "Use audio representative of your speakers, noise, accents and recording setup. Define whether transcription errors, timestamps, diarization or enhancement quality matter for the task."
+    },
+    {
+      "categories": [
+        "Voice Agents & Realtime",
+        "Toolkits & Frameworks"
+      ],
+      "task": "Build a live conversation",
+      "guidance": "Evaluate capture, voice activity detection, recognition, model response and synthesis as a complete pipeline. Measure interruption behavior and time to first audible output on the intended device."
+    }
+  ],
+  "checks": [
+    "Record runtime and model versions, voice/language, CPU model, thread count, precision and sample rate.",
+    "Check runtime and model/voice licenses independently, and verify whether the configured path is local or uses external services.",
+    "Treat upstream performance statements as claims tied to their stated environment until reproduced."
+  ],
+  "unknowns": "This index has not run a matched Piper/MeloTTS/sherpa-onnx CPU benchmark, listening test or recognition evaluation. Availability of a repository is not proof of suitability for a particular speaker or device.",
+  "related": [
+    {
+      "url": "https://localllm.kymatalabs.com/",
+      "label": "localllm"
+    },
+    {
+      "url": "https://agents.kymatalabs.com/",
+      "label": "agents"
+    },
+    {
+      "url": "https://modelradar.kymatalabs.com/",
+      "label": "modelradar"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/voice-index/blob/11d6dcb54dadaf20b5a8efbd96a5fe1f77d4f951/build_data.py",
+      "reviewed_on": "2026-11-03"
+    },
+    {
+      "title": "OHF-Voice/piper1-gpl README.md",
+      "url": "https://github.com/OHF-Voice/piper1-gpl/blob/main/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "cce5c4c5883ec65bca085727dc822602301af0fe"
+    },
+    {
+      "title": "rhasspy/piper README.md",
+      "url": "https://github.com/rhasspy/piper/blob/master/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "2c1767d548e9fa5186c53489bfed5e498facbd4b"
+    },
+    {
+      "title": "myshell-ai/MeloTTS README.md",
+      "url": "https://github.com/myshell-ai/MeloTTS/blob/main/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "46cddb7756ac2a50814458a031ed8635ca52a2ba"
+    },
+    {
+      "title": "k2-fsa/sherpa-onnx README.md",
+      "url": "https://github.com/k2-fsa/sherpa-onnx/blob/master/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "1164e4573f9026974b275451d73c3b818b7d7c01"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo README-en.md",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "38c86e6f2981b29ac42aa1ab44acdc8937183a22"
+    }
+  ],
+  "featured": [
+    {
+      "entity": "OHF-Voice/piper1-gpl",
+      "note": "Piper is described upstream as a local speech-synthesis engine. The legacy rhasspy/piper README directs development here.",
+      "source": "https://github.com/OHF-Voice/piper1-gpl/blob/main/README.md"
+    },
+    {
+      "entity": "myshell-ai/MeloTTS",
+      "note": "MeloTTS is documented as a multilingual text-to-speech library. Its CPU realtime claim is not a matched benchmark against the other entries here.",
+      "source": "https://github.com/myshell-ai/MeloTTS/blob/main/README.md"
+    },
+    {
+      "entity": "k2-fsa/sherpa-onnx",
+      "note": "sherpa-onnx documents several speech tasks, including synthesis and recognition. Select a TTS model when making a synthesis comparison.",
+      "source": "https://github.com/k2-fsa/sherpa-onnx/blob/master/README.md"
+    }
+  ],
+  "comparison": {
+    "title": "Piper vs MeloTTS vs sherpa-onnx on CPU",
+    "answer": "No verified comparable winner is established here. Compare the specific synthesis models and voices on the same machine; a runtime name or an upstream realtime claim does not determine the result.",
+    "protocol": [
+      "Fix the CPU, operating system, thread count, runtime/model revisions, precision, voice/language and sample rate.",
+      "Use the same representative text set. Record cold initialization separately from warmed synthesis, time to first audio, total synthesis time and peak memory.",
+      "Report real-time factor as synthesis wall-clock seconds divided by generated audio seconds, with the raw timings and output durations. Keep quality/listening checks alongside speed results.",
+      "Publish failures, settings and limitations. Mark untested hardware, languages and voices unknown; do not extrapolate a universal fastest engine."
+    ]
+  },
+  "scope_notes": [
+    {
+      "entity": "harry0703/MoneyPrinterTurbo",
+      "note": "A video-production workflow with voiceover and optional Whisper subtitle transcription, retained as an integration reference. The primary documentation describes video creation and an optional upstream Whisper transcription integration. It does not support presenting this application as the leading core Speech-to-Text implementation. Core spoken-language-stack inclusion is withheld pending review.",
+      "source": "https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md"
+    }
+  ]
+}

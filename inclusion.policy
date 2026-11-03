@@ -1,0 +1,23 @@
+{
+  "host": "voice.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "criteria": "Ranked entries target the spoken-language stack: synthesis, transcription, voice conversion, realtime voice agents and speech toolkits or analysis. A downstream application using speech is not automatically a core speech implementation.",
+  "decisions": [
+    {
+      "entity": "harry0703/MoneyPrinterTurbo",
+      "slug": "harry0703-moneyprinterturbo",
+      "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "disposition": "review_reference",
+      "summary": "A video-production workflow with voiceover and optional Whisper subtitle transcription, retained as an integration reference.",
+      "reason": "The primary documentation describes video creation and an optional upstream Whisper transcription integration. It does not support presenting this application as the leading core Speech-to-Text implementation. Core spoken-language-stack inclusion is withheld pending review.",
+      "evidence_needed": "Document an independently reusable speech interface/toolkit and the appropriate existing voice category, or explicitly approve broader downstream integration scope. Do not infer ASR quality from repository popularity.",
+      "last_source_snapshot_at": "2026-11-02T19:37:30.881849+00:00",
+      "evidence": [
+        {
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md",
+          "title": "harry0703/MoneyPrinterTurbo primary README, reviewed November3,2026"
+        }
+      ]
+    }
+  ]
+}
