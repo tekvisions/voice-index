@@ -11,5 +11,8 @@
       "destination": "/p/nvidia-nemo-speech/",
       "permanent": true
     }
-  ]
+  ],
+  "git": {
+    "deploymentEnabled": false
+  }
 }
