@@ -17,9 +17,9 @@
   <url><loc>https://voice.kymatalabs.com/p/m-bain-whisperx/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/leon-ai-leon/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/pipecat-ai-pipecat/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/livekit-agents/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/k2-fsa-omnivoice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/k2-fsa-sherpa-onnx/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/livekit-agents/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/krillinai-opencreator/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/huggingface-speech-to-speech/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/openai-whisper/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -29,44 +29,44 @@
   <url><loc>https://voice.kymatalabs.com/p/nexmoe-vidbee/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/pyannote-pyannote-audio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/openwhispr-openwhispr/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/espnet-espnet/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/leemysw-yovoice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/koljab-realtimestt/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/espnet-espnet/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/voicepaw-so-vits-svc-fork/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/fishaudio-bert-vits2/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/jdepoix-youtube-transcript-api/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/getstream-vision-agents/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/blaizzy-mlx-audio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/osmantic-ods/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/index-tts-index-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/drewthomasson-ebook2audiobook/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/alphacep-vosk-api/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/snakers4-silero-vad/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/fishaudio-bert-vits2/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/jdepoix-youtube-transcript-api/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/blaizzy-mlx-audio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/osmantic-ods/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/dramaclaw-dramaclaw/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/ohf-voice-piper1-gpl/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/espeak-ng-espeak-ng/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/huanshere-videolingo/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/rany2-edge-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/speechbrain-speechbrain/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/talater-annyang/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/argmaxinc-argmax-oss-swift/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/denizsafak-abogen/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/buxuku-smartsub/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/ohf-voice-piper1-gpl/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/getopenscreen-openscreen/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/buxuku-smartsub/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/liuzhao1225-youdub-webui/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/remsky-kokoro-fastapi/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/picovoice-porcupine/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/anomalyco-hex/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/qwenaudio-qwen-audio-agent/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/wenet-e2e-wenet/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/argmaxinc-argmax-oss-swift/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/picovoice-porcupine/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/openutau-openutau/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/qwenaudio-qwen-audio-agent/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/paddlepaddle-paddlex/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/wenet-e2e-wenet/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/umlx5h-llplayer/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/open-less-openless/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/paddlepaddle-paddlex/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/koljab-realtimetts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/iahispano-applio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/qwenaudio-sensevoice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/snakers4-silero-models/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/gradio-app-fastrtc/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/koljab-realtimetts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/fluidinference-fluidaudio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/project-n-e-k-o-n-e-k-o/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/heywillow-willow/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -74,110 +74,110 @@
   <url><loc>https://voice.kymatalabs.com/p/pytorch-audio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/jxlarrea-kiosk-satellite/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/vincentsch-explainroo/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/const-me-whisper/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/qwenaudio-sensevoice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/tensorflow-lingvo/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/ddalcu-mlx-serve/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/beiyege-01-dsh-voice-ai-girlfriend/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/jankeesvw-omarchy-meeting-recorder/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/const-me-whisper/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/cmusphinx-pocketsphinx/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/beiyege-01-dsh-voice-ai-girlfriend/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/seacen-meetcap/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/supertone-oss-archive-supertonic/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/cmusphinx-pocketsphinx/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/high-logic-genie-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/sgl-project-sglang-omni/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/yuezhiai-jonex/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/espeak-ng-espeak-ng/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/cactus-compute-cactus/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/openmoss-moss-transcribe-diarize/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/handy-computer-transcribe-cpp/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/tuya-tuyaopen/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/high-logic-genie-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/mkiol-dsnote/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/sgl-project-sglang-omni/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/yuezhiai-jonex/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/rvc-project-retrieval-based-voice-conversion-webui/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/cactus-compute-cactus/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/openmoss-moss-transcribe-diarize/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/amicalhq-amical/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/espressif-esp-sr/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/wilbowes-echomuse/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/rvc-project-retrieval-based-voice-conversion-webui/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/hkjarral-ava-ai-voice-agent-for-asterisk/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/ahmetoner-whisper-asr-webservice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/xzf-thu-voicemem/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/lynpoint-cyberverse/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/amicalhq-amical/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/hkjarral-ava-ai-voice-agent-for-asterisk/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/soniqo-speech-swift/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/ahmetoner-whisper-asr-webservice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/ten-framework-ten-vad/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/dicioteam-dicio-android/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/aratako-irodori-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/livekit-examples-agent-starter-react/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/soniqo-speech-swift/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/uberi-speech-recognition/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/netease-youdao-emotivoice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/linto-ai-whisper-timestamped/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/ten-framework-ten-vad/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/royshil-obs-localvocal/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/wstxda-switchai/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/xvirobotics-metabot/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/livekit-examples-agent-starter-react/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/daggerhashimoto-openclaw-nerve/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/bolna-ai-bolna/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/rapidaai-voice-ai/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/spaceamoeba-t-tapq/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/linto-ai-whisper-timestamped/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/qwenaudio-fun-asr/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/wstxda-switchai/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/xvirobotics-metabot/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/sipeter-clonetts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/markovka17-dla/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/rapidaai-voice-ai/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/zavora-ai-adk-rust/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/lukaszliniewicz-pandrator/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/spaceamoeba-t-tapq/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/paddlepaddle-paddlespeech/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/flashlight-wav2letter/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/openmoss-moss-tts-nano/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/markovka17-dla/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/lukaszliniewicz-pandrator/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/fireredteam-fireredtts3/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/hehehai-voxt/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/corvo007-miosub/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/wq2012-spectralcluster/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/kishanrajput23-jarvis-desktop-voice-assistant/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/hehehai-voxt/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/izwi-ai-izwi/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/kishanrajput23-jarvis-desktop-voice-assistant/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/altunenes-parakeet-rs/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/mahmoudashraf97-whisper-diarization/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/semperai-amica/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/wenet-e2e-wespeaker/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/patterai-patter/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/fluxions-ai-vui/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/michaelwilhelmsen-humla/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/mahmoudashraf97-whisper-diarization/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/wenet-e2e-wespeaker/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/cheshirecc-faster-whisper-gui/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/jxlarrea-voice-satellite-card-integration/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/timoncool-dub-studio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/abus-aikorea-voice-pro/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/google-speaker-id/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/ath-maas-pixelle-video/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/cheshirecc-faster-whisper-gui/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/jxlarrea-voice-satellite-card-integration/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/xiangyuecn-recorder/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/yanshengjia-ml-road/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/harry0703-audionotes/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/openmoss-moss-ttsd/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/hakoradev-voder/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/dext0r-yandex-smart-home/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/google-speaker-id/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/ath-maas-pixelle-video/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/ethanplusai-jarvis/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/moonintheriver-diffsinger/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/samuel-vitorino-sopro/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/dext0r-yandex-smart-home/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/matthartman-ghost-pepper/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/samuel-vitorino-sopro/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/corentinj-real-time-voice-cloning/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/ahmadhassan-bted-b/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/readbeyond-aeneas/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/fikrikarim-parlor/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/autoark-eva-os/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/coqui-ai-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/qwenaudio-cosyvoice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/ahmadhassan-bted-b/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/autoark-eva-os/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/2noise-chattts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/myshell-ai-openvoice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/babysor-mockingbird/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/svc-develop-team-so-vits-svc/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/jianchang512-chattts-ui/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/finrandojin-alexandria-audiobook/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/svc-develop-team-so-vits-svc/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/mozilla-deepspeech/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/qwenlm-qwen3-asr/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/janvarev-irene-voice-assistant/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/narcotic-sh-senko/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/nari-labs-dia/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/jasonppy-voicecraft/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/x007xyz-flycut-caption/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/narcotic-sh-senko/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/kaldi-asr-kaldi/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/ysharma3501-luxtts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/qwenlm-qwen3-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/misolabsai-misotts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/rhasspy-piper/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/open-mmlab-amphion/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/mozilla-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/misolabsai-misotts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/juanmc2005-diart/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/jianchang512-clone-voice/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/santinic-audiblez/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -188,11 +188,11 @@
   <url><loc>https://voice.kymatalabs.com/p/zyphra-zonos/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/wzpan-wukong-robot/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/mycroftai-mycroft-core/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/kevinwang676-bark-voice-cloning/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/yl4579-styletts2/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/autoark-gpa/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/kevinwang676-bark-voice-cloning/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/rikorose-deepfilternet/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/alibaba-unified-audio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/rikorose-deepfilternet/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/jianchang512-stt/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/sanchit-gandhi-whisper-jax/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/whisperspeech-whisperspeech/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -209,7 +209,6 @@
   <url><loc>https://voice.kymatalabs.com/p/shu223-ios-10-sampler/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/purfview-whisper-standalone-win/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/modelscope-3d-speaker/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/devnen-chatterbox-tts-server/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/chenyme-chenyme-aavt/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/kyutai-labs-delayed-streams-modeling/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/priler-jarvis/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -217,6 +216,7 @@
   <url><loc>https://voice.kymatalabs.com/p/playvoice-whisper-vits-svc/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/zzw922cn-automatic-speech-recognition/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/camb-ai-mars5-tts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/devnen-chatterbox-tts-server/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/pndurette-gtts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/coqui-ai-stt/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/marytts-marytts/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -240,8 +240,8 @@
   <url><loc>https://voice.kymatalabs.com/p/alan-ai-alan-sdk-flutter/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/jovotech-jovo-framework/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/alan-ai-alan-sdk-ionic/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/byjlw-video-analyzer/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/delta-ml-delta/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/byjlw-video-analyzer/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/google-uis-rnn/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/nvidia-openseq2seq/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/voice-cloning-app-voice-cloning-app/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -257,10 +257,10 @@
   <url><loc>https://voice.kymatalabs.com/p/ayush0chaudhary-blurr/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/stepfun-ai-step-audio-editx/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/gabrielmittag-nisqa/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://voice.kymatalabs.com/p/franckyb-voice-clone-studio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/synesthesiam-rhasspy/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/transcriptionstream-transcriptionstream/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/viral-doshi-gesture-controlled-virtual-mouse/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://voice.kymatalabs.com/p/franckyb-voice-clone-studio/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/tomiinek-multilingual-text-to-speech/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/olawod-freevc/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://voice.kymatalabs.com/p/gitmylo-bark-voice-cloning-hubert-quantizer/</loc><lastmod>2026-11-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
