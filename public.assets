@@ -19,7 +19,9 @@
     "style.css",
     "vercel.json",
     "fleet.css",
-    "fleet.js"
+    "fleet.js",
+    "atlas.css",
+    "atlas.js"
   ],
   "legacy_source_paths": [
     "p/2noise-chattts/index.html",
