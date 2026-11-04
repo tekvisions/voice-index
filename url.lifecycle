@@ -293,7 +293,59 @@
     "https://voice.kymatalabs.com/p/frikallo-parakeet-cpp/",
     "https://voice.kymatalabs.com/p/navodpeiris-speechlib/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "blaizzy-mlx-audio",
+      "entity": "Blaizzy/mlx-audio",
+      "canonical_url": "https://voice.kymatalabs.com/p/blaizzy-mlx-audio/",
+      "repository": "https://github.com/Neywa-Labs/mlx-audio",
+      "summary": "An MLX audio library for Apple Silicon. Blaizzy/mlx-audio moved to Neywa-Labs/mlx-audio, retaining GitHub ID 895253710.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-03T17:10:15.147252+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Neywa-Labs/mlx-audio/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-app-fastrtc",
+      "entity": "gradio-app/fastrtc",
+      "canonical_url": "https://voice.kymatalabs.com/p/gradio-app-fastrtc/",
+      "repository": "https://github.com/gradio-app/fastrtc",
+      "summary": "A Python library for building real-time audio and video communication interfaces.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-03T17:10:15.147252+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/gradio-app/fastrtc/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "heywillow-willow",
+      "entity": "HeyWillow/willow",
+      "canonical_url": "https://voice.kymatalabs.com/p/heywillow-willow/",
+      "repository": "https://github.com/HeyWillow/willow",
+      "summary": "A voice-assistant project with documented self-hosted inference components and device integration.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-03T17:10:15.147252+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/HeyWillow/willow/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
   "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
@@ -311,5 +363,7 @@
       "reason": "Exact same GitHub repository ID resolves from old identifier to current identifier; target was independently verified by parent HTTP200/indexable/selfcanonical/in captured sitemap about2026-11-03T03:16UTC.",
       "release_state": "reviewed proposed alias; no deployment or production approval"
     }
-  ]
+  ],
+  "site_name": "The Voice AI Index",
+  "detail_prefix": "p"
 }
