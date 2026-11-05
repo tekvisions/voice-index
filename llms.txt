@@ -2,8 +2,8 @@
 
 > The Voice AI Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-03T17:10:15.147252+00:00
-Current catalog records: 286
+Snapshot collected: 2026-11-05T17:29:11.436516+00:00
+Current catalog records: 285
 
 ## Sources and interpretation
 
@@ -23,9 +23,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 ## Current catalog sample
 
 - [debpalash/VoiceStudio](https://voice.kymatalabs.com/p/debpalash-voicestudio/) — Voice Cloning & Conversion
-- [lemomo-ai/lemo-opuscar](https://voice.kymatalabs.com/p/lemomo-ai-lemo-opuscar/) — Voice Agents & Realtime
 - [RVC-Boss/GPT-SoVITS](https://voice.kymatalabs.com/p/rvc-boss-gpt-sovits/) — Voice Cloning & Conversion
 - [ggml-org/whisper.cpp](https://voice.kymatalabs.com/p/ggml-org-whisper-cpp/) — Speech-to-Text
+- [lemomo-ai/lemo-opuscar](https://voice.kymatalabs.com/p/lemomo-ai-lemo-opuscar/) — Voice Agents & Realtime
+- [OpenBMB/VoxCPM](https://voice.kymatalabs.com/p/openbmb-voxcpm/) — Text-to-Speech
 - [cjpais/Handy](https://voice.kymatalabs.com/p/cjpais-handy/) — Speech-to-Text
 - [agentscope-ai/agentscope](https://voice.kymatalabs.com/p/agentscope-ai-agentscope/) — Voice Agents & Realtime
 - [fishaudio/fish-speech](https://voice.kymatalabs.com/p/fishaudio-fish-speech/) — Text-to-Speech
@@ -34,34 +35,33 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [jamiepine/voicebox](https://voice.kymatalabs.com/p/jamiepine-voicebox/) — Speech-to-Text
 - [jianchang512/pyvideotrans](https://voice.kymatalabs.com/p/jianchang512-pyvideotrans/) — Speech-to-Text
 - [NVIDIA-NeMo/Speech](https://voice.kymatalabs.com/p/nvidia-nemo-speech/) — Toolkits & Frameworks
-- [OpenBMB/VoxCPM](https://voice.kymatalabs.com/p/openbmb-voxcpm/) — Text-to-Speech
-- [m-bain/whisperX](https://voice.kymatalabs.com/p/m-bain-whisperx/) — Enhancement & Analysis
 - [leon-ai/leon](https://voice.kymatalabs.com/p/leon-ai-leon/) — Voice Agents & Realtime
 - [pipecat-ai/pipecat](https://voice.kymatalabs.com/p/pipecat-ai-pipecat/) — Toolkits & Frameworks
-- [k2-fsa/OmniVoice](https://voice.kymatalabs.com/p/k2-fsa-omnivoice/) — Voice Cloning & Conversion
 - [k2-fsa/sherpa-onnx](https://voice.kymatalabs.com/p/k2-fsa-sherpa-onnx/) — Toolkits & Frameworks
 - [livekit/agents](https://voice.kymatalabs.com/p/livekit-agents/) — Toolkits & Frameworks
+- [m-bain/whisperX](https://voice.kymatalabs.com/p/m-bain-whisperx/) — Enhancement & Analysis
+- [k2-fsa/OmniVoice](https://voice.kymatalabs.com/p/k2-fsa-omnivoice/) — Voice Cloning & Conversion
 - [krillinai/OpenCreator](https://voice.kymatalabs.com/p/krillinai-opencreator/) — Voice Agents & Realtime
 - [huggingface/speech-to-speech](https://voice.kymatalabs.com/p/huggingface-speech-to-speech/) — Voice Agents & Realtime
-- [openai/whisper](https://voice.kymatalabs.com/p/openai-whisper/) — Speech-to-Text
 - [moonshine-ai/moonshine](https://voice.kymatalabs.com/p/moonshine-ai-moonshine/) — Voice Agents & Realtime
 - [TEN-framework/ten-framework](https://voice.kymatalabs.com/p/ten-framework-ten-framework/) — Toolkits & Frameworks
-- [QuentinFuxa/WhisperLiveKit](https://voice.kymatalabs.com/p/quentinfuxa-whisperlivekit/) — Voice Agents & Realtime
 - [nexmoe/VidBee](https://voice.kymatalabs.com/p/nexmoe-vidbee/) — Enhancement & Analysis
-- [pyannote/pyannote-audio](https://voice.kymatalabs.com/p/pyannote-pyannote-audio/) — Enhancement & Analysis
 - [OpenWhispr/openwhispr](https://voice.kymatalabs.com/p/openwhispr-openwhispr/) — Speech-to-Text
+- [pyannote/pyannote-audio](https://voice.kymatalabs.com/p/pyannote-pyannote-audio/) — Enhancement & Analysis
 - [leemysw/yovoice](https://voice.kymatalabs.com/p/leemysw-yovoice/) — Voice Cloning & Conversion
+- [openai/whisper](https://voice.kymatalabs.com/p/openai-whisper/) — Speech-to-Text
+- [QuentinFuxa/WhisperLiveKit](https://voice.kymatalabs.com/p/quentinfuxa-whisperlivekit/) — Voice Agents & Realtime
 - [KoljaB/RealtimeSTT](https://voice.kymatalabs.com/p/koljab-realtimestt/) — Voice Agents & Realtime
 - [espnet/espnet](https://voice.kymatalabs.com/p/espnet-espnet/) — Toolkits & Frameworks
 - [voicepaw/so-vits-svc-fork](https://voice.kymatalabs.com/p/voicepaw-so-vits-svc-fork/) — Voice Cloning & Conversion
-- [fishaudio/Bert-VITS2](https://voice.kymatalabs.com/p/fishaudio-bert-vits2/) — Voice Agents & Realtime
 - [jdepoix/youtube-transcript-api](https://voice.kymatalabs.com/p/jdepoix-youtube-transcript-api/) — Speech-to-Text
+- [Neywa-Labs/mlx-audio](https://voice.kymatalabs.com/p/neywa-labs-mlx-audio/) — Toolkits & Frameworks
 - [GetStream/Vision-Agents](https://voice.kymatalabs.com/p/getstream-vision-agents/) — Voice Agents & Realtime
-- [index-tts/index-tts](https://voice.kymatalabs.com/p/index-tts-index-tts/) — Text-to-Speech
 - [DrewThomasson/ebook2audiobook](https://voice.kymatalabs.com/p/drewthomasson-ebook2audiobook/) — Voice Cloning & Conversion
 - [alphacep/vosk-api](https://voice.kymatalabs.com/p/alphacep-vosk-api/) — Toolkits & Frameworks
-- [snakers4/silero-vad](https://voice.kymatalabs.com/p/snakers4-silero-vad/) — Enhancement & Analysis
-- [Blaizzy/mlx-audio](https://voice.kymatalabs.com/p/blaizzy-mlx-audio/) — Toolkits & Frameworks
+- [fishaudio/Bert-VITS2](https://voice.kymatalabs.com/p/fishaudio-bert-vits2/) — Voice Agents & Realtime
+- [Osmantic/ODS](https://voice.kymatalabs.com/p/osmantic-ods/) — Speech-to-Text
+- [dramaclaw/dramaclaw](https://voice.kymatalabs.com/p/dramaclaw-dramaclaw/) — Voice Agents & Realtime
 
 ## Unranked inclusion-review references
 
