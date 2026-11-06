@@ -344,6 +344,63 @@
           "title": "Publisher documentation"
         }
       ]
+    },
+    {
+      "slug": "cactus-compute-cactus",
+      "entity": "cactus-compute/cactus",
+      "canonical_url": "https://voice.kymatalabs.com/p/cactus-compute-cactus/",
+      "repository": "https://github.com/cactus-compute/cactus",
+      "summary": "Cactus provides a Python interface for local text, speech and vision models. Its publisher documents speech transcription through Whistle and downloads engine and model files on first use.",
+      "selection_context": "Use to evaluate local speech and multimodal integration; verify supported language, platform, model and license requirements.",
+      "limitations": "Publisher documentation is source evidence, not an independent runtime, safety, licensing or performance certification. Confirm current terms, requirements and outputs. No current catalog rank or momentum score is assigned to a retained reference.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-05T17:29:11.436516+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher repository and documentation (availability checked 6 November 2026)",
+          "url": "https://github.com/cactus-compute/cactus"
+        }
+      ],
+      "evidence_sha256": "a42b9691fa5e2b9c6818cf83add3fe321ce604c5192c39d589c0924338fe0d50",
+      "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
+    },
+    {
+      "slug": "spaceamoeba-t-tapq",
+      "entity": "spaceamoeba-t/tapq",
+      "canonical_url": "https://voice.kymatalabs.com/p/spaceamoeba-t-tapq/",
+      "repository": "https://github.com/spaceamoeba-t/tapq",
+      "summary": "TapQ provides a macOS voice loop for Claude Code and Codex sessions. Current documentation describes tapq-kernel and says version 0.6 replaces older integrations preserved in a legacy branch.",
+      "selection_context": "Use to locate the current voice interface and migration notes. Do not assume removed wake-word, on-device-speech or editor integrations remain available.",
+      "limitations": "Publisher documentation is source evidence, not an independent runtime, safety, licensing or performance certification. Confirm current terms, requirements and outputs. No current catalog rank or momentum score is assigned to a retained reference.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-05T17:29:11.436516+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher repository and documentation (availability checked 6 November 2026)",
+          "url": "https://github.com/spaceamoeba-t/tapq"
+        }
+      ],
+      "evidence_sha256": "9cf93d1a379153318ac7f382d8e2710c0781ed5a9783019917ae11eda4b91739",
+      "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
+    },
+    {
+      "slug": "timoncool-dub-studio",
+      "entity": "timoncool/dub-studio",
+      "canonical_url": "https://voice.kymatalabs.com/p/timoncool-dub-studio/",
+      "repository": "https://github.com/timoncool/dub-studio",
+      "summary": "Dub Studio is a Windows video-dubbing application with local transcription, translation, voice and editing workflows. The publisher also documents optional cloud offloading, so local defaults do not guarantee every configured workflow remains offline.",
+      "selection_context": "Use to review local-versus-cloud processing options and hardware requirements; verify rights to source media and voice use before evaluating it.",
+      "limitations": "Publisher documentation is source evidence, not an independent runtime, safety, licensing or performance certification. Confirm current terms, requirements and outputs. No current catalog rank or momentum score is assigned to a retained reference.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-05T17:29:11.436516+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher repository and documentation (availability checked 6 November 2026)",
+          "url": "https://github.com/timoncool/dub-studio"
+        }
+      ],
+      "evidence_sha256": "9f1759ccc4f48c73355729fefc47fd10b948cdcdb23c5e32fd361e6fca14cc05",
+      "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
     }
   ],
   "retirements": [],
