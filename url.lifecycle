@@ -401,6 +401,156 @@
       ],
       "evidence_sha256": "9f1759ccc4f48c73355729fefc47fd10b948cdcdb23c5e32fd361e6fca14cc05",
       "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
+    },
+    {
+      "slug": "chenyme-chenyme-aavt",
+      "entity": "chenyme/Chenyme-AAVT",
+      "canonical_url": "https://voice.kymatalabs.com/p/chenyme-chenyme-aavt/",
+      "repository": "https://github.com/chenyme/Chenyme-AAVT",
+      "summary": "Publisher description of chenyme/Chenyme-AAVT (translated from Chinese): a fully automatic audio and video translation project that uses Whisper for speech recognition, a large language model to translate subtitles, and then merges the subtitles into a translated video. The saved 2026-11-08 catalog classified it under Speech-to-Text.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Speech-to-Text work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. The publisher has archived the repository, so it is read-only and no longer maintained there.",
+      "last_catalog_snapshot": "2026-11-08T16:05:35.688113+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/chenyme/Chenyme-AAVT/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "6e24b645119e429ff8b8d65731d3a7b14374f71a6a8f8715713876596f865d53",
+          "blob_sha": "f8c1b0eb217b49dc70ca06108fe8e24960d2c922"
+        }
+      ],
+      "evidence_sha256": "6e24b645119e429ff8b8d65731d3a7b14374f71a6a8f8715713876596f865d53"
+    },
+    {
+      "slug": "getstream-vision-agents",
+      "entity": "GetStream/Vision-Agents",
+      "canonical_url": "https://voice.kymatalabs.com/p/getstream-vision-agents/",
+      "repository": "https://github.com/GetStream/Agents",
+      "summary": "Publisher description of GetStream/Vision-Agents: Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. The saved 2026-11-08 catalog classified it under Voice Agents & Realtime.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Voice Agents & Realtime work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves GetStream/Vision-Agents to GetStream/Agents. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-08T16:05:35.688113+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/GetStream/Vision-Agents",
+      "primary_sources": [
+        {
+          "url": "https://github.com/GetStream/Agents/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9a4de13e2f5df7bfab8a06a5a2a5ee5c38991811113af1d2bd26711e059d1625",
+          "blob_sha": "f841704cb515bdbecb8af2498f0ffa2552e558a0"
+        }
+      ],
+      "evidence_sha256": "9a4de13e2f5df7bfab8a06a5a2a5ee5c38991811113af1d2bd26711e059d1625"
+    },
+    {
+      "slug": "hehehai-voxt",
+      "entity": "hehehai/voxt",
+      "canonical_url": "https://voice.kymatalabs.com/p/hehehai-voxt/",
+      "repository": "https://github.com/hehehai/VoxtMini",
+      "summary": "Publisher description of hehehai/voxt: We've moved to SGLang Omni Voxt: https://github.com/sgl-project/sglang-omni/tree/main/Voxt. The saved 2026-11-08 catalog classified it under Speech-to-Text.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Speech-to-Text work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves hehehai/voxt to hehehai/VoxtMini. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-08T16:05:35.688113+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/hehehai/voxt",
+      "primary_sources": [
+        {
+          "url": "https://github.com/hehehai/VoxtMini/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "c9a6dea11bbe94b599b5f8c7d1df206003ea3dd53333d2e5054d5c018cd9bb3b",
+          "blob_sha": "77ef2b5fba2aaf7c72e7e4f98c36249d265c7aaa"
+        }
+      ],
+      "evidence_sha256": "c9a6dea11bbe94b599b5f8c7d1df206003ea3dd53333d2e5054d5c018cd9bb3b"
+    },
+    {
+      "slug": "liuzhao1225-youdub-webui",
+      "entity": "liuzhao1225/YouDub-webui",
+      "canonical_url": "https://voice.kymatalabs.com/p/liuzhao1225-youdub-webui/",
+      "repository": "https://github.com/liuzhao1225/YouDub-Desktop",
+      "summary": "Publisher description of liuzhao1225/YouDub-webui: Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. The saved 2026-11-08 catalog classified it under Voice Cloning & Conversion.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Voice Cloning & Conversion work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves liuzhao1225/YouDub-webui to liuzhao1225/YouDub-Desktop. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-08T16:05:35.688113+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/liuzhao1225/YouDub-webui",
+      "primary_sources": [
+        {
+          "url": "https://github.com/liuzhao1225/YouDub-Desktop/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "eaab53b31735b95c885aa10c614fa369a03a37cff2bc383593a279f30eb5fb9f",
+          "blob_sha": "66675e7b10763ebd9612358636d9f7887345dc3d"
+        }
+      ],
+      "evidence_sha256": "eaab53b31735b95c885aa10c614fa369a03a37cff2bc383593a279f30eb5fb9f"
+    },
+    {
+      "slug": "navodpeiris-speechlib",
+      "entity": "NavodPeiris/speechlib",
+      "canonical_url": "https://voice.kymatalabs.com/p/navodpeiris-speechlib/",
+      "repository": "https://github.com/NavodPeiris/speechlib",
+      "summary": "Publisher description of NavodPeiris/speechlib: Speechlib is a library that unifies speaker diarization, transcription and speaker recognition in a single pipeline to create transcripts for audio conversations with actual speaker names and time tags. This library also contains audio preprocessor functions. The saved 2026-11-08 catalog classified it under Enhancement & Analysis.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Enhancement & Analysis work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-08T16:05:35.688113+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/NavodPeiris/speechlib/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "fdaae4747498e5d0c2d0322bd67e1e2e2e169368905dee7a9738d879a6828210",
+          "blob_sha": "b84c3f5464e084998a90254c698c9b8cfda222fa"
+        }
+      ],
+      "evidence_sha256": "fdaae4747498e5d0c2d0322bd67e1e2e2e169368905dee7a9738d879a6828210"
+    },
+    {
+      "slug": "rvc-boss-gpt-sovits",
+      "entity": "RVC-Boss/GPT-SoVITS",
+      "canonical_url": "https://voice.kymatalabs.com/p/rvc-boss-gpt-sovits/",
+      "repository": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "summary": "Publisher description of RVC-Boss/GPT-SoVITS: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning). The saved 2026-11-08 catalog classified it under Voice Cloning & Conversion.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Voice Cloning & Conversion work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-08T16:05:35.688113+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/RVC-Boss/GPT-SoVITS/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "b680976764d99f61d647394df4948a5698591dc9de1dd802d57f4598fdbb02d1",
+          "blob_sha": "ab7ad20a4d4f50828c869bd961e572b9ad4f9cca"
+        }
+      ],
+      "evidence_sha256": "b680976764d99f61d647394df4948a5698591dc9de1dd802d57f4598fdbb02d1"
+    },
+    {
+      "slug": "viral-doshi-gesture-controlled-virtual-mouse",
+      "entity": "Viral-Doshi/Gesture-Controlled-Virtual-Mouse",
+      "canonical_url": "https://voice.kymatalabs.com/p/viral-doshi-gesture-controlled-virtual-mouse/",
+      "repository": "https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse",
+      "summary": "Publisher description of Viral-Doshi/Gesture-Controlled-Virtual-Mouse: Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python. The saved 2026-11-08 catalog classified it under Speech-to-Text.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Speech-to-Text work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-08T16:05:35.688113+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "898efb176e55cfe4e4fb1cc2551a7d54b4015248634695a72dde9b5c457c5bf9",
+          "blob_sha": "383337ef11c8d82e3e5eb1dc7ca778a9ea56dbfd"
+        }
+      ],
+      "evidence_sha256": "898efb176e55cfe4e4fb1cc2551a7d54b4015248634695a72dde9b5c457c5bf9"
     }
   ],
   "retirements": [],
