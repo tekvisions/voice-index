@@ -575,6 +575,29 @@
         }
       ],
       "evidence_sha256": "f181a72d81168b20228b51c69d9bde73926eb690359ec1c51cc73e6c16cf7de3"
+    },
+    {
+      "slug": "lukaszliniewicz-pandrator",
+      "entity": "lukaszliniewicz/Pandrator",
+      "canonical_url": "https://voice.kymatalabs.com/p/lukaszliniewicz-pandrator/",
+      "repository": "https://github.com/lukaszliniewicz/Pandrator",
+      "summary": "Publisher description of lukaszliniewicz/Pandrator: Turn PDFs and EPUBs into audiobooks; subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app with a GUI, an installer and all-in-one packages. The saved 2026-11-26 catalog classified it under Voice Cloning & Conversion.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Voice Cloning & Conversion work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-26T19:09:20.189166+00:00",
+      "reviewed_on": "2026-11-27",
+      "last_successful_source_commit": "ba37dd193310c1b3fc802b558e598f8fe4dbebc2",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-27 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/lukaszliniewicz/Pandrator/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "949c9f1839185bf882d6262970ff9614944c5fc9ad470f1b15bb4f1e50ba507a",
+          "blob_sha": "68bf499bf8dde260e0661d43219c2f4f07efb3a0"
+        }
+      ],
+      "evidence_sha256": "949c9f1839185bf882d6262970ff9614944c5fc9ad470f1b15bb4f1e50ba507a"
     }
   ],
   "retirements": [],
